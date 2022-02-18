@@ -15,6 +15,9 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'FoxWallet', // Usually your GitHub org/user name.
   projectName: 'HelpCenter', // Usually your repo name.
+  plugins: [[ require.resolve('docusaurus-lunr-search'), {
+    languages: ['en', 'zh'] // language codes
+  }]],
 
   i18n: {
     defaultLocale: 'en',
