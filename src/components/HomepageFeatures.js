@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by heart',
+    title: 'Made with heart',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
