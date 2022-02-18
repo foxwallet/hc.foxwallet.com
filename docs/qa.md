@@ -5,7 +5,11 @@ sidebar_position: 5
 # Q&A
 
 ### Is FoxWallet decentralized ?
-Yes. FoxWallet is a decentralized multi-chain wallet based on its supporting to Filecoin ecology and it is committed to becoming the securest and simplest basic tool for users to enter the blockchain world. First, the FoxWallet supports the import of multiple sets of private keys and mnemonics, that is, users can manage all assets that support the public chains using one account. Secondly, as a decentralized wallet, users can store their digital assets here safely and trustingly. The private keys are kept by users themselves and the digital assets are stored on the blockchain. Users hold their own digital assets, and to them, the wallet is a tool to manage their on-chain assets and to read blockchain data. Back up private keys and mnemonics in a safe and correct manner to prevent the loss of digital assets effectively.
+Yes. FoxWallet is a decentralized multi-chain wallet based on its supporting to Web3 ecology and it is committed to becoming the securest and simplest basic tool for users to enter the blockchain world. 
+
+First, FoxWallet supports the import of multiple sets of private keys and mnemonics, that is, users can manage all assets that support the public chains using one account. 
+
+Secondly, as a decentralized wallet, users can store their digital assets here safely and trustingly. The private keys are kept by users themselves and the digital assets are stored on the blockchain. Users hold their own digital assets, and to them, the wallet is a tool to manage their on-chain assets and to read blockchain data. Back up private keys and mnemonics in a safe and correct manner to prevent the loss of digital assets effectively.
 
 ### How to delete a wallet ?
 The user cannot delete the wallet if there is only one in FoxWallet. If there are several ones, the user can delete one or more through “Settings-> Wallets” to the detailed wallet page and clicking the “trash bin” icon button in the upper right. 

@@ -3,31 +3,21 @@ sidebar_position: 3
 ---
 
 # 管理钱包
+通过 “设置页” => "管理钱包" 就可以进到此页面，用户可以添加/删除钱包，查看、新增、删除每个钱包下的账户。
 
-## 导入和创建
-If you need to create or import another wallet in FoxWallet, you can access the page through “Settings” -> ”Wallets”. 
+## 添加钱包
+在 “管理钱包” 页点击 “添加钱包” 按钮即进入添加钱包流程，可以选择 “创建钱包”、“导入助记词”、“导入私钥” 三种方式。
 
-Click on the “+” in the upper right corner. 
-
-Select the corresponding method and follow the prompts to create or restore a wallet.
+其中 “创建钱包” 会通过安全的随机算法新生成一套助记词，“导入助记词“ 支持导入其他钱包生成的12位或24位助记词，“导入私钥” 则和特定的链相关。
 
 ![](./img/add-wallet.png)
 
 ## 添加账户
-There are two ways to add an account in Fox Wallet.
-
-**Option 1**: Click the function button of switching wallets in the upper left corner of the” Wallet” page to enter the account list. Click “Add account”.
-
-![](./img/add-account-1.png)
-
-**Option 2**: Click “Wallets” on the “Settings” page. Select the wallet that needs adding an account to, and click “Add account” to finish.
+选择钱包进入 “钱包详情” 页面，然后点击 “添加账户” 的按钮就可以派生新账户了。注意：只有助记词钱包才支持派生多账户，私钥钱包是只有一个账户不可新增的。
 
 ![](./img/add-account-2.png)
 
 ## 删除钱包
-Enter the page through “Settings” -> ”Wallets”. 
-Select the wallet that needs to be deleted, click the “Trash” button in the upper right corner, and then click “Delete” to finish. 
-After the wallet is deleted, it can only be restored by seed phase or private key. 
-Please make sure it has been properly backed up.
+在“钱包详情”页，点击右上角的“...”按钮，在弹出的功能框里就有“删除钱包”的选项。需要注意删除钱包后唯一能恢复钱包的办法就是通过你自己事先备份好的助记词，否则神仙也帮不了。
 
 ![](./img/delete-wallet.png)
