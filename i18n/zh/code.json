@@ -194,5 +194,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "Introduction": {
+    "message": "介绍",
+    "description": "The title of introduction button"
   }
 }
