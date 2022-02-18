@@ -196,7 +196,7 @@
     "description": "The title of the tag list page"
   },
   "Introduction": {
-    "message": "介绍",
+    "message": "操作指南",
     "description": "The title of introduction button"
   }
 }
