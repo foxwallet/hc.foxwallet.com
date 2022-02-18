@@ -94,6 +94,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Import from filfox',
+                to: '/docs/filecoin-advance/import-from-filfox',
+              }
             ],
           },
           {
@@ -119,6 +123,10 @@ const config = {
               {
                 label: 'FoxWallet',
                 href: 'https://foxwallet.com/',
+              },
+              {
+                label: 'FILFOX',
+                href: 'https://filfox.info/',
               },
               {
                 label: '6Block',
