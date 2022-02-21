@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Introduction
 
 FoxWallet is a safe and easy-to-use decentralized Web3 wallet, dedicated to creating an entrance and connection to the Web3 world.
 
