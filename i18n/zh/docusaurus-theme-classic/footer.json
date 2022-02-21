@@ -13,7 +13,15 @@
   },
   "link.item.label.Tutorial": {
     "message": "入门",
-    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+    "description": "The label of footer link with label=Tutorial linking to /docs"
+  },
+  "link.item.label.Introduction": {
+    "message": "介绍",
+    "description": "The label of footer link with label=Tutorial linking to /docs"
+  },
+  "link.item.label.Import from filfox": {
+    "message": "从Filfox网页钱包迁移",
+    "description": "The label of footer link with label=Tutorial linking to /docs"
   },
   "link.item.label.Telegram": {
     "message": "Telegram",
