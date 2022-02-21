@@ -198,5 +198,9 @@
   "Introduction": {
     "message": "操作指南",
     "description": "The title of introduction button"
+  },
+  "FoxWallet Help Center": {
+    "message": "FoxWallet 帮助中心",
+    "description": "title"
   }
 }

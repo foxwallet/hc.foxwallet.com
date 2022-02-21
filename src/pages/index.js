@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={translate({message: 'FoxWallet Help Center'})}
       description="FoxWallet Help Center">
       <HomepageHeader />
       <main>
