@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Q&A
+# FAQs
 
 ### Is FoxWallet decentralized ?
 Yes. FoxWallet is a decentralized multi-chain wallet based on its supporting to Web3 ecology and it is committed to becoming the securest and simplest basic tool for users to enter the blockchain world. 
