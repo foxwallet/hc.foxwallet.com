@@ -7,10 +7,17 @@ FoxWallet 是一款安全好用的 去中心化 Web3 钱包，致力于成为 We
 
 FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代码通过了权威审计机构的[审计](https://www.certik.org/projects/fox-wallet)，是值得信赖的靠谱钱包。
 
-FoxWallet 支持通过私钥或助记词的方式导入多个钱包，助记词类型的钱包根据 [BIP44协议标准](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki) 可派生多个账户，每个账户对应唯一地址。
+## 开始使用
+* [创建与导入钱包](./create-wallet.md)
+* [管理钱包](./manage-wallet.md)
+* [收款与转账](./manage-funds.md)
+* [常见问题解答](./faq.md)
 
-FoxWallet 目前支持的链和币种有：ETH、BSC、FIL、ERC20、USDT 等，同时还提供了丰富了链上信息查阅和事件监控推送功能。
-
+## Filecoin 进阶
+* [矿工信息订阅](./filecoin-advance/subscribe-miner.md)
+* [错误扇区监控](./filecoin-advance/faulty-sector-monitor.md)
+* [账户余额监控](./filecoin-advance/balance-monitor.md)
+* [从 Filfox 网页钱包导入](./filecoin-advance/import-from-filfox.md)
 
 
 

@@ -3,6 +3,8 @@ sidebar_position: 3
 ---
 
 # Manage Wallet
+FoxWallet supports multiple wallets through privatekey or mnemonic import. The mnemonic type wallet is based on [BIP44 standard](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki). Multiple accounts can be assigned, each with a unique address.  
+
 You can view the "Manage Wallet" page via "Settings" => "Wallets", view/add/remove wallets and accounts. 
 
 
