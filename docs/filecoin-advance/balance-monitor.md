@@ -14,4 +14,6 @@ Then return to the previous page and click “Save”. You have enabled the func
 
 ![](../img/balance-monitor2.png)
 
+Once FoxWallet detects the balance is below the “lower bound”, a notification will send to your device.
+
 

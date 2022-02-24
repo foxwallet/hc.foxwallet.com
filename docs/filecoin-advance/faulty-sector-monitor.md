@@ -16,6 +16,8 @@ Then return to the previous page and click “Save”. You have enabled the moni
 
 ![](../img/faulty-sector-monitor2.png)
 
+Once FoxWallet detects the faulty sector count is beyond the “upper bound”, a notification will send to your device.
+
 ## Disable the Faulty Sector Monitor
 If you want to turn off the Faulty Sector Monitor of an enabled node, you can disable the “Enable” button of the corresponding node on the “Subscribe” page.
 

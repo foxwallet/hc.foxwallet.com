@@ -13,6 +13,8 @@ sidebar_position: 3
 
 ![](../img/balance-monitor2.png)
 
+当 FoxWallet 检测到该账户的余额低于“余额阈值”，报警通知会推送到用户的手机上。
+
 
 
 
