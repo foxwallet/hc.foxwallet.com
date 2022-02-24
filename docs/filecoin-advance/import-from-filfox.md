@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Import Wallet From Filfox
-Due to some historical principles, the mnemonic of the Filfox web wallet is not  compatible with other wallets. 
+Due to some historical reason, the mnemonic of the Filfox web wallet is not  compatible with other wallets. 
 
 If the mnemonic of the Filfox web wallet is directly imported into other wallets, different addresses will be obtained.
 

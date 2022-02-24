@@ -7,7 +7,7 @@ FoxWallet is a safe and easy-to-use decentralized Web3 wallet, dedicated to crea
 
 The FoxWallet team's experience in blockchain and network security, [audit](https://www.certik.org/projects/fox-wallet) with rich achievements through code, is a reliable development wallet for institutions in the industry.
 
-## Get started
+## Getting started
 * [Create & Import Wallet](./create-wallet.md)
 * [Manage Wallet](./manage-wallet.md)
 * [Manage Funds](./manage-funds.md)
