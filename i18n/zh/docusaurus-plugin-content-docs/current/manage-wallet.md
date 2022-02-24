@@ -16,15 +16,19 @@ FoxWallet 支持通过私钥或助记词的方式导入多个钱包，助记词�
 
 ## 切换钱包
 点击钱包页左上角的切换按钮。 
+
 ![](./img/switch-wallet-1.png)  
 
 点击弹窗左上角的管理图标。  
+
 ![](./img/switch-wallet-2.png)  
 
 选择你要切换的钱包。 
+
 ![](./img/switch-wallet-3.png)  
 
 返回上级页面，已经切换到新钱包了。 
+
 ![](./img/switch-wallet-4.png)  
 
 ## 删除钱包
