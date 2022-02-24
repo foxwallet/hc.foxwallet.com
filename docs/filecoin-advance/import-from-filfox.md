@@ -26,13 +26,13 @@ There are two ways to add wallet, one way is click the switch button at the top 
 
 ![](../img/add-wallet-1.png)
 
-The other way is click “Wallets” button on the top of the “Settings” page.
+The other way is click “Wallets” button in “Settings” page.
 
 ![](../img/add-wallet-2.png)
 
 And then you will enter the “Wallets” page.
 
-Click "Add wallet" —> Import private key —> set your wallet name and choose “Lotus private key” —> input your private key —> Summit.
+Click "Add wallet" —> Import private key —> set your wallet name and choose “Lotus private key” —> input your private key —> Submit.
 
 ![](../img/import-lotus.png)
 
