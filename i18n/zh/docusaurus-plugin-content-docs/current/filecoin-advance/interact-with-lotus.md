@@ -5,11 +5,11 @@ sidebar_position: 5
 # 和 lotus 的交互
 
 ## 从 lotus 导入
-1. 从 lotus 导出私钥
+### 1. 从 lotus 导出私钥
 
 使用命令: `lotus wallet export [address]`
 
-2. 导入私钥到 FoxWallet
+### 2. 导入私钥到 FoxWallet
 
 点击 设置页的 “管理钱包” 按钮。
 
@@ -20,7 +20,7 @@ sidebar_position: 5
 ![](../img/import-lotus.png)
 
 ## 导出到 lotus
-1. 从 FoxWallet 导出私钥
+### 1. 从 FoxWallet 导出私钥
 
 进入“管理钱包”页, 选择对应的钱包进入“钱包详情”页。
 ![](../img/add-wallet-2.png)
@@ -34,6 +34,6 @@ sidebar_position: 5
 私钥成功导出，复制下来。
 ![](../img/export-3.png)
 
-2. 导入私钥到 lotus  
+### 2. 导入私钥到 lotus  
 
 使用命令: `echo [private key] | lotus wallet import`
