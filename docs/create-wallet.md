@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Create & Import Wallet
 
-Read and check the “Fox Wallet terms” first after opening the wallet. 
+Read and check the “FoxWallet terms” first after opening the wallet. 
 
 Click “Create wallet”, and set the “Wallet name”, “Password” and “Password reminder” according to the prompts on the page. 
 
@@ -26,7 +26,7 @@ If you choose to back up your seed phase later, click “Remind me later” to e
 
 ### If you already have a wallet, directly select “Import Wallet”.
 
-In Fox Wallet, you can restore the wallet by importing seed phase or private key. Select the corresponding method, enter the information according to the prompts on the page. Click “Submit” to complete the import.
+In FoxWallet, you can restore the wallet by importing seed phase or private key. Select the corresponding method, enter the information according to the prompts on the page. Click “Submit” to complete the import.
 
 ![](./img/import-wallet.png)
 

@@ -9,9 +9,9 @@ If the mnemonic of the Filfox web wallet is directly imported into other wallets
 
 This article introduces a method to import the address on the Filfox web wallet into FoxWallet through the private key.
 
-## 1. Export private key from FILFOX wallet
+## 1. Export private key from FILFoxWallet
 
-Login your FILFOX wallet：[https://wallet.filfox.info](https://wallet.filfox.info)
+Login your FILFoxWallet：[https://wallet.filfox.info](https://wallet.filfox.info)
 
 Go to Settings —> Private key —> Input your password and comfirm —> Choose Lotus type private key —> Copy private key.
 
@@ -36,4 +36,4 @@ Click "Add wallet" —> Import private key —> set your wallet name and choose 
 
 ![](../img/import-lotus.png)
 
-Congratulations! You have imported your FILFOX Wallet to FoxWallet successfully! And now, just enjoy surfing in FoxWallet！
+Congratulations! You have imported your FILFoxWallet to FoxWallet successfully! And now, just enjoy surfing in FoxWallet！
