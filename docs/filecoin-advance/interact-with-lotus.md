@@ -25,15 +25,19 @@ Click "Add wallet" —> Import private key —> set your wallet name and choose 
 ### 1. Export private key from FoxWallet  
 
 Go to “Wallets” page, click your wallet to the "Wallet's detail" page.
+
 ![](../img/add-wallet-2.png)
 
 Click the "..." button in your account card.
+
 ![](../img/export-1.png)
 
 Choose "Export private key".
+
 ![](../img/export-2.png)
 
 Copy your private key.
+
 ![](../img/export-3.png)
 
 ### 2. Import private key to lotus  
