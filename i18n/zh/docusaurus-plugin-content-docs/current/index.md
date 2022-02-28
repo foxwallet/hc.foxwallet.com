@@ -18,6 +18,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [错误扇区监控](./filecoin-advance/faulty-sector-monitor.md)
 * [账户余额监控](./filecoin-advance/balance-monitor.md)
 * [从 Filfox 网页钱包导入](./filecoin-advance/import-from-filfox.md)
+* [和 lotus 的交互](./filecoin-advance/interact-with-lotus.md)
 
 
 
