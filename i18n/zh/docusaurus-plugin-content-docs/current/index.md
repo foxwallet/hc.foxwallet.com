@@ -7,6 +7,7 @@ FoxWallet 是一款安全好用的 去中心化 Web3 钱包，致力于成为 We
 
 FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代码通过了权威审计机构的[审计](https://www.certik.org/projects/fox-wallet)，是值得信赖的靠谱钱包。
 
+
 ## 开始使用
 * [创建与导入钱包](./create-wallet.md)
 * [收款与转账](./manage-funds.md)
