@@ -1,5 +1,9 @@
 ---
 sidebar_position: 3
+keywords:
+  - filecoin
+  - 余额
+  - 监控
 ---
 
 # 账户余额监控

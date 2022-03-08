@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+keywords:
+  - filfox
+  - mnemonic
+  - import
 ---
 
 # Import Wallet From Filfox

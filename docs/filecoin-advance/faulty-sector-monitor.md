@@ -1,5 +1,10 @@
 ---
 sidebar_position: 2
+keywords:
+  - filecoin
+  - faulty
+  - sector
+  - monitor
 ---
 
 # Faulty Sector Monitor

@@ -9,8 +9,9 @@ The FoxWallet development team has rich experience in blockchain and network sec
 
 ## Getting started
 * [Create & Import Wallet](./create-wallet.md)
-* [Manage Wallet](./manage-wallet.md)
 * [Manage Funds](./manage-funds.md)
+* [Manage Wallets](./manage-wallet.md)
+* [Speed Up or Cancel Transaction](./speed-up-or-cancel-tx.md)
 * [FAQs](./faq.md)
 
 ## Filecoin Advance

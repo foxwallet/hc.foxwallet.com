@@ -1,5 +1,9 @@
 ---
 sidebar_position: 5
+keywords:
+  - lotus
+  - mobile
+  - wallet
 ---
 
 # Interact with lotus

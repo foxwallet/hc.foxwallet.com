@@ -1,5 +1,10 @@
 ---
 sidebar_position: 2
+keywords:
+  - filecoin
+  - 错误扇区
+  - 抽查失败
+  - 监控
 ---
 
 # 错误扇区监控

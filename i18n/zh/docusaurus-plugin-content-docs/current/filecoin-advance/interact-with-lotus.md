@@ -1,5 +1,10 @@
 ---
 sidebar_position: 5
+keywords:
+  - lotus
+  - 钱包
+  - 导入
+  - 导出
 ---
 
 # 和 lotus 的交互

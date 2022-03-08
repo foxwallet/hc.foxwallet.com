@@ -1,5 +1,10 @@
 ---
 sidebar_position: 3
+keywords:
+  - filfox
+  - 助记词
+  - 迁移
+  - 导入
 ---
 
 # 从 Filfox 网页钱包导入

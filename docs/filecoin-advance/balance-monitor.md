@@ -1,5 +1,9 @@
 ---
 sidebar_position: 3
+keywords:
+  - filecoin
+  - balance
+  - monitor
 ---
 
 # Balance Monitor
