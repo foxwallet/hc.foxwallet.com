@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FoxWallet Help Center',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://hc.foxwallet.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -62,6 +62,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: 'FoxWallet, Fox Wallet, Filfox, filecoin, ethereum, ipfs, 6Block, Fox 钱包, 狐狸钱包, 以太坊'}],
       navbar: {
         title: 'Help Center',
         logo: {
