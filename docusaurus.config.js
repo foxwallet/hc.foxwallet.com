@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Telegram',
-                href: 'https://t.me/FoxWallet_Official',
+                href: 'https://t.me/FoxWallet_EN',
               },
               {
                 label: 'Twitter',
