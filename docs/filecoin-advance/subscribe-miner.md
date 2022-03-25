@@ -11,9 +11,9 @@ Click on “Data” in the bottom navigation bar to enter the Filecoin on-chain 
 
 Click the “Search “ button to enter the page, and enter the miner ID or address to search according to the page displayed. 
 
-According to the search result, click the corresponding sign “+” on the right side, then the subscription is successful. 
+When the search results are displayed, click the corresponding sign “+” on the right side, then the subscription is successful. 
 
-Go back to the “Data” page and you can see the relevant information of the node.
+Go back to the “Data” page, you can see the relevant information of the node.
 
 ![](../img/subscribe-miner.png)
 

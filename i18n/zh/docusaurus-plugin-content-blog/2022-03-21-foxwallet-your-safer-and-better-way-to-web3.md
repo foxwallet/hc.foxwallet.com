@@ -20,7 +20,7 @@ Web3时代，钱包不仅是存储、管理和交易数字货币的工具，更�
 对于Defi玩家来说，FoxWallet无疑是一种更优选择。在参与Defi的过程中，由于币种繁多、规则复杂，Defi协议的安全性难以把控，用户需要频繁的进行资产转移、币种转换等操作。FoxWallet支持多条链、多个地址，且每个地址相对独立，不仅能满足Defi玩家所有需求，而且各独立的地址进行不同Defi产品的操作可有效的隔离风险，在提高参与效率的同时，确保安全性。另外，FoxWallet允许用户直接通过钱包轻松进入热门Defi，在为用户带来流畅体验的同时，优化了参与流程，降低了操作难度，节约了时间和精力成本。
 
 ### 为用户带来更多功能
-目前，FoxWallet可以提供以太坊和Filecoin网络的转账服务，用户也可以直接通过钱包进行以太坊网络上的DApp交互。作为Web3的门户，FoxWallet也将在近期上线BNB Chain, Polygon, Evmos, Avalanche, Arbitrum, Aurora, Aelo, Celo, Cronos, ETC, Fantom, Gnosis, HECO, Moonriver, OKExChain。
+目前，FoxWallet可以提供以太坊和Filecoin网络的转账服务，用户也可以直接通过钱包进行以太坊网络上的DApp交互。作为Web3的门户，FoxWallet也将在近期上线BNB Chain, Polygon, Evmos, Avalanche, Arbitrum, Aurora, Aleo, Celo, Cronos, ETC, Fantom, Gnosis, HECO, Moonriver, OKExChain。
   
 除了一些基础功能外，FoxWallet的特色之一在于[全面支持Filecoin生态](https://hc.foxwallet.com/docs/filecoin-advance/)。用户可以在钱包内直接浏览链上实时数据，监控错误扇区和FIL地址余额。这让Filecoin生态的矿工可以更为方便的管理和追踪节点状态。访问 https://hc.foxwallet.com/docs/filecoin-advance/ 了解更多的功能。
 

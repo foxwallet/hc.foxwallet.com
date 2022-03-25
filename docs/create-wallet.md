@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Create & Import Wallet
 
-Read and check the “FoxWallet terms” first after opening the wallet. 
+Read the “FoxWallet terms” if you are opening the wallet for the first time. 
 
 Click “Create wallet”, and set the “Wallet name”, “Password” and “Password reminder” according to the prompts on the page. 
 
-FoxWallet does not store the password, nor retrieve it for you, so please keep it in mind. 
+Keep in mind that FoxWallet DOES NOT store the password NOR retrieve it for you. 
 
 After entering all the information, click “Submit”.
 
@@ -16,7 +16,7 @@ After entering all the information, click “Submit”.
 
 At this point, your wallet has been created, and you can choose to back up the seed phase immediately or later.
 
-If you choose to back up the seed phase immediately, after recording the seed phase, click “Confirm back up” to the verification session. 
+If you choose to back up the seed phase immediately, noting down your seed phases, and click “Confirm back up” to the verification session. 
 
 Enter the 12 seed phase in the verification box according the sequence you have backed up, and click “Next” to complete the backup.
 

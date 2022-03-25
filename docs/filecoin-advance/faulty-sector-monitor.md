@@ -10,7 +10,7 @@ keywords:
 # Faulty Sector Monitor
 ​​The FIL Faulty Sector Monitor can be employed to track any node’s storage power drops, even if the user does not own the node. 
 
-When the monitor is enabled, the FoxWallet backend will regularly check the node’s faulty sectors and notify users when the quantity exceeds a predefined threshold (The iOS system is preferred as the alert system is more reliable).
+When the monitor is enabled, the FoxWallet backend will regularly check the node’s faulty sectors and notify users when the quantity exceeds a predefined threshold (The iOS system is preferred as the notification system is more reliable).
 
 Click “Settings” => Select “Subscribe” => Click the “+” button at the top right of the “Subscribe” page => Click “FIL Faulty Sector Monitor”.
 

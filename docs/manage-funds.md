@@ -5,7 +5,7 @@ sidebar_position: 3
 # Manage Funds
 
 ### Switch networks
-FoxWallet supports multiple chains, you can switch them throw the button on the top left corner of the “Wallet”
+FoxWallet supports multiple chains, you can switch them through the button in the top left corner of the “Wallet”
 
 ![](./img/switch-wallet.png)
 
@@ -20,7 +20,7 @@ Click the coin you want to send in wallet main page => Click “transfer” => I
 
 ![](./img/transfer.png)
 
-Besides, FoxWallet offers a "transfer between my accounts" function。
+Besides, FoxWallet offers the operation of "transfer between my accounts"。
 
 ![](./img/transfer-in-wallet.png)
 
