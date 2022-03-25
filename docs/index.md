@@ -12,7 +12,25 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Manage Funds](./manage-funds.md)
 * [Manage Wallets](./manage-wallet.md)
 * [Speed Up or Cancel Transaction](./speed-up-or-cancel-tx.md)
+* [ERC20 Usage](./erc20-usage.md)
 * [FAQs](./faq.md)
+
+## Ethereum Advance
+* [Add Custom RPC](./ethereum-advance/add-custom-rpc.md)
+* [BNB Chain (BSC)](./ethereum-advance/bsc.md)
+* [Arbitrum](./ethereum-advance/arbitrum.md)
+* [Aurora](./ethereum-advance/aurora.md)
+* [Avalanche C-Chain](./ethereum-advance/avalanche.md)
+* [Celo](./ethereum-advance/celo.md)
+* [Cronos](./ethereum-advance/cronos.md)
+* [Evmos](./ethereum-advance/evmos.md)
+* [Fantom](./ethereum-advance/fantom.md)
+* [Gnosis Chain (xDAI)](./ethereum-advance/gnosis.md)
+* [Huobi ECO (HECO)](./ethereum-advance/heco.md)
+* [Moonriver](./ethereum-advance/moonriver.md)
+* [OKEX Chain](./ethereum-advance/okex.md)
+* [Optimism](./ethereum-advance/optimism.md)
+* [Polygon (Matic)](./ethereum-advance/polygon.md)
 
 ## Filecoin Advance
 * [Subscribe Miner](./filecoin-advance/subscribe-miner.md)
