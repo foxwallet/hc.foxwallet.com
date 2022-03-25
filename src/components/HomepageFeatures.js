@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Never stop to provide a strong reliability and good experience.
+        Never stop providing a strong reliability and good experience.
       </>
     ),
   },
