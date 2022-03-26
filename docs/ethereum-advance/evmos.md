@@ -1,7 +1,9 @@
 ---
 sidebar_position: 8
 keywords:
-  - Evmos Wallet
+  - Evmos wallet
 ---
 
 # Evmos
+
+FoxWallet is the best Evmos wallet.

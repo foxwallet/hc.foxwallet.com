@@ -1,8 +1,10 @@
 ---
 sidebar_position: 3
 keywords:
-  - Arbitrum Wallet
-  - layer2
+  - Arbitrum wallet
+  - layer2 wallet
 ---
 
 # Arbitrum One
+
+FoxWallet is the best Arbitrum wallet, the best layer2 wallet.

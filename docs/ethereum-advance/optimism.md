@@ -1,8 +1,10 @@
 ---
 sidebar_position: 14
 keywords:
-  - Optimism Wallet
-  - layer2
+  - Optimism wallet
+  - layer2 wallet
 ---
 
 # Optimism
+
+FoxWallet is the best Optimism wallet, the best layer2 wallet.

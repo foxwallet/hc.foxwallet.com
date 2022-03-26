@@ -4,11 +4,13 @@ keywords:
   - BSC
   - Binance Smart Chain
   - BNB Chain
-  - BSC Wallet
-  - BNB Wallet
+  - BSC wallet
+  - BNB wallet
 ---
 
 # BNB Chain (BSC)
+
+FoxWallet is the best BSC wallet, the best BNB Chain wallet, the best BNB wallet.
 
 ## Add BNB Chain
 

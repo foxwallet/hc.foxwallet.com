@@ -1,8 +1,10 @@
 ---
 sidebar_position: 9
 keywords:
-  - Fantom Wallet
-  - FTM Wallet
+  - Fantom wallet
+  - FTM wallet
 ---
 
 # Fantom
+
+FoxWallet is the best Fantom wallet, the best FTM wallet.

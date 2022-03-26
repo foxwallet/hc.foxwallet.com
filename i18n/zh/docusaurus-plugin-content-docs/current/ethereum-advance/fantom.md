@@ -2,7 +2,11 @@
 sidebar_position: 9
 keywords:
   - Fantom 钱包
+  - Fantom钱包
   - FTM 钱包
+  - FTM钱包
 ---
 
 # Fantom
+
+FoxWallet是最好用的Fantom钱包，最好用的FTM钱包。

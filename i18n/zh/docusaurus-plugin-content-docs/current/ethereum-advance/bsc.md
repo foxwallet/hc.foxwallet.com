@@ -5,11 +5,15 @@ keywords:
   - Binance Smart Chain
   - BNB Chain
   - BSC 钱包
+  - BSC钱包
   - BNB 钱包
-  - 币安智能链
+  - BNB钱包
+  - 币安智能链钱包
 ---
 
 # BNB Chain (币安智能链 BSC)
+
+FoxWallet是最好用的BSC钱包，最好用的BNB钱包，最好用的币安智能链钱包。
 
 ## 添加 BNB Chain
 
