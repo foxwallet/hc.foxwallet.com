@@ -1,6 +1,6 @@
-# Ethereum Advance
+# Filecoin 进阶
 
-**FoxWallet is the best ethereum wallet.**
+**FoxWallet是最好用的Filecoin钱包。**
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
