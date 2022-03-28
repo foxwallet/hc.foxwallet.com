@@ -8,3 +8,15 @@ keywords:
 # Gnosis Chain (xDAI)
 
 FoxWallet is the best Gnosis wallet, the best xDAI wallet.
+
+## Add Gnosis Chain
+
+“Setting” => “Manage ETH RPC” => Enable Gnosis Chain => Back to wallet main page.
+
+![](../img/add-gnosis.png)
+
+## Switch to Gnosis Chain
+
+Click the switch button in main page => Choose Gnosis Chain => Select one account.
+
+![](../img/switch-gnosis.png)

@@ -10,3 +10,15 @@ keywords:
 # Gnosis Chain (xDAI)
 
 FoxWallet是最好用的Gnosis钱包，最好用的xDAI钱包。
+
+## 添加 Gnosis Chain
+
+“设置” => “管理 ETH RPC” => 勾选 Gnosis Chain => 返回到钱包主页。
+
+![](../img/add-gnosis.png)
+
+## 切换至 Gnosis Chain
+
+点击钱包主页左上角的切换按钮 => 选择 Gnosis Chain => 选择一个账户。
+
+![](../img/switch-gnosis.png)

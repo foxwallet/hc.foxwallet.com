@@ -8,3 +8,15 @@ keywords:
 # Huobi ECO (HECO)
 
 FoxWallet is the best HECO wallet, the best HT wallet.
+
+## Add HECO
+
+“Setting” => “Manage ETH RPC” => Enable HECO => Back to wallet main page.
+
+![](../img/add-heco.png)
+
+## Switch to HECO
+
+Click the switch button in main page => Choose HECO => Select one account.
+
+![](../img/switch-heco.png)
