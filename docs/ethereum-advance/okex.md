@@ -3,20 +3,21 @@ sidebar_position: 13
 keywords:
   - OKT wallet
   - OKEX wallet
+  - OKC wallet
 ---
 
-# OKEX Chain
+# OKC (OKExChain)
 
-FoxWallet is the best OKEX Chain wallet, the best OKT wallet.
+FoxWallet is the best OKC wallet, the best OKC wallet, the best OKT wallet.
 
-## Add OKEX Chain
+## Add OKC (OKExChain)
 
-“Setting” => “Manage ETH RPC” => Enable OKEX Chain => Back to wallet main page.
+“Setting” => “Manage ETH RPC” => Enable OKC (OKExChain) => Back to wallet main page.
 
 ![](../img/add-okex.png)
 
-## Switch to OKEX Chain
+## Switch to OKC (OKExChain)
 
-Click the switch button in main page => Choose OKEX Chain => Select one account.
+Click the switch button in main page => Choose OKC (OKExChain) => Select one account.
 
 ![](../img/switch-okex.png)
