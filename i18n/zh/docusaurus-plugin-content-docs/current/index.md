@@ -36,6 +36,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [OKEX Chain](./ethereum-advance/okex.md)
 * [Optimism](./ethereum-advance/optimism.md)
 * [Polygon (Matic)](./ethereum-advance/polygon.md)
+* [以太坊测试网Goerli (Görli)](./ethereum-advance/eth-testnet-goerli.md)
 
 ## Filecoin 进阶
 * [矿工信息订阅](./filecoin-advance/subscribe-miner.md)
