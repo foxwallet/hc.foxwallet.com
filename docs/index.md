@@ -35,6 +35,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [OKEX Chain](./ethereum-advance/okex.md)
 * [Optimism](./ethereum-advance/optimism.md)
 * [Polygon (Matic)](./ethereum-advance/polygon.md)
+* [Ethereum Testnet Goerli (Görli)](./ethereum-advance/eth-testnet-goerli.md)
 
 ## Filecoin Advance
 * [Subscribe Miner](./filecoin-advance/subscribe-miner.md)
