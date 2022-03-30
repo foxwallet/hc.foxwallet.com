@@ -20,7 +20,7 @@ zkSync是一个使用[zkRollup 技术](https://docs.zksync.io/userdocs/tech.html
 
 zkSync 1.0 现已上线以太坊主网，支持转账和NFT。
 
-打开 FoxWallet, [切换网络](../manage-funds.md) 到 以太坊主网, 进入发现页，输入网址 https://zksync.io/ 或者直接搜索zksync 来访问。
+打开 FoxWallet, [切换网络](../manage-funds.md) 到 以太坊主网, 进入发现页，在搜索框输入网址 https://zksync.io/ 或者直接搜索zksync 进行访问。
 
 ![](../img/zksync-1.jpeg)![](../img/zksync-2.jpeg)
 
