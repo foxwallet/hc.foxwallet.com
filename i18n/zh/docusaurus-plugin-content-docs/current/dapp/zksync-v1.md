@@ -9,7 +9,7 @@ keywords:
 
 # zkSync 1.0 使用教程
 
-zkSync是一个使用[zkRollup 技术](https://docs.zksync.io/userdocs/tech.html#zk-rollup-architecture) 的低成本、无需信任的以太坊二层拓展协议，由 [Matter Labs](https://matter-labs.io/) 推出。他使用零知识证明和链上数据可用性来保障用户的资产安全。
+zkSync是一个使用[zkRollup 技术](https://docs.zksync.io/userdocs/tech.html#zk-rollup-architecture) 的低成本、无需信任的以太坊二层拓展协议，由 [Matter Labs](https://matter-labs.io/) 推出，使用零知识证明和链上数据可用性来保障用户的资产安全。
 
 **zkSync的主要特点有：**
 * 非常低的手续费
