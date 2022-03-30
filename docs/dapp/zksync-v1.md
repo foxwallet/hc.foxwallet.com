@@ -19,7 +19,7 @@ zkSync is a trustless protocol for scalable low-cost payments on Ethereum, power
 
 zkSync 1.0 lives on Ethereum mainnet already.
 
-Open FoxWallet, [switch network](../manage-funds.md) to "Ethereum mainnet", go to "Discover" and input url https://zksync.io/ or just search zksync to visit.
+Open FoxWallet, [switch network](../manage-funds.md) to "Ethereum mainnet", go to "Discover" tab and input url https://zksync.io/ or just search zksync to visit.
 
 ![](../img/zksync-1.jpeg)![](../img/zksync-2.jpeg)
 
