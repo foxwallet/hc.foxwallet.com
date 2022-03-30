@@ -33,3 +33,5 @@ Goerli Faucets：
 * https://goerli-faucet.slock.it/
 * ​https://faucets.chain.link/goerli
 * ​https://faucet.paradigm.xyz/
+* https://goerlifaucet.com/
+* https://fauceth.komputing.org/?chain=5

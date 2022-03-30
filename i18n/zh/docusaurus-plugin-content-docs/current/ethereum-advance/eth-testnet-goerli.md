@@ -21,7 +21,7 @@ keywords:
 ![](../img/add-goerli.png)
 
 ## 切换网络
-返回到钱包主页面，点击左上角的切换按钮。
+返回到钱包主页面，点击左上角的切换按钮, 并选择要使用的账户。
 
 ![](../img/switch-wallet-1.png)
 
@@ -33,3 +33,5 @@ Goerli测试币可通过一下水龙头领取：
 * https://goerli-faucet.slock.it/
 * ​https://faucets.chain.link/goerli
 * ​https://faucet.paradigm.xyz/
+* https://goerlifaucet.com/
+* https://fauceth.komputing.org/?chain=5
