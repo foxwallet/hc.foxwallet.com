@@ -15,6 +15,10 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [ERC20 Usage](./erc20-usage.md)
 * [FAQs](./faq.md)
 
+## Dapp
+* [zkSync 1.0 Tutorial](./dapp/zksync-v1.md)
+* [zkSync 2.0 Testnet Tutorial](./dapp/zksync-v2-testnet.md)
+
 ## Ethereum Advance
 * [Add Custom RPC](./ethereum-advance/add-custom-rpc.md)
 * [BNB Chain (BSC)](./ethereum-advance/bsc.md)

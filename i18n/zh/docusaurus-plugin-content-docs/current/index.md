@@ -16,6 +16,10 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [ERC20 使用指南](./erc20-usage.md)
 * [常见问题解答](./faq.md)
 
+## 去中心化应用
+* [zkSync 1.0 使用教程](./dapp/zksync-v1.md)
+* [zkSync 2.0 测试网使用教程](./dapp/zksync-v2-testnet.md)
+
 ## 以太坊 进阶
 * [添加自定义RPC](./ethereum-advance/add-custom-rpc.md)
 * [BNB Chain (BSC)](./ethereum-advance/bsc.md)
