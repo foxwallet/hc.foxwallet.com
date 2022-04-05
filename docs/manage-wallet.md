@@ -32,7 +32,7 @@ Back to the wallet screen, new wallet is switched.
 ## Delete wallet
 Select the wallet that needs to be deleted, click the “...” button in the upper right corner, and then click “Delete”. 
 
-After the wallet is deleted, it can only be restored by seed phase or private key. 
+After the wallet is deleted, it can only be restored by seed phrase or private key. 
 Please make sure it has been properly backed up.
 
 ![](./img/delete-wallet.png)
