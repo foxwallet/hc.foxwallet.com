@@ -21,7 +21,7 @@ For Defi users, FoxWallet is undoubtedly a better option. In the Defi world, the
 ### More Features for Users
 At present, FoxWallet provides the support of Ethereum and Filecoin transfer/receive operations and allows users to sign in to some Ethereum compatible DApps directly. 
   
-Wallet is the gate to Web3 world, FoxWallet aims to serve as a better choice for the entrance to the Web3 world. So FoxWallet will support BNB Chain, Polygon, Evmos, Avalanche, Arbitrum, Aurora, Aleo, Celo, Cronos, ETC, Fantom, Gnosis, HECO, Moonriver, OKExChain, Optimism in the next few weeks.
+Wallet is the gate to Web3 world, FoxWallet aims to serve as a better choice for the entrance to the Web3 world. So FoxWallet supports BNB Chain, Polygon, Evmos, Avalanche, Arbitrum, Aurora, Aleo, Celo, Cronos, Fantom, Gnosis, HECO, Moonriver, OKC, Optimism already.
   
 Besides the basic function, one of FoxWallet's main features is the fully supporting of Filecoin ecosystem. Users can keep up-to-date with on-chain data and track the latest info of miners. At the same time, FoxWallet offers the service of FIL Faulty Sector Monitoring and the FIL Balance Tracking, making it easier for Filecoin miners to manage and track the state of nodes. For more functions of FoxWallet, please check https://hc.foxwallet.com/docs/filecoin-advance/
 

@@ -7,18 +7,18 @@ keywords:
   - OKXChain wallet
 ---
 
-# OKC (OKXChain、OKExChain)
+# OKC (OKXChain)
 
 FoxWallet is the best OKC wallet, the best OKXChain wallet, the best OKT wallet.
 
-## Add OKC (OKExChain)
+## Add OKC (OKXChain)
 
-“Setting” => “Manage ETH RPC” => Enable OKC (OKExChain) => Back to wallet main page.
+“Setting” => “Manage ETH RPC” => Enable OKC (OKXChain) => Back to wallet main page.
 
 ![](../img/add-okex.png)
 
-## Switch to OKC (OKExChain)
+## Switch to OKC (OKXChain)
 
-Click the switch button in main page => Choose OKC (OKExChain) => Select one account.
+Click the switch button in main page => Choose OKC (OKXChain) => Select one account.
 
 ![](../img/switch-okex.png)
