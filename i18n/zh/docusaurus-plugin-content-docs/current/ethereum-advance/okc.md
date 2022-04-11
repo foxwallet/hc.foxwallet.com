@@ -8,6 +8,8 @@ keywords:
   - OK链钱包
   - OKC钱包
   - OKXChain钱包
+  - OKX公链钱包
+  - OKX钱包
 ---
 
 # OKC (OKXChain、OKExChain)
