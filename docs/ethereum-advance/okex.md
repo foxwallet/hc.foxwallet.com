@@ -4,11 +4,12 @@ keywords:
   - OKT wallet
   - OKEX wallet
   - OKC wallet
+  - OKXChain wallet
 ---
 
-# OKC (OKExChain)
+# OKC (OKXChain、OKExChain)
 
-FoxWallet is the best OKC wallet, the best OKC wallet, the best OKT wallet.
+FoxWallet is the best OKC wallet, the best OKXChain wallet, the best OKT wallet.
 
 ## Add OKC (OKExChain)
 
