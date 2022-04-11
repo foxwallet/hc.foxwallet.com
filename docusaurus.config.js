@@ -15,9 +15,25 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'FoxWallet', // Usually your GitHub org/user name.
   projectName: 'HelpCenter', // Usually your repo name.
-  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-    languages: ['en', 'zh'] // language codes
-  }]],
+  plugins: [
+    [ 
+      require.resolve('docusaurus-lunr-search'), 
+      { 
+        languages: ['en', 'zh'] // language codes
+      }
+    ],
+    [
+      require.resolve('@docusaurus/plugin-client-redirects'),
+      {
+        redirects: [
+          {
+            to: '/docs/ethereum-advance/okc',
+            from: '/docs/ethereum-advance/okex',
+          },
+        ],
+      },
+    ],
+  ],
 
   i18n: {
     defaultLocale: 'en',
