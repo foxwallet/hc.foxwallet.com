@@ -12,7 +12,7 @@ tags: [announcement, event]
 ### 寻找彩蛋，先到先得
 * 活动入口：App内“发现”页面
 * 活动时间：2022/4/17/8:00 - 2022/4/18/8:00 (UTC+8)
-* 活动奖励: $2100 FIL
+* 活动奖励：$2100 FIL
 
 ### 复活节一周福利，Discord每日空投
 * 活动入口：[FoxWallet官方Discord频道](https://discord.gg/JVjVbe3Zth)
