@@ -6,7 +6,7 @@ keywords:
 ---
 
 # Add Custom RPC
-FoxWallet has built-in the following Ethereum compatible chains: [BNB Chain](./bsc.md), [Arbitrum](./arbitrum.md), [Aurora](./aurora.md), [Avalanche](./avalanche.md), [Celo](./celo.md), [Cronos](./cronos.md), [Evmos](./evmos.md), [Fantom](./fantom.md), [Gnosis](./gnosis.md), [HECO](./heco.md), [Moonriver](./moonriver.md), [OKC](./okc.md), [Optimism](./optimism.md), [Polygon](./polygon.md). 
+FoxWallet has built-in the following Ethereum compatible chains: [BNB Chain](./bsc.md), [Arbitrum](./arbitrum.md), [Aurora](./aurora.md), [Avalanche](./avalanche.md), [Celo](./celo.md), [Cronos](./cronos.md), [Evmos](./evmos.md), [Fantom](./fantom.md), [Gnosis](./gnosis.md), [HECO](./heco.md), [KCC](./kcc.md), [Moonriver](./moonriver.md), [OKC](./okc.md), [Optimism](./optimism.md), [Polygon](./polygon.md). 
 
 To use these chains, just enable them in the setting page, no need to manually add custom RPC.
 
