@@ -31,6 +31,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Fantom](./ethereum-advance/fantom.md)
 * [Gnosis Chain (xDAI)](./ethereum-advance/gnosis.md)
 * [Huobi ECO (HECO)](./ethereum-advance/heco.md)
+* [KCC](./ethereum-advance/kcc.md)
 * [Moonriver](./ethereum-advance/moonriver.md)
 * [OKC](./ethereum-advance/okc.md)
 * [Optimism](./ethereum-advance/optimism.md)

@@ -32,6 +32,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Fantom](./ethereum-advance/fantom.md)
 * [Gnosis Chain (xDAI)](./ethereum-advance/gnosis.md)
 * [Huobi ECO (HECO)](./ethereum-advance/heco.md)
+* [KCC](./ethereum-advance/kcc.md)
 * [Moonriver](./ethereum-advance/moonriver.md)
 * [OKC](./ethereum-advance/okc.md)
 * [Optimism](./ethereum-advance/optimism.md)
