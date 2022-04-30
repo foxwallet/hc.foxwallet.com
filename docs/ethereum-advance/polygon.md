@@ -7,7 +7,9 @@ keywords:
 ---
 
 # Polygon (Matic)
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/polygon.webp').default} width={"80px"} height={"80px"} alt={"Polygon"} />
+```
 FoxWallet is the best Polygon wallet, the best Matic wallet, the best layer2 wallet.
 
 ## Add Polygon

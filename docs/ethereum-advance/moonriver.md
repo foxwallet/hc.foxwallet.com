@@ -6,7 +6,9 @@ keywords:
 ---
 
 # Moonriver
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/moonriver.webp').default} width={"80px"} height={"80px"} alt={"Moonriver"} />
+```
 FoxWallet is the best Moonriver wallet, the best MOVR wallet.
 
 ## Add Moonriver

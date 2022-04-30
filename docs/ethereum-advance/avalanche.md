@@ -6,7 +6,9 @@ keywords:
 ---
 
 # Avalanche C-Chain
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/avax.webp').default} width={"80px"} height={"80px"} alt={"Avalanche"} />
+```
 FoxWallet is the best Avalanche wallet, the best AVAX wallet.
 
 ## Add Avalanche C-Chain

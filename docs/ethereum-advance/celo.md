@@ -5,7 +5,9 @@ keywords:
 ---
 
 # Celo
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/celo.webp').default} width={"80px"} height={"80px"} alt={"Celo"} />
+```
 FoxWallet is the best Celo wallet.
 
 ## Add Celo

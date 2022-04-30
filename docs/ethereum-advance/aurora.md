@@ -5,7 +5,9 @@ keywords:
 ---
 
 # Aurora
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/aurora.webp').default} width={"80px"} height={"80px"} alt={"Aurora"} />
+```
 FoxWallet is the best Aurora wallet.
 
 ## Add Aurora

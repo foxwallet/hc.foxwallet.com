@@ -8,7 +8,9 @@ keywords:
 ---
 
 # OKC (OKXChain)
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/okx.webp').default} width={"80px"} height={"80px"} alt={"OKC"} />
+```
 FoxWallet is the best OKC wallet, the best OKXChain wallet, the best OKT wallet.
 
 ## Add OKC (OKXChain)

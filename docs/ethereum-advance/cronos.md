@@ -6,7 +6,9 @@ keywords:
 ---
 
 # Cronos Mainnet Beta
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/cronos.webp').default} width={"80px"} height={"80px"} alt={"Cronos"} />
+```
 FoxWallet is the best Cronos wallet, the best CRO wallet.
 
 ## Add Cronos Mainnet Beta

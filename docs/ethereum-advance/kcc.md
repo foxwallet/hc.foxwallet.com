@@ -7,7 +7,9 @@ keywords:
 ---
 
 # KCC
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/kcc.webp').default} width={"80px"} height={"80px"} alt={"KCC"} />
+```
 FoxWallet is the best KuCoin Community Chain wallet, the best KCC wallet, the best KCS wallet.
 
 ## Add KCC

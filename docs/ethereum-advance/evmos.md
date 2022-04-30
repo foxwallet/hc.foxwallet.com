@@ -5,7 +5,9 @@ keywords:
 ---
 
 # Evmos
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/evmos.webp').default} width={"80px"} height={"80px"} alt={"Evmos"} />
+```
 FoxWallet is the best Evmos wallet.
 
 ## Add Evmos

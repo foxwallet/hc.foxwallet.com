@@ -6,7 +6,9 @@ keywords:
 ---
 
 # Fantom
-
+```mdx-code-block
+<img src={require('@site/docs/static/img/fantom.webp').default} width={"80px"} height={"80px"} alt={"Fantom"} />
+```
 FoxWallet is the best Fantom wallet, the best FTM wallet.
 
 ## Add Fantom
