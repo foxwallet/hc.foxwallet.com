@@ -19,24 +19,24 @@ keywords:
 
 点击 “设置” —> “私钥” —> 输入密码并确认 —> 选择Lotus类型私钥 —> 复制私钥。
 
-![](../img/filfox-export-0.png)
-![](../img/filfox-export-1.png)
-![](../img/filfox-export-2.png)
-![](../img/filfox-export-3.png)
+![](../img/filfox-export-0.webp)
+![](../img/filfox-export-1.webp)
+![](../img/filfox-export-2.webp)
+![](../img/filfox-export-3.webp)
 
 ## 2. 将私钥导入到 FoxWallet
 
 有两个入口可以导入私钥到FoxWallet，一种方式是 点击钱包首页左上角的切换按钮，然后点击弹出浮层左上角的“管理钱包”按钮。
 
-![](../img/add-wallet-1.png)
+![](../img/add-wallet-1.webp)
 
 另一种方式是进入“设置页”，然后点击“管理钱包”。
 
-![](../img/add-wallet-2.png)
+![](../img/add-wallet-2.webp)
 
 此时就进入到了“管理钱包”页，接着点击 “添加钱包” —> 导入私钥 —> 设置新钱包的名称 并选择 “Lotus类型私钥” —> 粘贴上一步导出的私钥 —> 确定。
 
-![](../img/import-lotus.png)
+![](../img/import-lotus.webp)
 
 
 

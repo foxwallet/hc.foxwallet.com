@@ -14,10 +14,10 @@ FoxWallet是最好用的HECO钱包，最好用的火币生态链钱包。
 
 “设置” => “管理 ETH RPC” => 勾选 HECO => 返回到钱包主页。
 
-![](../img/add-heco.png)
+![](../img/add-heco.webp)
 
 ## 切换至 HECO
 
 点击钱包主页左上角的切换按钮 => 选择 HECO => 选择一个账户。
 
-![](../img/switch-heco.png)
+![](../img/switch-heco.webp)

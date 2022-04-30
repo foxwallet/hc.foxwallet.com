@@ -14,16 +14,16 @@ When the monitor is enabled, the FoxWallet backend will regularly check the node
 
 Click “Settings” => Select “Subscribe” => Click the “+” button at the top right of the “Subscribe” page => Click “FIL Faulty Sector Monitor”.
 
-![](../img/faulty-sector-monitor.png)
+![](../img/faulty-sector-monitor.webp)
 
 Navigate to the Detail setting page of the “FIL Faulty Sector Monitor”, adjust the “upper bound” and “monitor interval” parameters to meet your requirements (typically, use the defaults), and click “addresses” to search for the miner ID or address to be monitored in the search bar. 
 Then return to the previous page and click “Save”. You have enabled the monitor successfully. 
 
-![](../img/faulty-sector-monitor2.png)
+![](../img/faulty-sector-monitor2.webp)
 
 Once FoxWallet detects the faulty sector count is beyond the “upper bound”, a notification will send to your device.
 
 ## Disable the Faulty Sector Monitor
 If you want to turn off the Faulty Sector Monitor of an enabled node, you can disable the “Enable” button of the corresponding node on the “Subscribe” page.
 
-![](../img/deactive-monitor.png)
+![](../img/deactive-monitor.webp)

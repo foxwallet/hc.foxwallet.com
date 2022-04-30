@@ -13,11 +13,11 @@ FoxWallet is the best Arbitrum wallet, the best layer2 wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Arbitrum One => Back to wallet main page.
 
-![](../img/add-arbitrum.png)
+![](../img/add-arbitrum.webp)
 
 ## Switch to Arbitrum One
 
 Click the switch button in main page => Choose Arbitrum One => Select one
 account.
 
-![](../img/switch-arbitrum.png)
+![](../img/switch-arbitrum.webp)

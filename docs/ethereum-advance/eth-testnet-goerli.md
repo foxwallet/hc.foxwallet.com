@@ -16,16 +16,16 @@ Open FoxWallet，Go to "setting" => "manage ETH RPC" => input the below info and
 * Currency symbol:  `GOR`
 * RPC URL:          `https://rpc.goerli.mudit.blog`
 
-![](../img/add-custom-rpc.png)
+![](../img/add-custom-rpc.webp)
 
-![](../img/add-goerli.png)
+![](../img/add-goerli.webp)
 
 ## Switch Network
 Back to wallet main page，click the switch button in the top left corner。
 
-![](../img/switch-wallet-1.png)
+![](../img/switch-wallet-1.webp)
 
-![](../img/switch-goerli.png)
+![](../img/switch-goerli.webp)
 
 ## Get Test Coin
 Goerli Faucets：

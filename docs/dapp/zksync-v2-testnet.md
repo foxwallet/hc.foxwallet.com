@@ -23,31 +23,31 @@ For more detailed instruction, visit [Goerli (Görli) Tutorial](../ethereum-adva
 ## Connect Wallet
 Go to "Discover" tab，input https://portal.zksync.io/ in the search bar to visit。
 
-![](../img/zksync-2-1.jpeg)
+![](../img/zksync-2-1.webp)
 
 Click the "MetaMask" button，then click the “Back” button in the left bottom corner, choose “Debug” in wallet select page，select a FoxWallet account you want to connect。
 
-![](../img/zksync-2-2.png)
+![](../img/zksync-2-2-1.webp)
 
-![](../img/zksync-2-2.jpeg)
+![](../img/zksync-2-2-2.webp)
 
 ## Deposit
 Click the menu button on the left top corner, click “Bridge”.
 
-![](../img/zksync-2-3.jpeg)
+![](../img/zksync-2-3.webp)
 
 Input amount under “Deposit” tab，and click the “Deposit” button.
 
-![](../img/zksync-2-4.jpeg)
+![](../img/zksync-2-4.webp)
 
 Wait a few minutes to let the transaction get confirmed.
 
-![](../img/zksync-2-5.jpeg)
+![](../img/zksync-2-5.webp)
 
 ## Transfer
 Switch to “Transfer” tab in “Wallet” menu, input address and amount, click “Transfer” button and sign message.
 
-![](../img/zksync-2-6.jpeg)
+![](../img/zksync-2-6.webp)
 
 
 

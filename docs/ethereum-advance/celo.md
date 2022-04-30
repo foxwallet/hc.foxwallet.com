@@ -12,10 +12,10 @@ FoxWallet is the best Celo wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Celo => Back to wallet main page.
 
-![](../img/add-celo.png)
+![](../img/add-celo.webp)
 
 ## Switch to Celo
 
 Click the switch button in main page => Choose Celo => Select one account.
 
-![](../img/switch-celo.png)
+![](../img/switch-celo.webp)

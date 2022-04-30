@@ -21,15 +21,15 @@ zkSync 1.0 lives on Ethereum mainnet already.
 
 Open FoxWallet, [switch network](../manage-funds.md) to "Ethereum mainnet", go to "Discover" tab and input url https://zksync.io/ or just search zksync to visit.
 
-![](../img/zksync-1.jpeg)![](../img/zksync-2.jpeg)
+![](../img/zksync-1.webp)![](../img/zksync-2.webp)
 
 Click "Open Wallet" in the page, then choose "Ethereum Wallet" in the new page.
 
-![](../img/zksync-3.jpeg)
+![](../img/zksync-3.webp)
 
 Click "show more", choose "Debug", then select a FoxWallet account to connect, then we reach the wallet main page.
 
-![](../img/zksync-4.jpeg) ![](../img/zksync-5.png) ![](../img/zksync-6.jpeg)
+![](../img/zksync-4.webp) ![](../img/zksync-5.webp) ![](../img/zksync-6.webp)
 
 
 ## Add Funds
@@ -37,25 +37,25 @@ The "Add Funds" function is used to deposit fund from Layer1.
 
 Click "Add Funds" button, input the amount you want to deposit, then click "Add Funds" below.
 
-![](../img/zksync-7.png)![](../img/zksync-8.jpeg)
+![](../img/zksync-7.webp)![](../img/zksync-8.webp)
 
 Confirm transaction in the pop-up page, then wait for confirmation, this should take some minutes.
 
-![](../img/zksync-9.jpeg) ![](../img/zksync-10.jpeg)
+![](../img/zksync-9.webp) ![](../img/zksync-10.webp)
 
 ## Transfer
 
 Click "Send" in zkSync wallet page.
 
-![](../img/zksync-11.jpeg)
+![](../img/zksync-11.webp)
 
 Sign a message to active zkSync account.
 
-![](../img/zksync-12.jpeg)![](../img/zksync-13.jpeg)
+![](../img/zksync-12.webp)![](../img/zksync-13.webp)
 
 Input address and amount to send.
 
-![](../img/zksync-14.jpeg)
+![](../img/zksync-14.webp)
 
 
 

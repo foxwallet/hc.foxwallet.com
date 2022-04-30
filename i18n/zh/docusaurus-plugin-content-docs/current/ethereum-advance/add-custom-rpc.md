@@ -12,6 +12,6 @@ FoxWallet 已内置以下以太坊兼容链：[BNB Chain](./bsc.md), [Arbitrum](
 
 如果你想要交互的链不在上述列表中，可以手动进行添加："设置" => "管理 ETH RPC" => 填写信息并保存。
 
-![](../img/add-custom-rpc.png)
+![](../img/add-custom-rpc.webp)
 
 添加完成后可在钱包首页点击左上角的切换按钮进行切换。

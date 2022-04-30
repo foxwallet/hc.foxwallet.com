@@ -17,10 +17,10 @@ FoxWallet是最好用的Polygon钱包，最好用的Matic钱包，最好用的la
 
 “设置” => “管理 ETH RPC” => 勾选 Polygon => 返回到钱包主页。
 
-![](../img/add-polygon.png)
+![](../img/add-polygon.webp)
 
 ## 切换至 Polygon
 
 点击钱包主页左上角的切换按钮 => 选择 Polygon => 选择一个账户。
 
-![](../img/switch-polygon.png)
+![](../img/switch-polygon.webp)

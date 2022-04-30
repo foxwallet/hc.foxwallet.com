@@ -13,10 +13,10 @@ FoxWallet is the best Moonriver wallet, the best MOVR wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Moonriver => Back to wallet main page.
 
-![](../img/add-movr.png)
+![](../img/add-movr.webp)
 
 ## Switch to Moonriver
 
 Click the switch button in main page => Choose Moonriver => Select one account.
 
-![](../img/switch-movr.png)
+![](../img/switch-movr.webp)

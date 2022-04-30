@@ -14,10 +14,10 @@ FoxWallet is the best KuCoin Community Chain wallet, the best KCC wallet, the be
 
 “Setting” => “Manage ETH RPC” => Enable KCC Mainnet => Back to wallet main page.
 
-![](../img/manage-eth-rpc.png)![](../img/add-kcc.png)
+![](../img/manage-eth-rpc.webp)![](../img/add-kcc.webp)
 
 ## Switch to KCC
 
 Click the switch button in main page => Choose KCC Mainnet => Select one account.
 
-![](../img/switch-network.png)![](../img/switch-kcc.png)
+![](../img/switch-network.webp)![](../img/switch-kcc.webp)

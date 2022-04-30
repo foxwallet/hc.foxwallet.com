@@ -13,10 +13,10 @@ FoxWallet is the best Avalanche wallet, the best AVAX wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Avalanche C-Chain => Back to wallet main page.
 
-![](../img/add-avalanche.png)
+![](../img/add-avalanche.webp)
 
 ## Switch to Avalanche C-Chain
 
 Click the switch button in main page => Choose Avalanche C-Chain => Select one account.
 
-![](../img/switch-avalanche.png)
+![](../img/switch-avalanche.webp)

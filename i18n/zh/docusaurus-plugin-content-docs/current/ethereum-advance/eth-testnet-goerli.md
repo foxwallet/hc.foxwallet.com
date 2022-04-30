@@ -16,16 +16,16 @@ keywords:
 * 代币符号：`GOR`
 * 节点RPC：`https://rpc.goerli.mudit.blog`
 
-![](../img/add-custom-rpc.png)
+![](../img/add-custom-rpc.webp)
 
-![](../img/add-goerli.png)
+![](../img/add-goerli.webp)
 
 ## 切换网络
 返回到钱包主页面，点击左上角的切换按钮, 并选择要使用的账户。
 
-![](../img/switch-wallet-1.png)
+![](../img/switch-wallet-1.webp)
 
-![](../img/switch-goerli.png)
+![](../img/switch-goerli.webp)
 
 ## 获取测试币
 Goerli测试币可通过一下水龙头领取：

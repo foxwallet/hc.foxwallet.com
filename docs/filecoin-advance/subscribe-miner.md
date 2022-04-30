@@ -5,7 +5,7 @@ sidebar_position: 1
 # Subscribe Miner
 Click on “Data” in the bottom navigation bar to enter the Filecoin on-chain data display page.
 
-![](../img/data.png)
+![](../img/data.webp)
 
 ## Subscribe
 
@@ -15,10 +15,10 @@ When the search results are displayed, click the corresponding sign “+” on t
 
 Go back to the “Data” page, you can see the relevant information of the node.
 
-![](../img/subscribe-miner.png)
+![](../img/subscribe-miner.webp)
 
 ## Unsubscribe
 Click the “Search” button to enter the page, and select “My Favorite” to enter the management page. Click the corresponding sign “-” to the right of the node to unsubscribe.
 
-![](../img/unsubscribe-miner.png)
+![](../img/unsubscribe-miner.webp)
 

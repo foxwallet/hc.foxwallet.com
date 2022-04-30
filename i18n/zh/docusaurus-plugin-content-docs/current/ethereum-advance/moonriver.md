@@ -15,10 +15,10 @@ FoxWallet是最好用的Moonriver钱包，最好用的MOVR钱包。
 
 “设置” => “管理 ETH RPC” => 勾选 Moonriver => 返回到钱包主页。
 
-![](../img/add-movr.png)
+![](../img/add-movr.webp)
 
 ## 切换至 Moonriver
 
 点击钱包主页左上角的切换按钮 => 选择 Moonriver => 选择一个账户。
 
-![](../img/switch-movr.png)
+![](../img/switch-movr.webp)

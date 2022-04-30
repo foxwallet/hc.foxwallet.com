@@ -22,15 +22,15 @@ zkSync 1.0 现已上线以太坊主网，支持转账和NFT。
 
 打开 FoxWallet, [切换网络](../manage-funds.md) 到 以太坊主网, 进入发现页，在搜索框输入网址 https://zksync.io/ 或者直接搜索zksync 进行访问。
 
-![](../img/zksync-1.jpeg)![](../img/zksync-2.jpeg)
+![](../img/zksync-1.webp)![](../img/zksync-2.webp)
 
 点击页面上的 "Open Wallet" 按钮，然后选择 "Ethereum Wallet".
 
-![](../img/zksync-3.jpeg)
+![](../img/zksync-3.webp)
 
 点击 "show more" 按钮, 选择 "Debug", 然后在弹出的页面里选择一个要连接的账户, 这样就进到了zkSync的钱包主页面。
 
-![](../img/zksync-4.jpeg)![](../img/zksync-5.png)![](../img/zksync-6.jpeg)
+![](../img/zksync-4.webp)![](../img/zksync-5.webp)![](../img/zksync-6.webp)
 
 
 ## 充值
@@ -38,24 +38,24 @@ zkSync 1.0 现已上线以太坊主网，支持转账和NFT。
 
 点击页面上的 "Add Funds" 按钮, 输入想要充值的金额, 然后点击下方的 "Add Funds".
 
-![](../img/zksync-7.png)![](../img/zksync-8.jpeg)
+![](../img/zksync-7.webp)![](../img/zksync-8.webp)
 
 在弹出的页面中确定发送交易，等待几分钟让交易达到确认数，就充值好了。
 
-![](../img/zksync-9.jpeg)![](../img/zksync-10.jpeg)
+![](../img/zksync-9.webp)![](../img/zksync-10.webp)
 
 ## 转账
 点击页面上的 "Send" 按钮.
 
-![](../img/zksync-11.jpeg)
+![](../img/zksync-11.webp)
 
 需要签名一段文字来激活你的账户。
 
-![](../img/zksync-12.jpeg)![](../img/zksync-13.jpeg)
+![](../img/zksync-12.webp)![](../img/zksync-13.webp)
 
 激活之后，输入要发送的地址和金额来转账。
 
-![](../img/zksync-14.jpeg)
+![](../img/zksync-14.webp)
 
 
 

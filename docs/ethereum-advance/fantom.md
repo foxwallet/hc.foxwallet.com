@@ -13,10 +13,10 @@ FoxWallet is the best Fantom wallet, the best FTM wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Fantom => Back to wallet main page.
 
-![](../img/add-fantom.png)
+![](../img/add-fantom.webp)
 
 ## Switch to Fantom
 
 Click the switch button in main page => Choose Fantom => Select one account.
 
-![](../img/switch-fantom.png)
+![](../img/switch-fantom.webp)

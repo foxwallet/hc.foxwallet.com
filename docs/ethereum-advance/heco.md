@@ -13,10 +13,10 @@ FoxWallet is the best HECO wallet, the best HT wallet.
 
 “Setting” => “Manage ETH RPC” => Enable HECO => Back to wallet main page.
 
-![](../img/add-heco.png)
+![](../img/add-heco.webp)
 
 ## Switch to HECO
 
 Click the switch button in main page => Choose HECO => Select one account.
 
-![](../img/switch-heco.png)
+![](../img/switch-heco.webp)

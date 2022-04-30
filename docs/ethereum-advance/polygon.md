@@ -14,10 +14,10 @@ FoxWallet is the best Polygon wallet, the best Matic wallet, the best layer2 wal
 
 “Setting” => “Manage ETH RPC” => Enable Polygon => Back to wallet main page.
 
-![](../img/add-polygon.png)
+![](../img/add-polygon.webp)
 
 ## Switch to Polygon
 
 Click the switch button in main page => Choose Polygon => Select one account.
 
-![](../img/switch-polygon.png)
+![](../img/switch-polygon.webp)

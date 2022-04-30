@@ -13,10 +13,10 @@ FoxWallet is the best Cronos wallet, the best CRO wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Cronos Mainnet Beta => Back to wallet main page.
 
-![](../img/add-cronos.png)
+![](../img/add-cronos.webp)
 
 ## Switch to Cronos Mainnet Beta
 
 Click the switch button in main page => Choose Cronos Mainnet Beta => Select one account.
 
-![](../img/switch-cronos.png)
+![](../img/switch-cronos.webp)

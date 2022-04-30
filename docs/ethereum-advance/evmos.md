@@ -12,10 +12,10 @@ FoxWallet is the best Evmos wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Evmos => Back to wallet main page.
 
-![](../img/add-evmos.png)
+![](../img/add-evmos.webp)
 
 ## Switch to Evmos
 
 Click the switch button in main page => Choose Evmos => Select one account.
 
-![](../img/switch-evmos.png)
+![](../img/switch-evmos.webp)
