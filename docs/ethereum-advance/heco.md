@@ -8,6 +8,8 @@ keywords:
 # Huobi ECO (HECO)
 ```mdx-code-block
 <img src={require('@site/docs/static/img/heco.webp').default} width={"80px"} height={"80px"} alt={"Heco"} />
+<span> </span>
+<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 FoxWallet is the best HECO wallet, the best HT wallet.
 

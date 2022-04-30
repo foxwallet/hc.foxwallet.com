@@ -8,6 +8,8 @@ keywords:
 # Avalanche C-Chain
 ```mdx-code-block
 <img src={require('@site/docs/static/img/avax.webp').default} width={"80px"} height={"80px"} alt={"Avalanche"} />
+<span> </span>
+<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 FoxWallet is the best Avalanche wallet, the best AVAX wallet.
 

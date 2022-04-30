@@ -8,6 +8,8 @@ keywords:
 # Fantom
 ```mdx-code-block
 <img src={require('@site/docs/static/img/fantom.webp').default} width={"80px"} height={"80px"} alt={"Fantom"} />
+<span> </span>
+<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 FoxWallet is the best Fantom wallet, the best FTM wallet.
 
