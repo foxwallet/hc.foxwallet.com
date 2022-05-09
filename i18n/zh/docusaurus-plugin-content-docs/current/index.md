@@ -39,7 +39,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [OKC](./ethereum-advance/okc.md)
 * [Optimism](./ethereum-advance/optimism.md)
 * [Polygon (Matic)](./ethereum-advance/polygon.md)
-* [zkSync 2.0 alpha testnet](./ethereum-advance/zksync-2.0-alpha-testnet.md)
+* [zkSync 2.0 alpha testnet](./ethereum-advance/zksync-v2-alpha-testnet.md)
 * [以太坊测试网 Goerli (Görli)](./ethereum-advance/eth-goerli-testnet.md)
 
 ## Filecoin 进阶

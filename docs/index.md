@@ -38,7 +38,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [OKC](./ethereum-advance/okc.md)
 * [Optimism](./ethereum-advance/optimism.md)
 * [Polygon (Matic)](./ethereum-advance/polygon.md)
-* [zkSync 2.0 alpha testnet](./ethereum-advance/zksync-2.0-alpha-testnet.md)
+* [zkSync 2.0 alpha testnet](./ethereum-advance/zksync-v2-alpha-testnet.md)
 * [Ethereum Goerli(Görli) Testnet](./ethereum-advance/eth-goerli-testnet.md)
 
 ## Filecoin Advance
