@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 keywords:
   - Evmos 钱包
   - Evmos钱包

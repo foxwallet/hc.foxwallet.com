@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 keywords:
   - KCC钱包
   - KuCoin社区链钱包

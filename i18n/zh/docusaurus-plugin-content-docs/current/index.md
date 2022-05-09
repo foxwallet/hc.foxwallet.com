@@ -26,6 +26,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Arbitrum](./ethereum-advance/arbitrum.md)
 * [Aurora](./ethereum-advance/aurora.md)
 * [Avalanche C-Chain](./ethereum-advance/avalanche.md)
+* [Boba][./ethereum-advance/boba.md]
 * [Celo](./ethereum-advance/celo.md)
 * [Cronos](./ethereum-advance/cronos.md)
 * [Evmos](./ethereum-advance/evmos.md)
@@ -33,11 +34,13 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Gnosis Chain (xDAI)](./ethereum-advance/gnosis.md)
 * [Huobi ECO (HECO)](./ethereum-advance/heco.md)
 * [KCC](./ethereum-advance/kcc.md)
+* [Moonbeam](./ethereum-advance/moonbeam.md)
 * [Moonriver](./ethereum-advance/moonriver.md)
 * [OKC](./ethereum-advance/okc.md)
 * [Optimism](./ethereum-advance/optimism.md)
 * [Polygon (Matic)](./ethereum-advance/polygon.md)
-* [以太坊测试网Goerli (Görli)](./ethereum-advance/eth-testnet-goerli.md)
+* [zkSync 2.0 alpha testnet](./ethereum-advance/zksync-2.0-alpha-testnet.md)
+* [以太坊测试网 Goerli (Görli)](./ethereum-advance/eth-goerli-testnet.md)
 
 ## Filecoin 进阶
 * [矿工信息订阅](./filecoin-advance/subscribe-miner.md)

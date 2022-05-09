@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 17
 keywords:
   - Goerli 钱包
   - 添加Goerli
@@ -10,22 +10,14 @@ keywords:
 # 以太坊测试网 Goerli (Görli)
 
 ## 添加网络
-打开FoxWallet，进入设置页 => "管理 ETH RPC" => 填写以下信息并保存。
+打开FoxWallet，进入设置页 => "管理 ETH RPC" => 勾选 Goerli Testnet => 返回到钱包主页。
 
-* 网络名称：`Goerli`
-* 代币符号：`GOR`
-* 节点RPC：`https://rpc.goerli.mudit.blog`
-
-![](../img/add-custom-rpc.webp)
-
-![](../img/add-goerli.webp)
+![](../img/manage-eth-rpc.webp)![](../img/add-goerli.webp)
 
 ## 切换网络
-返回到钱包主页面，点击左上角的切换按钮, 并选择要使用的账户。
+点击左上角的切换按钮 => 选择 Goerli Testnet => 选择一个账户。
 
-![](../img/switch-wallet-1.webp)
-
-![](../img/switch-goerli.webp)
+![](../img/switch-network.webp)![](../img/switch-goerli.webp)
 
 ## 获取测试币
 Goerli测试币可通过一下水龙头领取：

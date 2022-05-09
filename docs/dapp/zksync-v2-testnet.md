@@ -18,7 +18,7 @@ Open FoxWallet，go to "Settings" tab，click “manage ETH RPC”，scroll to t
 
 Switch network to Goerli, and get some test coin.
 
-For more detailed instruction, visit [Goerli (Görli) Tutorial](../ethereum-advance/eth-testnet-goerli.md)。
+For more detailed instruction, visit [Goerli (Görli) Tutorial](../ethereum-advance/eth-goerli-testnet.md)。
 
 ## Connect Wallet
 Go to "Discover" tab，input https://portal.zksync.io/ in the search bar to visit。

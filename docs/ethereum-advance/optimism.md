@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 17
 keywords:
   - Optimism wallet
   - layer2 wallet
