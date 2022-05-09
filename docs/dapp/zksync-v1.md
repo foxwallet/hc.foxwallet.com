@@ -19,17 +19,15 @@ zkSync is a trustless protocol for scalable low-cost payments on Ethereum, power
 
 zkSync 1.0 lives on Ethereum mainnet already.
 
-Open FoxWallet, [switch network](../manage-funds.md) to "Ethereum mainnet", go to "Discover" tab and input url https://zksync.io/ or just search zksync to visit.
+Open FoxWallet, [switch network](../manage-funds.md) to "Ethereum mainnet", go to "Discover" tab and input url https://wallet.zksync.io/ or just search zksync to visit.
 
-![](../img/zksync-1.webp)![](../img/zksync-2.webp)
-
-Click "Open Wallet" in the page, then choose "Ethereum Wallet" in the new page.
+Choose "Ethereum Wallet".
 
 ![](../img/zksync-3.webp)
 
-Click "show more", choose "Debug", then select a FoxWallet account to connect, then we reach the wallet main page.
+Click "Metamask", then select a FoxWallet account to connect.
 
-![](../img/zksync-4.webp) ![](../img/zksync-5.webp) ![](../img/zksync-6.webp)
+![](../img/zksync-4.webp)![](../img/zksync-6.webp)
 
 
 ## Add Funds

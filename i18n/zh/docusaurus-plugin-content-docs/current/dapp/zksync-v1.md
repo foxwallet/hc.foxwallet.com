@@ -20,17 +20,15 @@ zkSync是一个使用[zkRollup 技术](https://docs.zksync.io/userdocs/tech.html
 
 zkSync 1.0 现已上线以太坊主网，支持转账和NFT。
 
-打开 FoxWallet, [切换网络](../manage-funds.md) 到 以太坊主网, 进入发现页，在搜索框输入网址 https://zksync.io/ 或者直接搜索zksync 进行访问。
+打开 FoxWallet, [切换网络](../manage-funds.md) 到 以太坊主网, 进入发现页，在搜索框输入网址 https://wallet.zksync.io/ 或者直接搜索zksync 进行访问。
 
-![](../img/zksync-1.webp)![](../img/zksync-2.webp)
-
-点击页面上的 "Open Wallet" 按钮，然后选择 "Ethereum Wallet".
+选择 "Ethereum Wallet"。
 
 ![](../img/zksync-3.webp)
 
-点击 "show more" 按钮, 选择 "Debug", 然后在弹出的页面里选择一个要连接的账户, 这样就进到了zkSync的钱包主页面。
+选择 "Metamask", 然后在弹出的页面里选择一个要连接的账户, 这样就进到了zkSync的钱包主页面。
 
-![](../img/zksync-4.webp)![](../img/zksync-5.webp)![](../img/zksync-6.webp)
+![](../img/zksync-4.webp)![](../img/zksync-6.webp)
 
 
 ## 充值

@@ -25,11 +25,7 @@ Go to "Discover" tab，input https://portal.zksync.io/ in the search bar to visi
 
 ![](../img/zksync-2-1.webp)
 
-Click the "MetaMask" button，then click the “Back” button in the left bottom corner, choose “Debug” in wallet select page，select a FoxWallet account you want to connect。
-
-![](../img/zksync-2-2-1.webp)
-
-![](../img/zksync-2-2-2.webp)
+Click the "MetaMask" button，select a FoxWallet account you want to connect。
 
 ## Deposit
 Click the menu button on the left top corner, click “Bridge”.

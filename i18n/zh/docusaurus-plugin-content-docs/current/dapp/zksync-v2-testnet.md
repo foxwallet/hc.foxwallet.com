@@ -24,9 +24,7 @@ zkSync 2.0 测试网部署在 以太坊的Goerli测试网上，所以得先添�
 
 ![](../img/zksync-2-1.webp)
 
-点击 "MetaMask" 按钮，再点击弹窗左下角的的“Back” 进入选择钱包页面，选择“Debug”，在新页面中选择需要连接的FoxWallet 账户。
-
-![](../img/zksync-2-2-1.webp)![](../img/zksync-2-2-2.webp)
+点击 "MetaMask" 按钮，在新页面中选择需要连接的FoxWallet 账户。
 
 ## 充值到Layer2
 点击左上角的菜单按钮，在菜单中选择 “Bridge”，进入跨链桥页面。
