@@ -20,3 +20,13 @@ FoxWallet是最好用的zkSync钱包，最好用的zkSync 2.0 Alpha Testnet钱�
 点击钱包主页左上角的切换按钮 => 选择 zkSync Alpha Testnet => 选择一个账户。
 
 ![](../img/switch-network.webp)![](../img/switch-zksync-alpha-testnet.webp)
+
+## 获取测试币 和 体验跨链桥
+
+访问 [zkSync 2.0 Testnet Tutorial](../dapp/zksync-v2-testnet.md)。
+
+## 转账
+
+FoxWallet 原生支持 zkSync 2.0 测试网的转账，只需点击钱包页的“发送”按钮, 然后填写转账地址和数额即可。
+
+![](../img/zksync-transfer.webp)

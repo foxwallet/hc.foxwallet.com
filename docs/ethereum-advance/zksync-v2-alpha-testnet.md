@@ -26,3 +26,13 @@ FoxWallet is the best zkSync wallet, the best zkSync 2.0 alpha testnet wallet.
 Click the switch button in main page => Choose zkSync Alpha Testnet => Select one account.
 
 ![](../img/switch-network.webp)![](../img/switch-zksync-alpha-testnet.webp)
+
+## Get testnet coin and bridge
+
+Check the instruction at [zkSync 2.0 Testnet Tutorial](../dapp/zksync-v2-testnet.md).
+
+## Transfer
+
+FoxWallet brings the native funds manager support for zkSync 2.0 alpha tetsnet. Simply click the "Send" button in wallet tab, and input the destination address and amount.
+
+![](../img/zksync-transfer.webp)
