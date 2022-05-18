@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+title: Aurora Wallet
+sidebar_label: Aurora
 keywords:
   - Aurora wallet
 ---

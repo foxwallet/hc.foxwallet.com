@@ -1,5 +1,7 @@
 ---
 sidebar_position: 8
+title: Conflux 钱包 | CFX 钱包
+sidebar_label: Conflux eSpace
 keywords:
   - Conflux 钱包
   - Conflux钱包

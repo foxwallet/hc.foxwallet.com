@@ -1,5 +1,7 @@
 ---
 sidebar_position: 16
+title: Moonriver 钱包 | MOVR 钱包
+sidebar_label: Moonriver
 keywords:
   - Moonriver 钱包
   - Moonriver钱包

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 90
+title: Goerli Wallet
+sidebar_label: Ethereum Goerli Testnet (Görli)
 keywords:
   - Goerli wallet
   - add Goerli

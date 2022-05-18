@@ -1,5 +1,7 @@
 ---
 sidebar_position: 11
+title: Fantom Wallet | FTM Wallet
+sidebar_label: Fantom
 keywords:
   - Fantom wallet
   - FTM wallet

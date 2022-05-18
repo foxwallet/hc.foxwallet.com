@@ -1,5 +1,7 @@
 ---
 sidebar_position: 17
+title: OKC Wallet | OKXChain Wallet | OKT Wallet
+sidebar_label: OKC (OKXChain)
 keywords:
   - OKT wallet
   - OKEX wallet

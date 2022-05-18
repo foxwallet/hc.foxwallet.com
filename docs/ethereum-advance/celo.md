@@ -1,5 +1,7 @@
 ---
 sidebar_position: 7
+title: Celo Wallet
+sidebar_label: Celo
 keywords:
   - Celo wallet
 ---

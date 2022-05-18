@@ -1,5 +1,7 @@
 ---
 sidebar_position: 11
+title: Fantom 钱包 | FTM 钱包
+sidebar_label: Fantom
 keywords:
   - Fantom 钱包
   - Fantom钱包

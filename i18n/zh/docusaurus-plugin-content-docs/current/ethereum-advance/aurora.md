@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+title: Aurora 钱包
+sidebar_label: Aurora
 keywords:
   - Aurora 钱包
   - Aurora钱包

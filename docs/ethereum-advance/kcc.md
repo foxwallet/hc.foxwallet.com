@@ -1,5 +1,7 @@
 ---
 sidebar_position: 14
+title: KCC Wallet | KuCoin Community Chain Wallet
+sidebar_label: KCC
 keywords:
   - KCC wallet
   - KuCoin Community Chain wallet

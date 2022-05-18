@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+title: Avalanche Wallet | AVAX Wallet
+sidebar_label: Avalanche C-Chain
 keywords:
   - Avalanche wallet
   - AVAX wallet

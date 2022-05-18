@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: BNB Chain Wallet | BSC Wallet | BNB Wallet
+sidebar_label: BNB Chain (BSC)
 keywords:
   - BSC
   - Binance Smart Chain

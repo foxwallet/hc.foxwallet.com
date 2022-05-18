@@ -1,5 +1,7 @@
 ---
 sidebar_position: 17
+title: OKC 钱包 | OKT 钱包 | OK链钱包 | OKX钱包
+sidebar_label: OKC (OKXChain)
 keywords:
   - OKEX 钱包
   - OKEX钱包

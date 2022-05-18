@@ -1,4 +1,6 @@
 ---
+title: Boba Wallet
+sidebar_label: Boba
 sidebar_position: 6
 keywords:
   - Boba wallet

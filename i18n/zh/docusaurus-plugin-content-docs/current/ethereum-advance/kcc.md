@@ -1,9 +1,12 @@
 ---
 sidebar_position: 14
+title: KCC 钱包 | 库币社区链钱包
+sidebar_label: KCC
 keywords:
   - KCC钱包
   - KuCoin社区链钱包
   - KCS钱包
+  - 库币社区链钱包
 ---
 
 # KCC

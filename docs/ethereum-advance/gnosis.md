@@ -1,5 +1,7 @@
 ---
 sidebar_position: 12
+title: Gnosis Wallet | xDAI Wallet
+sidebar_label: Gnosis Chain (xDAI)
 keywords:
   - Gnosis wallet
   - xDAI wallet

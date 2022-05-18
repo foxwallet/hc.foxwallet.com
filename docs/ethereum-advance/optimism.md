@@ -1,5 +1,7 @@
 ---
 sidebar_position: 18
+title: Optimism Wallet | Layer2 Wallet
+sidebar_label: Optimism
 keywords:
   - Optimism wallet
   - layer2 wallet

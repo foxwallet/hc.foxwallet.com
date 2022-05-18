@@ -1,5 +1,7 @@
 ---
 sidebar_position: 13
+title: Heco 钱包 | HT 钱包 | 火币生态链钱包
+sidebar_label: Huobi ECO (火币生态链 HECO)
 keywords:
   - HECO 钱包
   - HECO钱包

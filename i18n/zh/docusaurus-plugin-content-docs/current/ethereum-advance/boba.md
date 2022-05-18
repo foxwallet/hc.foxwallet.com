@@ -1,5 +1,7 @@
 ---
 sidebar_position: 6
+title: Boba 钱包 | Layer2 钱包 | L2钱包
+sidebar_label: Boba
 keywords:
   - Boba钱包
 ---

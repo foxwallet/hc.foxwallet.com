@@ -1,5 +1,7 @@
 ---
 sidebar_position: 10
+title: Evmos 钱包
+sidebar_label: Evmos
 keywords:
   - Evmos 钱包
   - Evmos钱包

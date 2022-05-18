@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+title: Avalanche 钱包 | AVAX 钱包
+sidebar_label: Avalanche C-Chain
 keywords:
   - Avalanche 钱包
   - Avalanche钱包

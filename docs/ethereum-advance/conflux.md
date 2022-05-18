@@ -1,5 +1,7 @@
 ---
 sidebar_position: 8
+title: Conflux Wallet | CFX Wallet
+sidebar_label: Conflux eSpace
 keywords:
   - Conflux wallet
   - CFX wallet

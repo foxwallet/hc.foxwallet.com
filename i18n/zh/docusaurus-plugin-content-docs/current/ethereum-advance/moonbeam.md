@@ -1,5 +1,7 @@
 ---
 sidebar_position: 15
+title: Moonbeam 钱包 | GLMR 钱包
+sidebar_label: Moonbeam
 keywords:
   - Moonbeam 钱包
   - Moonbeam钱包

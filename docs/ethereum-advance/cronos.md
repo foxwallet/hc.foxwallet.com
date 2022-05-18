@@ -1,5 +1,7 @@
 ---
 sidebar_position: 9
+title: Cronos Wallet | CRO Wallet
+sidebar_label: Cronos Mainnet Beta
 keywords:
   - Cronos wallet
   - CRO wallet

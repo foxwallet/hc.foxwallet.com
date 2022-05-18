@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: BSC 钱包 | BNB Chain 钱包 | 币安链钱包
+sidebar_label: BNB Chain (币安智能链 BSC)
 keywords:
   - BSC
   - Binance Smart Chain

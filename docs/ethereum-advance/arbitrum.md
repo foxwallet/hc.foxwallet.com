@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: Arbitrum Wallet | Layer2 Wallet
+sidebar_label: Arbitrum One
 keywords:
   - Arbitrum wallet
   - layer2 wallet

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 7
+title: Celo 钱包
+sidebar_label: Celo
 keywords:
   - Celo 钱包
   - Celo钱包

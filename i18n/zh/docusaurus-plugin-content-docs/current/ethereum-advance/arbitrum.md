@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: Arbitrum 钱包 | Layer2 钱包 | L2 钱包
+sidebar_label: Arbitrum One
 keywords:
   - Arbitrum 钱包
   - Arbitrum钱包
