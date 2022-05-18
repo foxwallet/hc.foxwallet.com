@@ -17,10 +17,10 @@ FoxWallet is the best Conflux eSpace wallet, the best CFX wallet.
 
 “Setting” => “Manage ETH RPC” => Enable Conflux eSpace => Back to wallet main page.
 
-![](../img/add-conflux.webp)
+![](../img/manage-eth-rpc.webp)![](../img/add-conflux.webp)
 
 ## Switch to Conflux eSpace
 
 Click the switch button in main page => Choose Conflux eSpace => Select one account.
 
-![](../img/switch-conflux.webp)
+![](../img/switch-network.webp)![](../img/switch-conflux.webp)
