@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 keywords:
   - Gnosis 钱包
   - Gnosis钱包

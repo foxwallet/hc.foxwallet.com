@@ -28,6 +28,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Avalanche C-Chain](./ethereum-advance/avalanche.md)
 * [Boba](./ethereum-advance/boba.md)
 * [Celo](./ethereum-advance/celo.md)
+* [Conflux eSpace](./ethereum-advance/conflux.md)
 * [Cronos](./ethereum-advance/cronos.md)
 * [Evmos](./ethereum-advance/evmos.md)
 * [Fantom](./ethereum-advance/fantom.md)

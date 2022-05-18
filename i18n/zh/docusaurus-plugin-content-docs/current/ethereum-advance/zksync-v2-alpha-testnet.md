@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 20
 keywords:
   - zkSync 钱包
   - zkSync alpha testnet

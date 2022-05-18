@@ -1,5 +1,5 @@
 ---
-sidebar_position: 17
+sidebar_position: 18
 keywords:
   - Goerli 钱包
   - 添加Goerli

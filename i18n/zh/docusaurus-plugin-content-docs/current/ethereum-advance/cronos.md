@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 keywords:
   - Cronos 钱包
   - Cronos钱包

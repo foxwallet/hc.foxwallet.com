@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 16
 keywords:
   - Moonriver 钱包
   - Moonriver钱包

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 keywords:
   - Fantom 钱包
   - Fantom钱包
