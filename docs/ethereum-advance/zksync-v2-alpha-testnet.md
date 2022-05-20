@@ -39,6 +39,6 @@ Click the switch button in main page => Choose zkSync Alpha Testnet => Select on
 
 ## Transfer
 
-FoxWallet brings the native funds manager support for zkSync 2.0 alpha tetsnet. Simply click the "Send" button in wallet tab, and input the destination address and amount.
+FoxWallet brings the native funds management support for zkSync 2.0 alpha tetsnet. Simply click the "Send" button in wallet tab, and input the destination address and amount.
 
 ![](../img/zksync-transfer.webp)
