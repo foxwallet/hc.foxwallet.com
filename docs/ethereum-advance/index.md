@@ -1,6 +1,17 @@
+---
+title: Ethereum Wallet | ETH Wallet
+sidebar_label: Ethereum Advance
+---
+
 # Ethereum Advance
 
-**FoxWallet is the best ethereum wallet.**
+```mdx-code-block
+<img src={require('@site/docs/static/img/eth.webp').default} width={"80px"} height={"80px"} alt={"Ethereum"} />
+<span> </span>
+<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+```
+
+**FoxWallet is the best ethereum wallet, the best eth wallet.**
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
