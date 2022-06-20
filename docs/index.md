@@ -13,6 +13,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Manage Wallets](./manage-wallet.md)
 * [Speed Up or Cancel Transaction](./speed-up-or-cancel-tx.md)
 * [ERC20 Usage](./erc20-usage.md)
+* [Address Book](./address-book.md)
 * [FAQs](./faq.md)
 
 ## Dapp
