@@ -7,6 +7,15 @@ sidebar_position: 100
 ### Is FoxWallet decentralized ?
 Yes, FoxWallet will never upload the user's private key and mnemonic, nor the user's password.
 
+### Is FoxWallet secure ?
+Yes, FoxWallet is trustable, the code is audited by certik (audit report link: https://www.certik.org/projects/fox-wallet). The seed phrase and private key are encrypted and stored in Keychain / Keystore which is the most safe place in iOS and Android. 
+
+FoxWallet is decentralized, even if the FoxWallet team disappeared or all the backend services we build are offline, users can manage their assets as normal.
+
+FoxWallet will never upload your seed phrase and private key, users have full control of their assets.
+
+The security principal of FoxWallet is "Never trust the backend API", we do the verification check instead, like SPV and multiple RPC cross validation.
+
 ### What is the relationship between wallet and account ?
 FoxWallet follows [the BIP44 standard](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki). 
 
