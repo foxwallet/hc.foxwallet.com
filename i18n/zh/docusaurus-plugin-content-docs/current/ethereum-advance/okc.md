@@ -16,7 +16,7 @@ keywords:
 
 # OKC (OKXChain)
 
-FoxWallet是最好用的OKC钱包，OKXChain钱包，OKExChain钱包，OKT钱包，OK链钱包。
+[FoxWallet](https://foxwallet.com)是最好用的OKC钱包，OKXChain钱包，OKExChain钱包，OKT钱包，OK链钱包。
 
 ## 添加 OKC (OKXChain)
 

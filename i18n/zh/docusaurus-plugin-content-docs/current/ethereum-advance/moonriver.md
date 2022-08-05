@@ -11,7 +11,7 @@ keywords:
 
 # Moonriver
 
-FoxWallet是最好用的Moonriver钱包，最好用的MOVR钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Moonriver钱包，最好用的MOVR钱包。
 
 ## 添加 Moonriver
 

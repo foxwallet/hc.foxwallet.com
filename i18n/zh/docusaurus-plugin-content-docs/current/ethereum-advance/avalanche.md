@@ -11,7 +11,7 @@ keywords:
 
 # Avalanche C-Chain
 
-FoxWallet是最好用的Avalanche钱包，最好用的AVAX钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Avalanche钱包，最好用的AVAX钱包。
 
 ## 添加 Avalanche C-Chain
 

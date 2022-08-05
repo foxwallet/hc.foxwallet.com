@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Address Book
 
-FoxWallet has interesting features, one of which is AddressBook. With this feature, users can save other people’s cryptocurrency wallet addresses. 
+[FoxWallet](https://foxwallet.com) has interesting features, one of which is AddressBook. With this feature, users can save other people’s cryptocurrency wallet addresses. 
 
 By taking advantage of this feature, users will easily send assets to known people and their cryptocurrency wallet addresses will be recorded in the AddressBook. 
 

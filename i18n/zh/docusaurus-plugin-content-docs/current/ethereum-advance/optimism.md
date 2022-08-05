@@ -11,7 +11,7 @@ keywords:
 
 # Optimism
 
-FoxWallet是最好用的Optimism钱包，最好用的layer2钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Optimism钱包，最好用的layer2钱包。
 
 ## 添加 Optimism
 

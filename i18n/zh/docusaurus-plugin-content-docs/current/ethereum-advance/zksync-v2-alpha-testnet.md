@@ -9,7 +9,7 @@ keywords:
 
 # zkSync 2.0 Alpha Testnet
 
-FoxWallet是最好用的zkSync钱包，最好用的zkSync 2.0 Alpha Testnet钱包。
+[FoxWallet](https://foxwallet.com)是最好用的zkSync钱包，最好用的zkSync 2.0 Alpha Testnet钱包。
 
 ## 添加 zkSync Alpha Testnet
 

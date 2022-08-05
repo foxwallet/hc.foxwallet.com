@@ -5,7 +5,7 @@ sidebar_position: 4
 # Manage Funds
 
 ### Switch networks
-FoxWallet supports multiple chains, you can switch them through the button in the top left corner of the “Wallet”
+[FoxWallet](https://foxwallet.com) supports multiple chains, you can switch them through the button in the top left corner of the “Wallet”
 
 ![](./img/switch-wallet.webp)
 

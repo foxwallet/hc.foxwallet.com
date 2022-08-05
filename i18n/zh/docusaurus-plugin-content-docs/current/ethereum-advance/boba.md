@@ -8,7 +8,7 @@ keywords:
 
 # Boba
 
-FoxWallet 最安全好用的Boba钱包。
+[FoxWallet](https://foxwallet.com) 最安全好用的Boba钱包。
 
 ## 添加 Boba Mainnet
 

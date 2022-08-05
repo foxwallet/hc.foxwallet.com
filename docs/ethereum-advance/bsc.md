@@ -16,7 +16,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best BSC wallet, the best BNB Chain wallet, the best BNB wallet.
+[FoxWallet](https://foxwallet.com) is the best BSC wallet, the best BNB Chain wallet, the best BNB wallet.
 
 ## Add BNB Chain
 

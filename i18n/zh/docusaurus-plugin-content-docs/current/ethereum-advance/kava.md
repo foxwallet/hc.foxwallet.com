@@ -8,7 +8,7 @@ keywords:
 ---
 
 # Kava EVM Co-Chain
-FoxWallet 最安全好用的Kava EVM Co-Chain钱包, 最好用的KAVA钱包。
+[FoxWallet](https://foxwallet.com) 最安全好用的Kava EVM Co-Chain钱包, 最好用的KAVA钱包。
 
 ## 添加 Kava EVM Co-Chain
 

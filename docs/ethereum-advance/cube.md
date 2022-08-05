@@ -12,7 +12,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best CUBE wallet.
+[FoxWallet](https://foxwallet.com) is the best CUBE wallet.
 
 ## Add CUBE Chain
 

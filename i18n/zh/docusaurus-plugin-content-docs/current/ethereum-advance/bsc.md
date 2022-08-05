@@ -15,7 +15,7 @@ keywords:
 
 # BNB Chain (币安智能链 BSC)
 
-FoxWallet是最好用的BSC钱包，最好用的BNB钱包，最好用的币安智能链钱包。
+[FoxWallet](https://foxwallet.com)是最好用的BSC钱包，最好用的BNB钱包，最好用的币安智能链钱包。
 
 ## 添加 BNB Chain
 

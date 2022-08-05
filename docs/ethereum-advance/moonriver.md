@@ -13,7 +13,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best Moonriver wallet, the best MOVR wallet.
+[FoxWallet](https://foxwallet.com) is the best Moonriver wallet, the best MOVR wallet.
 
 ## Add Moonriver
 

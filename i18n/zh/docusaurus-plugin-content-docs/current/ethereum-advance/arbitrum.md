@@ -11,7 +11,7 @@ keywords:
 
 # Arbitrum One
 
-FoxWallet是最好用的Arbitrum钱包，最好用的layer2钱包。
+[FoxWallet](https://foxwallet.com) 是最好用的Arbitrum钱包，最好用的layer2钱包。
 
 ## 添加 Arbitrum One
 

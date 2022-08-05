@@ -9,7 +9,7 @@ keywords:
 
 # Klaytn 主网
 
-FoxWallet 是最好用的 Klaytn Mainnet 钱包, 最好用的 KLAY 钱包.
+[FoxWallet](https://foxwallet.com)是最好用的 Klaytn Mainnet 钱包, 最好用的 KLAY 钱包.
 
 ## 添加 Klaytn 主网
 

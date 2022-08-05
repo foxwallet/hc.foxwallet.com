@@ -15,7 +15,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best zkSync wallet, the best zkSync 2.0 alpha testnet wallet.
+[FoxWallet](https://foxwallet.com) is the best zkSync wallet, the best zkSync 2.0 alpha testnet wallet.
 
 ## Add zkSync Alpha Testnet
 

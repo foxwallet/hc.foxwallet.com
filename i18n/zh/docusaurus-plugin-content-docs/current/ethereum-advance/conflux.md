@@ -11,7 +11,7 @@ keywords:
 
 # Conflux eSpace
 
-FoxWallet是最好用的Conflux钱包，最好用的CFX钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Conflux钱包，最好用的CFX钱包。
 
 ## 添加 Conflux eSpace
 

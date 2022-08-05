@@ -13,7 +13,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best Kava EVM Co-Chain wallet, the best KAVA wallet.
+[FoxWallet](https://foxwallet.com) is the best Kava EVM Co-Chain wallet, the best KAVA wallet.
 
 ## Add Kava EVM Co-Chain
 

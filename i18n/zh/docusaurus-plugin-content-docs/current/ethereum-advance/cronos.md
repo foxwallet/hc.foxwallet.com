@@ -11,7 +11,7 @@ keywords:
 
 # Cronos Mainnet Beta
 
-FoxWallet是最好用的Cronos钱包，最好用的CRO钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Cronos钱包，最好用的CRO钱包。
 
 ## 添加 Cronos Mainnet Beta
 

@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Manage Wallets
-FoxWallet supports importing multiple wallets through private key or mnemonic. In particular, the mnemonic type wallet is based on [BIP44 standard](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki), so multiple accounts can be assigned, each with a unique address.  
+[FoxWallet](https://foxwallet.com) supports importing multiple wallets through private key or mnemonic. In particular, the mnemonic type wallet is based on [BIP44 standard](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki), so multiple accounts can be assigned, each with a unique address.  
 
 You can view the "Manage Wallet" page via "Settings" => "Wallets", view/add/remove wallets and accounts. 
 

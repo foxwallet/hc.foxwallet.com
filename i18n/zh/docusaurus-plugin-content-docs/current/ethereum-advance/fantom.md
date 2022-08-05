@@ -11,7 +11,7 @@ keywords:
 
 # Fantom
 
-FoxWallet是最好用的Fantom钱包，最好用的FTM钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Fantom钱包，最好用的FTM钱包。
 
 ## 添加 Fantom
 

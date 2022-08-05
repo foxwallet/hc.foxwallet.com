@@ -11,7 +11,7 @@ keywords:
 
 # KCC
 
-FoxWallet 最安全好用的KuCoin社区链钱包, 最好用的KCC钱包, 最好用的KCS钱包。
+[FoxWallet](https://foxwallet.com) 最安全好用的KuCoin社区链钱包, 最好用的KCC钱包, 最好用的KCS钱包。
 
 ## 添加 KCC
 

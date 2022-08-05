@@ -10,7 +10,7 @@ keywords:
 # 以太坊测试网 Goerli (Görli)
 
 ## 添加网络
-打开FoxWallet，进入设置页 => "管理 ETH RPC" => 勾选 Goerli Testnet => 返回到钱包主页。
+打开[FoxWallet](https://foxwallet.com)，进入设置页 => "管理 ETH RPC" => 勾选 Goerli Testnet => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-goerli.webp)
 

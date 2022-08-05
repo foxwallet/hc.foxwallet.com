@@ -13,7 +13,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best Klaytn Mainnet wallet, the best KLAY wallet.
+[FoxWallet](https://foxwallet.com) is the best Klaytn Mainnet wallet, the best KLAY wallet.
 
 ## Add Klaytn Mainnet
 

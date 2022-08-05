@@ -13,7 +13,7 @@ keywords:
 <span> </span>
 <img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
-FoxWallet is the best Caduceus wallet, the best CMP wallet.
+[FoxWallet](https://foxwallet.com) is the best Caduceus wallet, the best CMP wallet.
 
 ## Add Caduceus Mainnet
 

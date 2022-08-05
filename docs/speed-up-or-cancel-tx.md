@@ -20,7 +20,7 @@ If you have more than one transaction stuck, you need speed up the earliest one 
 ![](./img/pending.webp)
 
 ## Cancel Transaction
-If you send a transaction by mistake, and luckily the transaction is not confirmed, you can go to the "Transaction Detail" page, and click "Cancel" to re-broadcast your tx, FoxWallet will create a new transaction sending funds to your self with higher gas.
+If you send a transaction by mistake, and luckily the transaction is not confirmed, you can go to the "Transaction Detail" page, and click "Cancel" to re-broadcast your tx, [FoxWallet](https://foxwallet.com) will create a new transaction sending funds to your self with higher gas.
 
 
 

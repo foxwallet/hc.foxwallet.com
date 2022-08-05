@@ -13,7 +13,7 @@ keywords:
 
 # Polygon (Matic)
 
-FoxWallet是最好用的Polygon钱包，最好用的Matic钱包，最好用的layer2钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Polygon钱包，最好用的Matic钱包，最好用的layer2钱包。
 
 ## 添加 Polygon
 

@@ -11,7 +11,7 @@ keywords:
 
 # Gnosis Chain (xDAI)
 
-FoxWallet是最好用的Gnosis钱包，最好用的xDAI钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Gnosis钱包，最好用的xDAI钱包。
 
 ## 添加 Gnosis Chain
 

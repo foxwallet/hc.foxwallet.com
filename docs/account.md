@@ -5,7 +5,7 @@ description: FoxWallet is one of the few wallets on the market that supports mul
 
 # Account System
 
-FoxWallet is one of the few wallets on the market that supports **multi-chain, multi-wallet and multi-seed**.
+[FoxWallet](https://foxwallet.com) is one of the few wallets on the market that supports **multi-chain, multi-wallet and multi-seed**.
 This feature provides maximum convenience while ensuring the safety of your assets.
 
 ## One Seed for Multiple chains
@@ -20,9 +20,9 @@ The derivation rule is based on a fixed order, therefore **all accounts can be r
 Account derivation rules follow the standard [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki). Even if FoxWallet is unavailable, your accounts can still be recovered with other wallets and tools that follow the same standard.
 
 ## Multiple Seeds Supported
-FoxWallet supports creating or importing multiple sets of seed phrases. Importing a 24-word seed phrase is also acceptable. Users can easily switch between different wallets on the "Wallets" page.
+[FoxWallet](https://foxwallet.com) supports creating or importing multiple sets of seed phrases. Importing a 24-word seed phrase is also acceptable. Users can easily switch between different wallets on the "Wallets" page.
 
 ## Importing/Exporting Private Keys
-Private keys generated in other wallets can also be imported into FoxWallet. However, these accounts cannot enjoy the features of multi-chain and multi-accounts.
+Private keys generated in other wallets can also be imported into [FoxWallet](https://foxwallet.com). However, these accounts cannot enjoy the features of multi-chain and multi-accounts.
 
-Users can also export the private keys of accounts generated in FoxWallet, and use them elsewhere.
+Users can also export the private keys of accounts generated in [FoxWallet](https://foxwallet.com), and use them elsewhere.

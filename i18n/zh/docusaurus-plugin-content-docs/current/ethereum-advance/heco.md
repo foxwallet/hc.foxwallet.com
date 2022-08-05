@@ -10,7 +10,7 @@ keywords:
 
 # Huobi ECO (火币生态链 HECO)
 
-FoxWallet是最好用的HECO钱包，最好用的火币生态链钱包。
+[FoxWallet](https://foxwallet.com)是最好用的HECO钱包，最好用的火币生态链钱包。
 
 ## 添加 HECO
 

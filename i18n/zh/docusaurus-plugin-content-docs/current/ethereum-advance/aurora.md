@@ -9,7 +9,7 @@ keywords:
 
 # Aurora
 
-FoxWallet是最好用的Aurora钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Aurora钱包。
 
 ## 添加 Aurora
 

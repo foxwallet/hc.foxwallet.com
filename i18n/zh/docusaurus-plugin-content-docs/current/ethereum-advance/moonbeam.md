@@ -11,7 +11,7 @@ keywords:
 
 # Moonbeam
 
-FoxWallet是最好用的Moonbeam钱包，最好用的GLMR钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Moonbeam钱包，最好用的GLMR钱包。
 
 ## 添加 Moonbeam
 

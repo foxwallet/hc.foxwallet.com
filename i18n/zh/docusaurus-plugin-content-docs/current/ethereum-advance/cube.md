@@ -7,7 +7,7 @@ keywords:
 ---
 
 # CUBE Chain
-FoxWallet是最好用的CUBE钱包。
+[FoxWallet](https://foxwallet.com)是最好用的CUBE钱包。
 
 ## 添加 CUBE Chain
 

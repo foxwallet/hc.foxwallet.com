@@ -9,7 +9,7 @@ keywords:
 
 # Celo
 
-FoxWallet是最好用的Celo钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Celo钱包。
 
 ## 添加 Celo
 

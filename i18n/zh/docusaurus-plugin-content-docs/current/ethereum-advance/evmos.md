@@ -9,7 +9,7 @@ keywords:
 
 # Evmos
 
-FoxWallet是最好用的Evmos钱包。
+[FoxWallet](https://foxwallet.com)是最好用的Evmos钱包。
 
 ## 添加 Evmos
 

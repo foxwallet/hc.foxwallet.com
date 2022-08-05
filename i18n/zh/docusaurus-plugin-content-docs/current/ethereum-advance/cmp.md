@@ -8,7 +8,7 @@ keywords:
 ---
 
 # Caduceus 主网
-FoxWallet 是最好用的 Caduceus钱包，最好用的CMP钱包。
+[FoxWallet](https://foxwallet.com) 是最好用的 Caduceus钱包，最好用的CMP钱包。
 
 ## 添加 Caduceus 主网
 
