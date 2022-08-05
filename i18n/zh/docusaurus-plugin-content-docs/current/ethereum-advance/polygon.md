@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 23
 title: Polygon 钱包 | Matic 钱包 | Layer2 钱包 | L2 钱包
 sidebar_label: Polygon (Matic)
 keywords:

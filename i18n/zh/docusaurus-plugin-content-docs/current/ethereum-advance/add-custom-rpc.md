@@ -6,7 +6,7 @@ keywords:
 ---
 
 # 添加自定义RPC
-FoxWallet 已内置以下以太坊兼容链：[BNB Chain](./bsc.md), [Arbitrum](./arbitrum.md), [Aurora](./aurora.md), [Avalanche](./avalanche.md), [Boba](./boba.md), [Celo](./celo.md), [Cronos](./cronos.md), [Evmos](./evmos.md), [Fantom](./fantom.md), [Gnosis](./gnosis.md), [HECO](./heco.md), [KCC](./kcc.md), [Moonbeam](./moonbeam.md), [Moonriver](./moonriver.md), [OKC](./okc.md), [Optimism](./optimism.md), [Polygon](./polygon.md), [zkSync 2.0 alpha testnet](./zksync-v2-alpha-testnet.md). 。 
+FoxWallet 已内置以下以太坊兼容链：[BNB Chain](./bsc.md), [Arbitrum](./arbitrum.md), [Aurora](./aurora.md), [Avalanche](./avalanche.md), [Boba](./boba.md), [Celo](./celo.md), [Caduceus](./cmp.md),[Cronos](./cronos.md), [CUBE](./cube.md),[Evmos](./evmos.md), [Fantom](./fantom.md), [Gnosis](./gnosis.md), [HECO](./heco.md), [Kava](./kava.md), [KCC](./kcc.md), [Klaytn](./klay.md), [Moonbeam](./moonbeam.md), [Moonriver](./moonriver.md), [OKC](./okc.md), [Optimism](./optimism.md), [Polygon](./polygon.md), [zkSync 2.0 alpha testnet](./zksync-v2-alpha-testnet.md). 
 
 使用这些链只需在设置中开启，无需手动添加自定义RPC。
 

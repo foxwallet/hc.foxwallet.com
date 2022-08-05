@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 12
 title: Evmos Wallet
 sidebar_label: Evmos
 keywords:

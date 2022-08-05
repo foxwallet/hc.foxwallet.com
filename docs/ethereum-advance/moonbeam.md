@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 19
 title: Moonbeam Wallet | GLMR Wallet
 sidebar_label: Moonbeam
 keywords:

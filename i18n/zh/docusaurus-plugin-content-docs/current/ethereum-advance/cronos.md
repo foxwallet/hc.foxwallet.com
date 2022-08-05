@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 title: Cronos 钱包 | CRO 钱包
 sidebar_label: Cronos Mainnet Beta
 keywords:

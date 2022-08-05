@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 17
 title: KCC 钱包 | 库币社区链钱包
 sidebar_label: KCC
 keywords:
@@ -15,7 +15,7 @@ FoxWallet 最安全好用的KuCoin社区链钱包, 最好用的KCC钱包, 最好
 
 ## 添加 KCC
 
-“设置” => “管理 ETH RPC” => 勾选 KCC Mainnet => 返回到钱包主页。
+“设置” => “ETH RPC” => 勾选 KCC Mainnet => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-kcc.webp)
 

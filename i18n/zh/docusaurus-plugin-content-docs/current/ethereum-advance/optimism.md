@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 22
 title: Optimism 钱包 | Layer2 钱包 | L2 钱包
 sidebar_label: Optimism
 keywords:

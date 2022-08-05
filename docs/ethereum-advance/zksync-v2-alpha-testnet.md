@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20
+sidebar_position: 24
 title: zkSync Wallet | Layer2 Wallet
 sidebar_label: zkSync 2.0 Alpha Testnet
 keywords:

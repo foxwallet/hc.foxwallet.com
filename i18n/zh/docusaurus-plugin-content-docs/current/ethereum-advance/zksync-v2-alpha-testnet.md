@@ -1,5 +1,5 @@
 ---
-sidebar_position: 20
+sidebar_position: 24
 title: zkSync 钱包 | Layer2 钱包 | L2 钱包
 sidebar_label: zkSync 2.0 Alpha Testnet
 keywords:

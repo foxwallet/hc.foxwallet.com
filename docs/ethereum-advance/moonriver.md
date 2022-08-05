@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 20
 title: Moonriver Wallet | MOVR Wallet
 sidebar_label: Moonriver
 keywords:

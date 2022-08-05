@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 23
 title: Polygon Wallet | Matic Wallet | Layer2 Wallet
 sidebar_label: Polygon (Matic)
 keywords:

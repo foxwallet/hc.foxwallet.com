@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 15
 title: Heco Wallet | HT Wallet
 sidebar_label: Huobi ECO (HECO)
 keywords:

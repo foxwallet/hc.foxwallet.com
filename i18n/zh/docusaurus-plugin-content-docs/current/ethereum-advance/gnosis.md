@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 14
 title: Gnosis 钱包 | xDAI 钱包
 sidebar_label: Gnosis Chain (xDAI)
 keywords:
