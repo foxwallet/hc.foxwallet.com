@@ -14,11 +14,9 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Speed Up or Cancel Transaction](./speed-up-or-cancel-tx.md)
 * [ERC20 Usage](./erc20-usage.md)
 * [Address Book](./address-book.md)
+* [Invite](./invite.md)
+* [Approval Management](./approval.md)
 * [FAQs](./faq.md)
-
-## Dapp
-* [zkSync 1.0 Tutorial](./dapp/zksync-v1.md)
-* [zkSync 2.0 Testnet Tutorial](./dapp/zksync-v2-testnet.md)
 
 ## Aptos
 * [Aptos Usage](./aptos/index.md)
@@ -58,3 +56,6 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Import Wallet From Filfox](./filecoin-advance/import-from-filfox.md)
 * [Interact with lotus](./filecoin-advance/interact-with-lotus.md)
 
+## Dapp
+* [zkSync 1.0 Tutorial](./dapp/zksync-v1.md)
+* [zkSync 2.0 Testnet Tutorial](./dapp/zksync-v2-testnet.md)
