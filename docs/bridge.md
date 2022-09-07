@@ -2,7 +2,7 @@
 sidebar_position: 12
 title: Cross-Chain Bridge
 sidebar_label: Bridge
-description: review and reove your token approvals
+description: transfer assets between blockchains
 ---
 
 # Cross-Chain Bridge

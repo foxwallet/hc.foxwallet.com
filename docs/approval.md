@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-description: review and reove your token approvals
+description: review and revoke your token approvals
 ---
 
 # Approval Management
@@ -21,5 +21,5 @@ Once an approval is granted, some smart contracts may be able to execute transac
 * Click the "Approvals" button in the tools page  
   ![](./img/tools-approvals.webp)
 
-* Review and reove your token approvals  
+* Review and revoke your token approvals  
   ![](./img/approvals.webp)
