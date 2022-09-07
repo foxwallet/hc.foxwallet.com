@@ -20,6 +20,10 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [zkSync 1.0 Tutorial](./dapp/zksync-v1.md)
 * [zkSync 2.0 Testnet Tutorial](./dapp/zksync-v2-testnet.md)
 
+## Aptos
+* [Aptos Usage](./aptos/index.md)
+* [Faucet](./aptos/faucet.md)
+
 ## Ethereum Advance
 * [Add Custom RPC](./ethereum-advance/add-custom-rpc.md)
 * [BNB Chain (BSC)](./ethereum-advance/bsc.md)
