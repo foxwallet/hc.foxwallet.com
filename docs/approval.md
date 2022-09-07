@@ -13,7 +13,7 @@ Most protocols have users approve an infinite amount of tokens so they would nev
 
 Once an approval is granted, some smart contracts may be able to execute transactions without further approval or action from the wallet owner. 
 
-With FoxWallet's Token Approvals feature, you have a clear view of all the smart contracts and corresponding tokens you have allowed to spend on your behalf. You can easily revoke their approval or decrease the approved amounts.
+**With FoxWallet's Token Approvals feature, you have a clear view of all the smart contracts and corresponding tokens you have allowed to spend on your behalf. Easily revoke your approval or decrease the approved amounts.**
 
 * Open FoxWallet, click the "More" button  
   ![](./img/tools-more.webp)
