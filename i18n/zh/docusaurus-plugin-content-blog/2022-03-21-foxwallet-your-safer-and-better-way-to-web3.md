@@ -22,7 +22,7 @@ Web3时代，钱包不仅是存储、管理和交易数字货币的工具，更�
 ### 为用户带来更多功能
 目前，FoxWallet可以提供以太坊和Filecoin网络的转账服务，用户也可以直接通过钱包进行以太坊网络上的DApp交互。作为Web3的门户，FoxWallet已经支持 BNB Chain, Polygon, Evmos, Avalanche, Arbitrum, Aurora, Aleo, Celo, Cronos, ETC, Fantom, Gnosis, HECO, KCC, Moonriver, OKC。
   
-除了一些基础功能外，FoxWallet的特色之一在于[全面支持Filecoin生态](https://hc.foxwallet.com/docs/filecoin-advance/)。用户可以在钱包内直接浏览链上实时数据，监控错误扇区和FIL地址余额。这让Filecoin生态的矿工可以更为方便的管理和追踪节点状态。访问 https://hc.foxwallet.com/docs/filecoin-advance/ 了解更多的功能。
+除了一些基础功能外，FoxWallet的特色之一在于[全面支持Filecoin生态](https://hc.foxwallet.com/docs/filecoin/)。用户可以在钱包内直接浏览链上实时数据，监控错误扇区和FIL地址余额。这让Filecoin生态的矿工可以更为方便的管理和追踪节点状态。访问 https://hc.foxwallet.com/docs/filecoin/ 了解更多的功能。
 
 ### 为用户提供更多福利
 FoxWallet在产品设计上一直广泛吸纳用户反馈，基于用户需求持续迭代和更新，为用户在Web3时代获得更安全更便捷的体验而不断探索。同时，我们不定期举办各类活动以回馈社区贡献者，感谢其对FoxWallet一直以来的支持和认可。目前，[FoxWallet——Leaving Comments Giveaway](https://givelab.com/leaving-comment-share-5000u/leaving-comment-share-5000-fil-giveaway)的活动正在火热进行中，参与用户可瓜分价值5000刀FIL的奖池。加入FoxWallet官方社区，并在App Store或Google Store里参与评论，即可获得奖励。活动截至 2022-03-25 13:00（UTC），速速加入！

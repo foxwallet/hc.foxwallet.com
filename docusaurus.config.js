@@ -27,10 +27,23 @@ const config = {
       {
         redirects: [
           {
-            to: '/docs/ethereum-advance/okc',
-            from: '/docs/ethereum-advance/okex',
+            to: '/docs/basic/bookmark',
+            from: '/docs/bookmark',
           },
         ],
+        createRedirects(existingPath) {
+          if (existingPath.includes('/docs/ethereum')) {
+            return [
+              existingPath.replace('/docs/ethereum', '/docs/ethereum-advance'),
+            ];
+          }
+          if (existingPath.includes('/docs/filecoin')) {
+            return [
+              existingPath.replace('/docs/filecoin', '/docs/filecoin-advance'),
+            ];
+          }
+          return undefined; // Return a falsy value: no redirect created
+        },
       },
     ],
   ],
@@ -116,7 +129,7 @@ const config = {
               },
               {
                 label: 'Import from filfox',
-                to: '/docs/filecoin-advance/import-from-filfox',
+                to: '/docs/filecoin/import-from-filfox',
               }
             ],
           },
