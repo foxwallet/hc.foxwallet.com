@@ -8,7 +8,7 @@ This feature also minimizes the risk of manual typing errors in cryptocurrency a
 
 ## Add address
 
-1. Open "SETTINGS" Menu
+1. Open "Me" Tab
 
 ![](../img/settings.webp)
 

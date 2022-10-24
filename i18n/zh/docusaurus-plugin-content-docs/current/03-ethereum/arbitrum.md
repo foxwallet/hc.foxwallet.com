@@ -15,7 +15,7 @@ keywords:
 
 ## 添加 Arbitrum One
 
-“设置” => “管理 ETH RPC” => 勾选 Arbitrum One => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Arbitrum One => 返回到钱包主页。
 
 ![](../img/add-arbitrum.webp)
 

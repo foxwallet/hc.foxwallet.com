@@ -17,7 +17,7 @@ keywords:
 
 ## Add Caduceus Mainnet
 
-“Setting” => “ETH RPC” => Enable Caduceus Mainnet => Back to wallet main page.
+"Me" => "Networks" => Enable Caduceus Mainnet => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-cmp.webp)
 

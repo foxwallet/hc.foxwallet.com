@@ -16,7 +16,7 @@ keywords:
 
 ## Add Celo
 
-“Setting” => “Manage ETH RPC” => Enable Celo => Back to wallet main page.
+"Me" => "Networks" => Enable Celo => Back to wallet main page.
 
 ![](../img/add-celo.webp)
 

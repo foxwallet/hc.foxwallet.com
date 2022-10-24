@@ -14,7 +14,7 @@ zkSync 2.0 是以太坊测试网上第一个与 EVM 兼容的 ZK Rollup。
 ## 添加以太坊 Goerli 测试网
 zkSync 2.0 测试网部署在 以太坊的Goerli测试网上，所以得先添加Goerli测试网到钱包。
 
-打开FoxWallet，进入设置页，点击“管理 ETH RPC”，滑动页面到最下方，点击按钮“添加自定义 RPC”。切换到Goerli后领取一些测试币。
+打开FoxWallet，进入”我“ Tab，点击“管理网络”，滑动页面到最下方，点击按钮“添加自定义 RPC”。切换到Goerli后领取一些测试币。
 
 具体的步骤可以参考：[以太坊测试网 Goerli (Görli)教程](../ethereum/eth-goerli-testnet)。
 

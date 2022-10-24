@@ -16,7 +16,7 @@ keywords:
 
 ### 2. 导入私钥到 FoxWallet
 
-点击 设置页的 “管理钱包” 按钮。
+点击 “我” Tab 里的 “管理钱包” 按钮。
 
 ![](../img/add-wallet-2.webp)
 

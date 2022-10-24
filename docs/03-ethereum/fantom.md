@@ -17,7 +17,7 @@ keywords:
 
 ## Add Fantom
 
-“Setting” => “Manage ETH RPC” => Enable Fantom => Back to wallet main page.
+"Me" => "Networks" => Enable Fantom => Back to wallet main page.
 
 ![](../img/add-fantom.webp)
 

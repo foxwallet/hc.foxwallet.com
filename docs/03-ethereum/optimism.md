@@ -17,7 +17,7 @@ keywords:
 
 ## Add Optimism
 
-“Setting” => “Manage ETH RPC” => Enable Optimism => Back to wallet main page.
+"Me" => "Networks" => Enable Optimism => Back to wallet main page.
 
 ![](../img/add-op.webp)
 

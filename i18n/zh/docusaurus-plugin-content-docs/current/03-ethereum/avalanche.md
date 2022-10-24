@@ -15,7 +15,7 @@ keywords:
 
 ## 添加 Avalanche C-Chain
 
-“设置” => “管理 ETH RPC” => 勾选 Avalanche C-Chain => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Avalanche C-Chain => 返回到钱包主页。
 
 ![](../img/add-avalanche.webp)
 

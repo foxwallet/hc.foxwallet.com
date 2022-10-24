@@ -13,7 +13,7 @@ keywords:
 
 ## 添加 Aurora
 
-“设置” => “管理 ETH RPC” => 勾选 Aurora => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Aurora => 返回到钱包主页。
 
 ![](../img/add-aurora.webp)
 

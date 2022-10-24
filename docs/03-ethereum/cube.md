@@ -16,7 +16,7 @@ keywords:
 
 ## Add CUBE Chain
 
-“Setting” => “ETH RPC” => Enable CUBE Chain => Back to wallet main page.
+"Me" => "Networks" => Enable CUBE Chain => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-cube.webp)
 

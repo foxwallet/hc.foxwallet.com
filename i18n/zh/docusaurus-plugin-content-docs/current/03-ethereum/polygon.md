@@ -17,7 +17,7 @@ keywords:
 
 ## 添加 Polygon
 
-“设置” => “管理 ETH RPC” => 勾选 Polygon => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Polygon => 返回到钱包主页。
 
 ![](../img/add-polygon.webp)
 

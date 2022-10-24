@@ -7,7 +7,7 @@ Invite your friends to [download FoxWallet](https://foxwallet.com/download), and
 
 ## 1. Get your invitation code
 
-* Click the “Share” menu in "Settings" page
+* Click the “Share” menu in "Me" page
   
   ![setting-share](../img/setting-share.webp)
 * If your haven't bind identity，click “Bind Identity First” and choose an ETH account as your identity.
@@ -25,7 +25,7 @@ Invite your friends to [download FoxWallet](https://foxwallet.com/download), and
 ## 3. Enter invitation code
 
 * Copy and send your invitation code to your friends
-* Let your friends click the "Enter invitation code" menu in "Settings" page
+* Let your friends click the "Enter invitation code" menu in "Me" page
   
   ![setting-enter-invite-code](../img/setting-enter-invite-code.webp)
 * click “Bind Identity First” and choose an ETH account.

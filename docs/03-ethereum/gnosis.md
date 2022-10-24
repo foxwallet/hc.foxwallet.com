@@ -17,7 +17,7 @@ keywords:
 
 ## Add Gnosis Chain
 
-“Setting” => “Manage ETH RPC” => Enable Gnosis Chain => Back to wallet main page.
+"Me" => "Networks" => Enable Gnosis Chain => Back to wallet main page.
 
 ![](../img/add-gnosis.webp)
 

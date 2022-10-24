@@ -13,7 +13,7 @@ keywords:
 
 ## 添加 Klaytn 主网
 
-“设置” => “ETH RPC” => 勾选 Klaytn Mainnet => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Klaytn Mainnet => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-klay.webp)
 

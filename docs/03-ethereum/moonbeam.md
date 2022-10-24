@@ -17,7 +17,7 @@ keywords:
 
 ## Add Moonbeam
 
-“Setting” => “Manage ETH RPC” => Enable Moonbeam => Back to wallet main page.
+"Me" => "Networks" => Enable Moonbeam => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-moonbeam.webp)
 

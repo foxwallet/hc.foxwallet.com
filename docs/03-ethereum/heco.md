@@ -17,7 +17,7 @@ keywords:
 
 ## Add HECO
 
-“Setting” => “Manage ETH RPC” => Enable HECO => Back to wallet main page.
+"Me" => "Networks" => Enable HECO => Back to wallet main page.
 
 ![](../img/add-heco.webp)
 

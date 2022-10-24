@@ -18,7 +18,7 @@ Enter the 12 seed phrase in the verification box according the sequence you have
 
 ![](../img/backup-seed.webp)
 
-If you choose to back up your seed phrase later, click “Remind me later” to enter the” Wallet” page. The backup of seed phrase and private key can be done through” Wallets” on the” Settings” page.
+If you choose to back up your seed phrase later, click “Remind me later” to enter the” Wallet” page. The backup of seed phrase and private key can be done through” Wallets” on the” Me” page.
 
 ### If you already have a wallet, directly select “Import Wallet”.
 

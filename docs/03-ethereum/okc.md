@@ -19,7 +19,7 @@ keywords:
 
 ## Add OKC (OKXChain)
 
-“Setting” => “Manage ETH RPC” => Enable OKC (OKXChain) => Back to wallet main page.
+"Me" => "Networks" => Enable OKC (OKXChain) => Back to wallet main page.
 
 ![](../img/add-okc.webp)
 

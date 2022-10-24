@@ -30,7 +30,7 @@ keywords:
 
 ![](../img/add-wallet-1.webp)
 
-另一种方式是进入“设置页”，然后点击“管理钱包”。
+另一种方式是进入“我” Tab，然后点击“管理钱包”。
 
 ![](../img/add-wallet-2.webp)
 

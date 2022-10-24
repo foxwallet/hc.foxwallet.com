@@ -18,7 +18,7 @@ keywords:
 
 ## Add Arbitrum One
 
-“Setting” => “Manage ETH RPC” => Enable Arbitrum One => Back to wallet main page.
+"Me" => "Networks" => Enable Arbitrum One => Back to wallet main page.
 
 ![](../img/add-arbitrum.webp)
 

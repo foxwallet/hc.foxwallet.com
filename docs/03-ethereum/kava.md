@@ -17,7 +17,7 @@ keywords:
 
 ## Add Kava EVM Co-Chain
 
-“Setting” => “ETH RPC” => Enable Kava EVM Co-Chain => Back to wallet main page.
+"Me" => "Networks" => Enable Kava EVM Co-Chain => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-kava.webp)
 

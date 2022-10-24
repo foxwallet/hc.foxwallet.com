@@ -16,7 +16,7 @@ keywords:
 
 ## Add Aurora
 
-“Setting” => “Manage ETH RPC” => Enable Aurora => Back to wallet main page.
+"Me" => "Networks" => Enable Aurora => Back to wallet main page.
 
 ![](../img/add-aurora.webp)
 

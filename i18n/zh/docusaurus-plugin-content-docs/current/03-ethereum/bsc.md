@@ -19,7 +19,7 @@ keywords:
 
 ## 添加 BNB Chain
 
-“设置” => “管理 ETH RPC” => 勾选 BNB Chain => 返回到钱包主页。
+“我” => “管理网络” => 勾选 BNB Chain => 返回到钱包主页。
 
 ![](../img/add-bsc.webp)
 

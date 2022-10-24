@@ -13,7 +13,7 @@ keywords:
 
 ## 添加 zkSync Alpha Testnet
 
-“设置” => “管理 ETH RPC” => 勾选 zkSync Alpha Testnet => 返回到钱包主页。
+“我” => “管理网络” => 勾选 zkSync Alpha Testnet => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-zksync-alpha-testnet.webp)
 

@@ -11,7 +11,7 @@ keywords:
 
 ## 添加 CUBE Chain
 
-“设置” => “管理 ETH RPC” => 勾选 CUBE Chain => 返回到钱包主页。
+“我” => “管理网络” => 勾选 CUBE Chain => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-cube.webp)
 

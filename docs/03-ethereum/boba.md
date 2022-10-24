@@ -16,7 +16,7 @@ keywords:
 
 ## Add Boba Mainnet
 
-“Setting” => “Manage ETH RPC” => Enable Boba Mainnet => Back to wallet main page.
+"Me" => "Networks" => Enable Boba Mainnet => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-boba.webp)
 

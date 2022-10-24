@@ -17,7 +17,7 @@ keywords:
 
 ## Add Klaytn Mainnet
 
-“Setting” => “ETH RPC” => Enable Klaytn Mainnet => Back to wallet main page.
+"Me" => "Networks" => Enable Klaytn Mainnet => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-klay.webp)
 

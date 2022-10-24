@@ -17,7 +17,7 @@ keywords:
 
 ## Add Moonriver
 
-“Setting” => “Manage ETH RPC” => Enable Moonriver => Back to wallet main page.
+"Me" => "Networks" => Enable Moonriver => Back to wallet main page.
 
 ![](../img/add-movr.webp)
 

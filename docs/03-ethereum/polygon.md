@@ -18,7 +18,7 @@ keywords:
 
 ## Add Polygon
 
-“Setting” => “Manage ETH RPC” => Enable Polygon => Back to wallet main page.
+"Me" => "Networks" => Enable Polygon => Back to wallet main page.
 
 ![](../img/add-polygon.webp)
 

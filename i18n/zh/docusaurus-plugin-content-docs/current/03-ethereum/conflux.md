@@ -15,7 +15,7 @@ keywords:
 
 ## 添加 Conflux eSpace
 
-“设置” => “管理 ETH RPC” => 勾选 Conflux eSpace => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Conflux eSpace => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-conflux.webp)
 

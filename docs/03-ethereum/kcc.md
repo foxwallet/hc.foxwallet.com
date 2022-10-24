@@ -18,7 +18,7 @@ keywords:
 
 ## Add KCC
 
-“Setting” => “Manage ETH RPC” => Enable KCC Mainnet => Back to wallet main page.
+"Me" => "Networks" => Enable KCC Mainnet => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-kcc.webp)
 

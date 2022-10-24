@@ -17,7 +17,7 @@ keywords:
 
 ## Add Cronos Mainnet Beta
 
-“Setting” => “Manage ETH RPC” => Enable Cronos Mainnet Beta => Back to wallet main page.
+"Me" => "Networks" => Enable Cronos Mainnet Beta => Back to wallet main page.
 
 ![](../img/add-cronos.webp)
 

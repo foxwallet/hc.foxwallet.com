@@ -17,7 +17,7 @@ keywords:
 
 ## Add Avalanche C-Chain
 
-“Setting” => “Manage ETH RPC” => Enable Avalanche C-Chain => Back to wallet main page.
+"Me" => "Networks" => Enable Avalanche C-Chain => Back to wallet main page.
 
 ![](../img/add-avalanche.webp)
 

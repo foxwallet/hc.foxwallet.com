@@ -15,7 +15,7 @@ keywords:
 
 ## 添加 KCC
 
-“设置” => “ETH RPC” => 勾选 KCC Mainnet => 返回到钱包主页。
+“我” => “管理网络” => 勾选 KCC Mainnet => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-kcc.webp)
 

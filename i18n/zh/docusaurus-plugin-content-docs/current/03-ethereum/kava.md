@@ -12,7 +12,7 @@ keywords:
 
 ## 添加 Kava EVM Co-Chain
 
-“设置” => “ETH RPC” => 勾选 Kava EVM Co-Chain => 返回到钱包主页。
+“我” => “管理网络” => 勾选 Kava EVM Co-Chain => 返回到钱包主页。
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-kava.webp)
 

@@ -17,7 +17,7 @@ keywords:
 
 ## Add Conflux eSpace
 
-“Setting” => “Manage ETH RPC” => Enable Conflux eSpace => Back to wallet main page.
+"Me" => "Networks" => Enable Conflux eSpace => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-conflux.webp)
 

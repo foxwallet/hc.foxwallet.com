@@ -16,7 +16,7 @@ keywords:
 
 ## Add Evmos
 
-“Setting” => “Manage ETH RPC” => Enable Evmos => Back to wallet main page.
+"Me" => "Networks" => Enable Evmos => Back to wallet main page.
 
 ![](../img/add-evmos.webp)
 

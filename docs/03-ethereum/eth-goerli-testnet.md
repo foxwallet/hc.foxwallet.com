@@ -12,7 +12,7 @@ keywords:
 # Ethereum Goerli Testnet (Görli)
 
 ## Add Network
-“Setting” => “Manage ETH RPC” => Enable Goerli Testnet => Back to wallet main page.
+"Me" => "Networks" => Enable Goerli Testnet => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-goerli.webp)
 

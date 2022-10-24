@@ -19,7 +19,7 @@ keywords:
 
 ## Add zkSync Alpha Testnet
 
-“Setting” => “Manage ETH RPC” => Enable zkSync Alpha Testnet => Back to wallet main page.
+"Me" => "Networks" => Enable zkSync Alpha Testnet => Back to wallet main page.
 
 ![](../img/manage-eth-rpc.webp)![](../img/add-zksync-alpha-testnet.webp)
 

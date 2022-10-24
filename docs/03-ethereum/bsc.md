@@ -20,7 +20,7 @@ keywords:
 
 ## Add BNB Chain
 
-“Setting” => “Manage ETH RPC” => Enable BNB Chain => Back to wallet main page.
+"Me" => "Networks" => Enable BNB Chain => Back to wallet main page.
 
 ![](../img/add-bsc.webp)
 

@@ -14,7 +14,7 @@ zkSync 2.0 is the first EVM compatiable ZK Rollup on ethereum testnet.
 ## Add Goerli Testnet
 zkSync 2.0 testnet is deployed on the ethereum Goerli testnet.
 
-Open FoxWallet，go to "Settings" tab，click “manage ETH RPC”，scroll to the page bottom，click “Add Custom RPC”, input info and save to add.
+Open FoxWallet，go to "Me" tab，click “Networks”，scroll to the page bottom，click “Add Custom RPC”, input info and save to add.
 
 Switch network to Goerli, and get some test coin.
 
