@@ -18,7 +18,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Approval Management](./basic/approval)
 * [Bridge](./basic/bridge) 
 * [Security Tips](./security-tips)
-* [FAQs](./faq.md)
+* [FAQs](./faq)
 
 ## Aptos
 * [Aptos Usage](./aptos)
