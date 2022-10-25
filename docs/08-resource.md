@@ -1,25 +1,50 @@
 # Resource
 
-## FoxWallet-icon-blue
-![](./img/icon-blue-600x600.jpg)
+## Resource V4
+
+### FoxWallet-logo
+```mdx-code-block
+<img src={require('@site/docs/static/FoxWallet-logo-v4.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/FoxWallet-logo-bg-black.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+```
+* [FoxWallet-logo-v4.ai](./static/FoxWallet-logo-v4.ai)
+* [FoxWallet-logo-v4.svg](./static/FoxWallet-logo-v4.svg)
+* [FoxWallet-logo-bg-black.ai](./static/FoxWallet-logo-bg-black.ai)
+* [FoxWallet-logo-bg-black.svg](./static/FoxWallet-logo-bg-black.svg)
+* [FoxWallet-logo-white.ai](./static/FoxWallet-logo-white.ai)
+* [FoxWallet-logo-white.svg](./static/FoxWallet-logo-white.svg)
+
+### FoxWallet-traverse
+```mdx-code-block
+<img src={require('@site/docs/static/FoxWallet-traverse.png').default} width={"360px"} height={"108px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/FoxWallet-traverse-black.png').default} width={"360px"} height={"108px"} alt={"FoxWallet"} />
+```
+* [FoxWallet-traverse.ai](./static/FoxWallet-traverse.ai)
+* [FoxWallet-traverse.svg](./static/FoxWallet-traverse.svg)
+* [FoxWallet-traverse-black.ai](./static/FoxWallet-traverse-black.ai)
+* [FoxWallet-traverse-black.svg](./static/FoxWallet-traverse-black.svg)
+* [FoxWallet-traverse-white.ai](./static/FoxWallet-traverse-white.ai)
+* [FoxWallet-traverse-white.svg](./static/FoxWallet-traverse-white.svg)
+
+## Old Resource V3
+
+### FoxWallet-icon-old
+```mdx-code-block
+<img src={require('@site/docs/img/icon-blue-600x600.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/img/FoxWallet-icon-white.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+```
 * [FoxWallet-icon-blue.ai](./static/FoxWallet-icon-blue.ai)
 * [FoxWallet-icon-blue.svg](./static/FoxWallet-icon-blue.svg)
-
-## FoxWallet-icon-white
-![](./img/FoxWallet-icon-white.png)
 * [FoxWallet-icon-white.ai](./static/FoxWallet-icon-white.ai)
 * [FoxWallet-icon-white.svg](./static/FoxWallet-icon-white.svg)
 
-## FoxWallet-logo
-![](./img/logo-256.png)
-
-![](./img/FoxWallet-logo-01.jpg)
-
-![](./img/FoxWallet-logo-02.jpg)
-
-![](./img/FoxWallet-logo-03.png)
-
-![](./img/FoxWallet-logo-04.png)
-
+### FoxWallet-logo-old
+```mdx-code-block
+<img src={require('@site/docs/img/logo-256.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/img/FoxWallet-logo-01.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/img/FoxWallet-logo-02.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/img/FoxWallet-logo-03.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/img/FoxWallet-logo-04.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+```
 * [FoxWallet-logo.ai](./static/FoxWallet-logo.ai)
 * [FoxWallet-logo.svg](./static/FoxWallet-logo.svg)

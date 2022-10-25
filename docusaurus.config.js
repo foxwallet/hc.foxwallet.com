@@ -96,7 +96,7 @@ const config = {
         title: 'Help Center',
         logo: {
           alt: 'FoxWallet Help Center',
-          src: 'img/logo.png',
+          src: 'img/logo-v4.png',
         },
         items: [
           {
