@@ -7,7 +7,7 @@ sidebar_position: 2
 ### isFoxWallet
 ```
 // check the UserAgent include "FoxWallet"
-var isBitKeep = navigator.userAgent.indexOf('FoxWallet') > 0;
+var isFoxWallet = navigator.userAgent.indexOf('FoxWallet') > 0;
 
 // check the var
 var isFoxWallet = window.ethereum.isFoxWallet;
