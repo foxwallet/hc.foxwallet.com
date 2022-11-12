@@ -8,7 +8,7 @@ tags: [announcement]
 
 **Warning !!!**
 
-We noticed a fake FoxWallet group **`https://t.me/foxwalletEN`**.   
+We noticed a **FAKE** FoxWallet group **`https://t.me/foxwalletEN`**.   
 Don't join !  
 Don't ever share your seed phrase !  
 Don't open links in their group !  
