@@ -17,7 +17,7 @@ FoxWallet 支持通过私钥或助记词的方式导入多个钱包，助记词�
 ## 切换钱包
 点击钱包页左上角的切换按钮。 
 
-![](../img/switch-wallet-1.webp)  
+![](../img/switch-entrance.webp)  
 
 点击弹窗左上角的管理图标。  
 

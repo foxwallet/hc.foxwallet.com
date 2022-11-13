@@ -24,4 +24,4 @@ keywords:
 
 Click the switch button in main page => Choose CUBE Chain => Select one account.
 
-![](../img/switch-network.webp)![](../img/switch-cube.webp)
+![](../img/switch-entrance.webp)![](../img/switch-cube.webp)

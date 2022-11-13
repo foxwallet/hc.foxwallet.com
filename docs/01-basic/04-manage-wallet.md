@@ -11,7 +11,7 @@ Click the "+ Add wallet" button in "Wallets" page, select the corresponding meth
 ## Switch wallet
 Click the switch button on the left-top corner of wallet screen.  
 
-![](../img/switch-wallet-1.webp)  
+![](../img/switch-entrance.webp)  
 
 Click the manage icon on the left-top corner of pop-up screen.  
 
@@ -21,9 +21,7 @@ Select the wallet you want to switch to.
 
 ![](../img/switch-wallet-3.webp)  
 
-Back to the wallet screen, new wallet is switched.  
-
-![](../img/switch-wallet-4.webp)  
+Back to the wallet screen, new wallet is switched.   
 
 ## Delete wallet
 Select the wallet that needs to be deleted, click the “...” button in the upper right corner, and then click “Delete”. 

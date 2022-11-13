@@ -20,4 +20,4 @@ keywords:
 
 点击钱包主页左上角的切换按钮 => 选择 Boba Mainnet => 选择一个账户。
 
-![](../img/switch-network.webp)![](../img/switch-boba.webp)
+![](../img/switch-entrance.webp)![](../img/switch-boba.webp)

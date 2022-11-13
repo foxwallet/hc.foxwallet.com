@@ -26,4 +26,4 @@ keywords:
 Click the switch button in main page => Choose Moonbeam => Select one
 account.
 
-![](../img/switch-network.webp)![](../img/switch-moonbeam.webp)
+![](../img/switch-entrance.webp)![](../img/switch-moonbeam.webp)

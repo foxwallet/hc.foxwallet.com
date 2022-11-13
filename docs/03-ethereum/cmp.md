@@ -25,4 +25,4 @@ keywords:
 
 Click the switch button in main page => Choose Caduceus Mainnet => Select one account.
 
-![](../img/switch-network.webp)![](../img/switch-cmp.webp)
+![](../img/switch-entrance.webp)![](../img/switch-cmp.webp)

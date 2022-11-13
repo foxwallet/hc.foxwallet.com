@@ -25,4 +25,4 @@ keywords:
 
 Click the switch button in main page => Choose Klaytn Mainnet => Select one account.
 
-![](../img/switch-network.webp)![](../img/switch-klay.webp)
+![](../img/switch-entrance.webp)![](../img/switch-klay.webp)

@@ -25,4 +25,4 @@ keywords:
 
 Click the switch button in main page => Choose Kava EVM Co-Chain => Select one account.
 
-![](../img/switch-network.webp)![](../img/switch-kava.webp)
+![](../img/switch-entrance.webp)![](../img/switch-kava.webp)

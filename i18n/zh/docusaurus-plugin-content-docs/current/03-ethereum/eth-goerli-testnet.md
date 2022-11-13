@@ -17,7 +17,7 @@ keywords:
 ## 切换网络
 点击左上角的切换按钮 => 选择 Goerli Testnet => 选择一个账户。
 
-![](../img/switch-network.webp)![](../img/switch-goerli.webp)
+![](../img/switch-entrance.webp)![](../img/switch-goerli.webp)
 
 ## 获取测试币
 Goerli测试币可通过一下水龙头领取：

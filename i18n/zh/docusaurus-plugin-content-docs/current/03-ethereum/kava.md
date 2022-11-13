@@ -20,4 +20,4 @@ keywords:
 
 点击钱包主页左上角的切换按钮 => 选择 Kava EVM Co-Chain => 选择一个账户。
 
-![](../img/switch-network.webp)![](../img/switch-kava.webp)
+![](../img/switch-entrance.webp)![](../img/switch-kava.webp)

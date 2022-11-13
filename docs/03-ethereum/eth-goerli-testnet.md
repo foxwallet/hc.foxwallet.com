@@ -20,7 +20,7 @@ keywords:
 ## Switch Network
 Click the switch button in main page => Choose Goerli Testnet => Select one account.
 
-![](../img/switch-network.webp)![](../img/switch-goerli.webp)
+![](../img/switch-entrance.webp)![](../img/switch-goerli.webp)
 
 
 ## Get Test Coin

@@ -3,17 +3,15 @@ description: invite your friends to Web3
 ---
 
 # Invite
-Invite your friends to [download FoxWallet](https://foxwallet.com/download), and enter invitation code.
+Invite your friends to [download FoxWallet](https://foxwallet.com/download), and enter invite code.
 
-## 1. Get your invitation code
+## 1. Get your invite code
 
 * Click the “Share” menu in "Me" page
   
   ![setting-share](../img/setting-share.webp)
-* If your haven't bind identity，click “Bind Identity First” and choose an ETH account as your identity.
-  
-  ![identity](../img/identity.webp)
-* Click "Get Invitation Code" in "Share" page, you should be able to see the invitation code after pass the verification.
+
+* Click "Get Invite Code" in "Share" page, you should be able to see the invite code after pass the verification.
   
   ![get-invite-code](../img/get-invite-code.webp)
 
@@ -22,13 +20,10 @@ Invite your friends to [download FoxWallet](https://foxwallet.com/download), and
 * Click "Share link" or "Share picture" button in "Share" page 
 * You can send the FoxWallet official website url `https://foxwallet.com/` too.
 
-## 3. Enter invitation code
+## 3. Enter invite code
 
-* Copy and send your invitation code to your friends
-* Let your friends click the "Enter invitation code" menu in "Me" page
-  
-  ![setting-enter-invite-code](../img/setting-enter-invite-code.webp)
-* click “Bind Identity First” and choose an ETH account.
-* Enter invitation code
+* Copy and send your invite code to your friends
+* Let your friends click the "Share" menu in "Me" page
+* Enter invite code
   
   ![enter-invite-code](../img/enter-invite-code.webp)

@@ -22,11 +22,8 @@ keywords:
 
 ## Usage
 
-* Open [FoxWallet](https://foxwallet.com/)  
-  ![](../img/wallet-eth.webp)
-
-* Switch to Aptos and Select one account  
-  ![](../img/switch-wallet.webp)![](../img/switch-aptos.webp)
+* Open [FoxWallet](https://foxwallet.com/), switch to Aptos and Select one account  
+  ![](../img/switch-entrance.webp)![](../img/switch-aptos.webp)
 
 * View and transfer your APT  
   ![](../img/wallet-aptos.webp)  
