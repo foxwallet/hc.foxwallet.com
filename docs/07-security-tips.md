@@ -63,3 +63,14 @@ Another common scam is fake token, scammers counterfeit tokens by using similar 
 **There is no free meal in the world, do not click any unknown link to receive airdrops, or scan the code to approve your applications. More importantly, do not send the private key/mnemonic to anyone!**
 
 **FoxWallet will bring phishing token and website check soon.**
+
+## 6. Disable iCloud Backup on iOS
+
+If you have enabled iCloud backup for app data, this will include your password-encrypted FoxWallet vault. If your password isn’t strong enough, and someone phishes your iCloud credentials, this can mean stolen funds.
+  
+You can disable iCloud backups for FoxWallet specifically by turning off the toggle here:  
+`Settings > Profile > iCloud > Manage Storage > Backups`
+
+  
+If you want to avoid iCloud surprising you with unrequested backups in the future, you can turn off this feature at:  
+`Settings > Apple ID/iCloud > iCloud > iCloud Backup`
