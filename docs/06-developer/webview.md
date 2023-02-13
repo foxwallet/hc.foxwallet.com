@@ -28,6 +28,13 @@ function getProvider() {
 }
 ```
 
+#### Example of requestAccounts
+
+```
+const Provider = getProvider();
+const accounts = await Provider.request({ method: 'eth_requestAccounts' }); // string[], an array of a single, hexadecimal Ethereum address string.
+```
+
 ### Solana Provider
 
 **FoxWallet uses the same protocol as Phantom.**
