@@ -16,10 +16,6 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [加速或取消交易](./01-basic/11-speed-up-or-cancel-tx.md)
 * [常见问题解答](./09-faq.md)
 
-## Aptos
-* [Aptos Usage](./02-aptos/index.md)
-* [Faucet](./02-aptos/faucet.md)
-
 ## 以太坊 进阶
 * [Add Custom RPC](./03-ethereum/add-custom-rpc.md)
 * [BNB Chain (BSC)](./03-ethereum/bsc.md)
