@@ -1,0 +1,58 @@
+---
+slug: whats-new-in-3.2.2
+title: What's New in FoxWallet 3.2.2 Update
+tags: [blog]
+---
+
+## What's New in FoxWallet 3.2.2 Update
+
+We're excited to announce that the [FoxWallet 3.2.2 update](https://foxwallet.com/download) is now available. Here are the details of this update.
+
+### Networks
+* Added support for [Sui Devnet](https://sui.io/) and [Base Goerli](https://base.org/). You can find them in "Me" -> "Networks" -> scroll down to the test network section and enable them.
+    * <img src="/img/blog/add-sui-base.webp" width="320" />
+    * [Sui](https://sui.io/) is a boundless platform to build rich and dynamic on-chain assets from gaming to finance. You can claim test coins by clicking the "Faucet" button on the wallet asset page. dApp and Token support will be available in the next version, stay tuned;
+    * [Base Goerli](https://base.org/) is the new generation Ethereum Layer 2 network developed by [CoinBase](https://www.coinbase.com/) and currently in the test phase. You can claim test coins by visiting https://faucet.quicknode.com/base/goerli 或 https://faucet.triangleplatform.com/base/goerli .  
+    
+
+* In the previous version, we already supported the [Flare Network](https://flare.network/). In this upgrade, we enhanced the user's ability to access transaction history on Flare and updated the logo.
+
+### Security Enhancement
+* By synchronizing the address blacklist data from multiple channels, we established a risk address list database. In previous versions, FoxWallet has already been detecting and warning blacklisted addresses in the "Token Approval Management" function and dApp transactions. In this update, we also added warnings for risky addresses in the Token list and NFT detail pages. Users will have more comprehensive protection when using FoxWallet.
+
+ <img src="/img/blog/risky-token-list.webp" width="320" /><img src="/img/blog/risky-token-detail.webp" width="320" />
+
+* At the same time, we have strengthened our ability to decode contract ABIs. When users interact with dApps, they can see the called methods and parameters more intuitively, and FoxWallet will also provide warning prompts for risky addresses in the parameters.
+
+ <img src="/img/blog/risky-nft.webp" width="320" />
+
+### Transfer
+* "Send Max" function can now calculate the maximum amount of coins that can be sent in Ethereum, Filecoin, Solana, and Aptos.
+* FoxWallet supports entering domain addresses of 10 protocols, such as [ENS](https://ens.domains/)、[Unstoppable Domains](https://unstoppabledomains.com/)、[Aptos Names](https://www.aptosnames.com/)、[Anyside](https://anyside.com/).  In this upgrade, we added support for [Jaz DID](https://www.jazdid.com/), a decentralized identity (DID) domain name launchpad co-founded by "Unforgettable" RIAA Diamond record rapper French Montana and Null TX Owner & Founder Marat (Mark) Arguinbaev.  
+
+ <img src="/img/blog/jaz-bab.webp" width="320" />
+
+### NFT 
+* Users can manage NFTs on ETH, BNB, Polygon, Solana, Aptos, Avalanche, and Fantom on FoxWallet. In this upgrade, we support displaying NFT images in SVG format.
+* And we added a shortcut button on the NFT detail page to jump to the trading market.
+
+### Reset Wallet
+When users forget the unlock password of their wallet, they can use this function to reset the application data. **But please note that the mnemonic and private key information previously saved in the wallet will also be erased. Users need to re-import the previously saved mnemonic or private key.**
+
+### Multi-language and Fiat Currency
+* In this update, we have added translations for Bengali, Burmese, Turkish, and Vietnamese. So far, FoxWallet supports 10 languages including Spanish, Indonesian, Ukrainian, Russian, and Turkish.
+* In addition, we have added support for British pound, Ukrainian hryvnia, Russian ruble, Turkish lira, and Bangladeshi taka as fiat currencies. The corresponding fiat currency will be automatically selected based on the user's country when the application is launched for the first time.
+
+### Bug fixes and other experience improvements
+* Improved RPC request success rate.
+* Support Universal Link.
+* DarkMode color scheme optimization.
+* Optimized the lagging issue when the message box has too much data.
+* Fixed the issue of the discovery page not following when switching languages.
+* Information supports multiple languages and avatar display has been added.
+* The QR scan function on the Wallet page now not only supports WalletConnect connection, but also adds support for scanning addresses for transfers and scanning DApp URLs.
+* After entering the transfer amount, FoxWallet will display the corresponding value in other fiat currencies below.
+* After using a password to unlock the wallet, biometric authentication will not be requested again.
+
+### 
+Thank you for your support, FoxWallet will continue to strive to create the most secure and user-friendly Web3 wallet.
