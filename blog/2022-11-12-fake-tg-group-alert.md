@@ -4,8 +4,6 @@ title: Fake Telegram Group Alert
 tags: [announcement]
 ---
 
-## Fake Telegram Group Alert
-
 **Warning !!!**
 
 We noticed a **FAKE** FoxWallet group **`https://t.me/foxwalletEN`**.   

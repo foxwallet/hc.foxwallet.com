@@ -4,8 +4,6 @@ title: FoxWallet Anniversary Carnival - Joint Events
 tags: [announcement]
 ---
 
-## FoxWallet Anniversary Carnival - Joint Events
-
 FoxWallet is dedicated to providing secure, efficient and convenient trusted digital services in the Web3 industry, creating a safe entrance for users to the Web3 world, bringing more interesting and rewarding activities to everyone.  
 
 In this carnival, we organized a series of events with other partners.

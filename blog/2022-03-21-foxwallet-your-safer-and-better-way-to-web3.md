@@ -4,7 +4,6 @@ title: FoxWallet - Your Safer and Better Way to Web3
 tags: [blog]
 ---
 
-## FoxWallet - Your Safer and Better Way to Web3
 Since its launch on 15th November 2021, FoxWallet has received extensive support from the community, with over 10,000 downloads and 40,000+ users across platforms. Over the past 4 months, our team has been upgrading and improving the product and collecting users' feedback. We are committed to making it a professional Web 3 tool that is safe, reliable, versatile, and user-friendly.  
 
 ### Safer and more professional user experience
