@@ -50,6 +50,9 @@ function getProvider() {
 }
 ```
 
+#### SDK
+* [@foxwallet/wallet-adapter-foxwallet](https://www.npmjs.com/package/@foxwallet/wallet-adapter-foxwallet)
+
 ### Aptos Provider
 
 **FoxWallet uses the same protocol as Petra.**
