@@ -28,7 +28,7 @@ Go to Settings —> Private key —> Input your password and comfirm —> Choose
 
 Click “Wallets” button in "Me" tab.
 
-<img src="../img/wallets.webp" width="320" />
+<img src="/img/docs/wallets.webp" width="320" />
 
 When you will enter the “Wallets” page:
 
