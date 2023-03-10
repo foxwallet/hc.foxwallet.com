@@ -28,7 +28,7 @@ keywords:
 
 进入“我” Tab，然后点击“管理钱包”,此时就进入到了“管理钱包”页。
 
-![](../img/add-wallet-2.webp)
+<img src="../img/wallets.webp" width="320" />
 
 接着点击 “添加钱包” —> 导入私钥 —> 设置新钱包的名称 并选择 “Lotus类型私钥” —> 粘贴上一步导出的私钥 —> 确定。
 

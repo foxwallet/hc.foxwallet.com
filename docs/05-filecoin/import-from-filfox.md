@@ -26,13 +26,9 @@ Go to Settings —> Private key —> Input your password and comfirm —> Choose
 
 ## 2. Import to FoxWallet
 
-There are two ways to add a wallet, one is to click the switch button at the top left of the homepage to add a wallet. 
+Click “Wallets” button in "Me" tab.
 
-![](../img/add-wallet-1.webp)
-
-The other is to click “Wallets” button in “Settings” page.
-
-![](../img/add-wallet-2.webp)
+<img src="../img/wallets.webp" width="320" />
 
 When you will enter the “Wallets” page:
 
