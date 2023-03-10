@@ -34,15 +34,16 @@ Go to “Wallets” page, click your wallet to the "Wallet's detail" page.
 
 Click the "..." button in your account card.
 
-![](../img/export-1.webp)
+<img src="/img/docs/export-1.webp" width="320" />
 
 Choose "Export private key".
 
-![](../img/export-2.webp)
+<img src="/img/docs/export-2.webp" width="320" />
 
 Copy your private key.
 
-![](../img/export-3.webp)
+<img src="/img/docs/export-3.webp" width="320" />
+
 
 ### 2. Import private key to lotus  
 

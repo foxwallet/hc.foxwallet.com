@@ -30,7 +30,7 @@ Click “Wallets” button in "Me" tab.
 
 <img src="/img/docs/wallets.webp" width="320" />
 
-When you will enter the “Wallets” page:
+Then you will enter the “Wallets” page:
 
 Click "Add wallet" —> Import private key —> set your wallet name and choose “Lotus private key” —> input your private key —> Submit.
 

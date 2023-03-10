@@ -12,13 +12,13 @@ keywords:
 
 订阅后 FoxWallet 服务器将定时检查节点的错误扇区数，一旦超过设定的阈值就会将报警消息推送到手机（推荐使用iOS，推送比较稳定）。
 
-点击“设置”，选择“监控订阅”，点击页面右上方的“+”，选择“错误扇区数”。
+切换网络到 Filecoin，点击小工具中的“监控”，点击页面右上方的“+”，选择“错误扇区数”。
 
-![](../img/faulty-sector-monitor.webp)
+<img src="/img/docs/tools-monitor.webp" width="320" />
 
 进入“设置错误扇区监控”的详情页，根据实际需求设置“监控阈值”和“监控间隔”（通常使用默认参数即可），并且点击“监控地址”，在搜索栏中搜索需要监控的账户，返回上一页，点击“保存”即订阅成功。
 
-![](../img/faulty-sector-monitor2.webp)
+<img src="/img/docs/faulty-sector-monitor.webp" width="320" />
 
 此功能还支持一次性监控多个矿工号。
 
@@ -27,7 +27,6 @@ keywords:
 ## 如何关闭错误扇区监控功能
 若想关闭已开启节点的错误扇区监控功能，在”监控订阅“界面关闭相应节点的“生效”按钮即可。
 
-![](../img/deactive-monitor.webp)
 
 
 
