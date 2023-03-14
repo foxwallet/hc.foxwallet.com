@@ -62,9 +62,15 @@ Another common scam is fake token, scammers counterfeit tokens by using similar 
 
 **There is no free meal in the world, do not click any unknown link to receive airdrops, or scan the code to approve your applications. More importantly, do not send the private key/mnemonic to anyone!**
 
-**FoxWallet will bring phishing token and website check soon.**
+**FoxWallet can detect scam tokens and websites.**
 
-## 6. Disable iCloud Backup on iOS
+## 6. Mobile phone is more secure than PC
+
+Unlike on PCs, each app on your smartphone creates a separate user. That means that if an app infects one user, it can’t infect anybody else’s phone unless that person gives the app permission. 
+
+If you need to use dApp on PC, I recommend using FoxWallet's WalletConnect function. With WalletConnect, you can bridge the communication between dApps and FoxWallet. 
+
+## 7. Disable iCloud Backup on iOS
 
 If you have enabled iCloud backup for app data, this will include your password-encrypted FoxWallet vault. If your password isn’t strong enough, and someone phishes your iCloud credentials, this can mean stolen funds.
   
