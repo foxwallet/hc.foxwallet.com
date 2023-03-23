@@ -5,7 +5,7 @@ sidebar_position: 2
 # WebView
 
 ### isFoxWallet
-```
+```js
 // check the UserAgent include "FoxWallet"
 var isFoxWallet = navigator.userAgent.indexOf('FoxWallet') > 0;
 
@@ -17,7 +17,7 @@ var isFoxWallet = !!window.foxwallet;
 
 **FoxWallet uses the same protocol as MetaMask.**
 
-```
+```js
 function getProvider() {
   const provider = window.foxwallet && window.foxwallet.ethereum;
   if (!provider) {
@@ -39,7 +39,7 @@ const accounts = await Provider.request({ method: 'eth_requestAccounts' }); // s
 
 **FoxWallet uses the same protocol as Phantom.**
 
-```
+```js
 function getProvider() {
   const provider = window.foxwallet && window.foxwallet.solana;
   if (!provider) {
@@ -57,9 +57,26 @@ function getProvider() {
 
 **FoxWallet uses the same protocol as Petra.**
 
-```
+```js
 function getProvider() {
   const provider = window.foxwallet && window.foxwallet.aptos;
+  if (!provider) {
+    window.open('https://foxwallet.com/download');
+    throw `Please guide users to download from FoxWallet official website`
+  }
+  return provider;
+}
+```
+
+### Sui Provider
+
+**FoxWallet uses the same protocol as Sui Wallet**
+
+Use injected provider or [Wallet Standard](https://github.com/wallet-standard/wallet-standard).
+
+```js
+function getProvider() {
+  const provider = window.foxwallet && window.foxwallet.suiWallet;
   if (!provider) {
     window.open('https://foxwallet.com/download');
     throw `Please guide users to download from FoxWallet official website`
