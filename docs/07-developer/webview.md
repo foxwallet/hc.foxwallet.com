@@ -70,7 +70,7 @@ function getProvider() {
 
 ### Sui Provider
 
-**FoxWallet uses the same protocol as Sui Wallet**
+**FoxWallet uses the same protocol as Sui Wallet.**
 
 Use injected provider or [Wallet Standard](https://github.com/wallet-standard/wallet-standard).
 
