@@ -1,4 +1,4 @@
-# Resource
+# Brand Resource
 
 ## Resource V4
 
