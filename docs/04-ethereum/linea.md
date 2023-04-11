@@ -34,11 +34,11 @@ You can read our [Goerli testent guide](./goerli.md) to get some Goerli ETH.
 ## Bridge from Goerli to Linea
 * Go to `Wallet` tab
 * Click the switch button on the top-right corner
-* Switch network to `Linea Testnet`
-* Click the `Bridge` button  
-    <img src="/img/docs/linea-bridge.webp" width="320" />
+* Switch network to `Goerli`
+* Go to `Discover` tab
+* Input link: https://goerli.hop.exchange/#/send?token=ETH&destNetwork=linea&sourceNetwork=ethereum
+    <img src="/img/docs/discover-input.webp" width="320" />
 
-* Choose the `Hop` bridge, [the bridge website](https://goerli.hop.exchange/#/send?token=ETH&destNetwork=linea&sourceNetwork=ethereum) will be opened
 * Click `Connect Wallet` and choose `MetaMask` to connect FoxWallet
     <img src="/img/docs/hop-connect.webp" width="320" />
     
@@ -49,6 +49,7 @@ You can read our [Goerli testent guide](./goerli.md) to get some Goerli ETH.
 
 ## Transfer Linea ETH using FoxWallet
 * Go to `Wallet` tab
+* [Switch network](../basic/manage-funds#switch-networks) to `Linea Testnet`
 * Click the `Send` button
 * Type the address that you want to transfer funds to, or select `Transfer between my accounts` if the account belongs to your wallet.
 * Type the amount to transfer.

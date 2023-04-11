@@ -47,6 +47,7 @@ You can read our [Goerli testent guide](./goerli.md) to get some Goerli ETH.
 
 ## Transfer on Scroll
 * Go to `Wallet` tab
+* [Switch network](../basic/manage-funds#switch-networks) to `Scroll Alpha Testnet`
 * Click the `Send` button
 * Enter `address` that you want to transfer funds to
 * Input the amount of ETH to transfer

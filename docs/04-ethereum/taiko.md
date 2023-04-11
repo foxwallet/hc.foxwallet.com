@@ -48,6 +48,7 @@ You can read our [Sepolia testent guide](./sepolia.md) to get some `Sepolia` ETH
 
 ## Transfer Sepolia ETH using FoxWallet
 * Go to `Wallet` tab
+* [Switch network](../basic/manage-funds#switch-networks) to `Taiko Alpha-2 Testnet`
 * Click the `Send` button on Wallet page
 * Type the address that you want to transfer funds to, or select `Transfer between my accounts` if the account belongs to your wallet.
 * Type the amount to transfer.
