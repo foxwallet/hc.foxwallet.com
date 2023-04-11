@@ -35,13 +35,16 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [KAVA](./ethereum/kava)
 * [KCC](./ethereum/kcc)
 * [Klaytn](./ethereum/klay)
+* [Linea](./ethereum/linea)
 * [Moonbeam](./ethereum/moonbeam)
 * [Moonriver](./ethereum/moonriver)
 * [OKC](./ethereum/okc)
 * [Optimism](./ethereum/optimism)
 * [Polygon (Matic)](./ethereum/polygon)
+* [Scroll](./ethereum/scroll)
+* [Taiko](./ethereum/taiko)
 * [zkSync 2.0 alpha testnet](./ethereum/zksync-v2-alpha-testnet)
-* [Ethereum Goerli(Görli) Testnet](./ethereum/eth-goerli-testnet)
+* [Ethereum Goerli(Görli) Testnet](./ethereum/goerli)
 
 ## Filecoin 进阶
 * [Subscribe Miner](./filecoin/subscribe-miner)
