@@ -32,11 +32,11 @@ You can read our [Goerli testent guide](./goerli.md) to get some Goerli ETH.
 ## Bridge test ETH from Goerli to Scroll
 * Go to `Wallet` tab
 * Click the switch button on the top-right corner
-* Switch network to `Scroll Alpha Testnet`
-* Click the `Bridge` button
-    <img src="/img/docs/scroll-bridge.webp" width="320" />
+* Switch network to `Goerli`
+* Go to `Discover` tab
+* Input link: https://scroll.io/alpha/bridge
+    <img src="/img/docs/discover-input.webp" width="320" />
 
-* Select the first bridge, [the bridge website](https://scroll.io/alpha/bridge) will be opened
 * Click `Connect Wallet` and choose `MetaMask` to connect FoxWallet
     <img src="/img/docs/scroll-bridge-connect.webp" width="320" />
 
