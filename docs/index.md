@@ -50,7 +50,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Optimism](./ethereum/optimism)
 * [Polygon (Matic)](./ethereum/polygon)
 * [zkSync 2.0 alpha testnet](./ethereum/zksync-v2-alpha-testnet)
-* [Ethereum Goerli(Görli) Testnet](./ethereum/eth-goerli-testnet)
+* [Ethereum Goerli(Görli) Testnet](./ethereum/goerli)
 
 ## Filecoin Advance
 * [Subscribe Miner](./filecoin/subscribe-miner)

@@ -18,7 +18,7 @@ Open FoxWallet，go to "Me" tab，click “Networks”，scroll to the page bott
 
 Switch network to Goerli, and get some test coin.
 
-For more detailed instruction, visit [Goerli (Görli) Tutorial](../ethereum/eth-goerli-testnet)。
+For more detailed instruction, visit [Goerli (Görli) Tutorial](../ethereum/goerli)。
 
 ## Connect Wallet
 Go to "Discover" tab，input https://portal.zksync.io/ in the search bar to visit。
