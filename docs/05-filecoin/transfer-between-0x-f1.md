@@ -34,3 +34,11 @@ FoxWallet uses Filecoin's built-in [FilFowarder](https://docs.filecoin.io/smart-
 4. Back to the `Filecoin` network in FoxWallet. Click "Send" and paste your Ethereum-style `0x` address in the blank. The corresponding `f4` address will be displayed in FoxWallet.
 5. Input the amount of FIL you’d like to transfer and then click "Confirm", check out your account later.
 6. Reverse the steps 2,3,4 if you would like to transfer FIL from `0x(f4)` to `f1`. 
+
+### In fact, you can transfer with any type of address in FoxWallet directly
+* from `f1` to `f1`
+* from `f1` to `f4`
+* from `f1` to `0x`
+* from `0x` to `0x`
+* from `0x` to `f4`
+* from `0x` to `f1`
