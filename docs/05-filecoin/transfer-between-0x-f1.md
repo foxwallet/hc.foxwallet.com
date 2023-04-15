@@ -8,6 +8,8 @@ keywords:
   - transfer
 ---
 
+# Transfer Between 0x and f1
+
 FoxWallet is a decentralized, multi-chain wallet with full support for Filecoin. It integrates with the Filecoin Ethereum Virtual Machine (FEVM), allowing users to easily transfer FIL to and from `f4` address without manual setup. This guide explains how to transfer FIL using Foxwallet.
 
 FoxWallet uses Filecoin's built-in [FilFowarder](https://docs.filecoin.io/smart-contracts/wallets/filforwader/), a smart contract that lets users transfer FIL from an Ethereum-based `f4` address to a Filecoin address of a different type.  To use FoxWallet, you must set up and configure FoxWallet before beginning the transfer process, described below.
