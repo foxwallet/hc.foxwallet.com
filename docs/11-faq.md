@@ -34,7 +34,7 @@ You can deprive "Lotus type private key" through the wallet "Me" page on the web
 It represents the number of blocks confirmed for your transactions. With more block confirmation, it is harder for your transactions to be reversed.
 
 ### How to delete a wallet ?
-The user cannot delete the wallet if it's the only one in FoxWallet. If there are several ones, the user can delete one or more through “Me => Wallets” to the detailed wallet page and click the “trash bin” icon button in the upper right. 
+The user cannot delete the wallet if it's the only one in FoxWallet. If there are several ones, the user can delete one or more through “Me => Settings => Switch Wallet” to the detailed wallet page and click the “trash bin” icon button in the upper right. 
 
 
 

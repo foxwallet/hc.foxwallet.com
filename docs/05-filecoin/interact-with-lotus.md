@@ -15,7 +15,7 @@ Use command: `lotus wallet export [address]`
 
 ### 2. Import private key to FoxWallet  
 
-Click “Wallets” button in “Settings” page.
+Click “Switch Wallet” button in “Settings” page.
 
 ![](../img/add-wallet-2.webp)
 

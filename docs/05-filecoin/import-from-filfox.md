@@ -26,7 +26,7 @@ Go to Settings —> Private key —> Input your password and comfirm —> Choose
 
 ## 2. Import to FoxWallet
 
-Click “Wallets” button in "Me" tab.
+Click “Switch Wallet” button in "Settings" tab.
 
 <img src="/img/docs/wallets.webp" width="320" />
 
