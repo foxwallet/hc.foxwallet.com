@@ -68,15 +68,4 @@ Another common scam is fake token, scammers counterfeit tokens by using similar 
 
 Unlike on PCs, each app on your smartphone creates a separate user. That means that if an app infects one user, it can’t infect anybody else’s phone unless that person gives the app permission. 
 
-If you need to use dApp on PC, I recommend using FoxWallet's WalletConnect function. With WalletConnect, you can bridge the communication between dApps and FoxWallet. 
-
-## 7. Disable iCloud Backup on iOS
-
-If you have enabled iCloud backup for app data, this will include your password-encrypted FoxWallet vault. If your password isn’t strong enough, and someone phishes your iCloud credentials, this can mean stolen funds.
-  
-You can disable iCloud backups for FoxWallet specifically by turning off the toggle here:  
-`Settings > Profile > iCloud > Manage Storage > Backups`
-
-  
-If you want to avoid iCloud surprising you with unrequested backups in the future, you can turn off this feature at:  
-`Settings > Apple ID/iCloud > iCloud > iCloud Backup`
+If you need to use dApp on PC, I recommend using FoxWallet's `WalletConnect` function. With `WalletConnect`, you can bridge the communication between dApps and FoxWallet. 
