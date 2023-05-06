@@ -17,7 +17,7 @@ keywords:
 
 登陆网页钱包：[https://wallet.filfox.info](https://wallet.filfox.info)
 
-点击 “设置” —> “私钥” —> 输入密码并确认 —> 选择Lotus类型私钥 —> 复制私钥。
+点击 “设置” —> “私钥” —> 输入密码并确认 —> 复制私钥。
 
 ![](../img/filfox-export-0.webp)
 ![](../img/filfox-export-1.webp)
@@ -26,11 +26,11 @@ keywords:
 
 ## 2. 将私钥导入到 FoxWallet
 
-进入“我” Tab，然后点击“管理钱包”,此时就进入到了“管理钱包”页。
+点击 "我" -> "设置" -> "切换钱包" 进入“管理钱包”页。
 
 <img src="/img/docs/wallets.webp" width="320" />
 
-接着点击 “添加钱包” —> 导入私钥 —> 设置新钱包的名称 并选择 “Lotus类型私钥” —> 粘贴上一步导出的私钥 —> 确定。
+接着点击 "添加钱包" —> "导入私钥" —> 设置新钱包的名称 并选择 “Filecoin私钥” —> 粘贴上一步导出的私钥 —> 确定。
 
 ![](../img/import-lotus.webp)
 

@@ -32,7 +32,7 @@ Click “Switch Wallet” button in "Settings" tab.
 
 Then you will enter the “Wallets” page:
 
-Click "Add wallet" —> Import private key —> set your wallet name and choose “Lotus private key” —> input your private key —> Submit.
+Click "Add wallet" —> Import private key —> set your wallet name and choose “Filecoin private key” —> input your private key —> Submit.
 
 ![](../img/import-lotus.webp)
 

@@ -18,7 +18,7 @@ description: FoxWallet 是市面上少数能支持多组助记词、多链、多
 账户派生规则遵循标准[BIP44协议](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki), 即使 FoxWallet 无法使用，也能通过其他钱包和工具恢复。
 
 ## 支持多组助记词
-[FoxWallet](https://foxwallet.com) 支持创建或导入多组助记词，24位长度的助记词也可以导入，在 “管理钱包” 页面可轻松切换多个钱包。
+[FoxWallet](https://foxwallet.com) 支持创建或导入多组助记词，24位长度的助记词也可以导入，在 "设置" -> "切换钱包" 页面可轻松切换多个钱包。
 
 ## 支持导入导出私钥
 在其他钱包生成的私钥也可以导入 [FoxWallet](https://foxwallet.com)，但私钥钱包无法享受多链 多账户功能。

@@ -34,7 +34,7 @@ Please make sure it has been properly backed up.
 ## Add account
 You can derive multi accounts from one mnemonic to enhance the privacy and isolate risk.
 
-Select the wallet that needs adding an account to in "Wallets" page, choose the chain, click “+ Add account” to operate. 
+Go to "Accounts" page under "Me" tab, choose the chain, click “+ Add account” to operate. 
 
 Note: only mnemonic wallets can add new accounts.
 
@@ -43,7 +43,7 @@ Note: only mnemonic wallets can add new accounts.
 ## Hide account
 If you have more than one accounts, and want to delete one of them, the "Hide account" is your choice.
 
-Go to "Accounts" page => select the wallet => choose the chain => click the "..." button on the top-right corner of account card => "Hide".
+Go to "Accounts" page => choose the chain => click the "..." button on the top-right corner of account card => "Hide".
 
 ![](../img/hide-account-1.webp)![](../img/hide-account-2.webp)
 
