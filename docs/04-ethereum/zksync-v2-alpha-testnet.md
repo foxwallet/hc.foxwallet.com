@@ -31,7 +31,7 @@ Click the switch button in main page => Choose zkSync Alpha Testnet => Select on
 
 ## Get testnet coin and bridge
 
-* Official Portal: [zkSync 2.0 Testnet Tutorial](../dapp/zksync-v2-testnet)
+* [Official Portal](https://portal.zksync.io/)
 * Community Faucet:
   * https://zksync2-ethdrop.herokuapp.com/
   * https://syncswap.xyz/

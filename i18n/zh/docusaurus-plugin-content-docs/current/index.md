@@ -53,6 +53,3 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Import Wallet From Filfox](./filecoin/import-from-filfox)
 * [Interact with lotus](./filecoin/interact-with-lotus)
 
-## 去中心化应用
-* [zkSync 1.0 Tutorial](./dapp/zksync-v1)
-* [zkSync 2.0 Testnet Tutorial](./dapp/zksync-v2-testnet)

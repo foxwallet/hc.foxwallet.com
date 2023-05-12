@@ -25,7 +25,11 @@ keywords:
 
 ## 获取测试币 和 体验跨链桥
 
-访问 [zkSync 2.0 Testnet Tutorial](../dapp/zksync-v2-testnet)。
+* [Official Portal](https://portal.zksync.io/)
+* Community Faucet:
+  * https://zksync2-ethdrop.herokuapp.com/
+  * https://syncswap.xyz/
+
 
 ## 转账
 

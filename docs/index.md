@@ -61,7 +61,3 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Balance Monitor](./filecoin/balance-monitor)
 * [Import Wallet From Filfox](./filecoin/import-from-filfox)
 * [Interact with lotus](./filecoin/interact-with-lotus)
-
-## Dapp
-* [zkSync 1.0 Tutorial](./dapp/zksync-v1)
-* [zkSync 2.0 Testnet Tutorial](./dapp/zksync-v2-testnet)
