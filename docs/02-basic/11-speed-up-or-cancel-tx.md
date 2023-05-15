@@ -42,4 +42,11 @@ If you do not know what nonce to fill in, FoxWallet automatically fill in the no
 
 <img src="/img/docs/tool-canceller.webp" width="320" />
 
+## Import to FoxWallet
+If your have stuck transactions in other wallet, you can import it to FoxWallet. The mnemonic is common across most wallets, private keys are supported too.
+
+Mnemonic and private keys can be imported via "Me" => "Settings" => "Switch Wallet" => "Add Wallet".
+
+
+
 
