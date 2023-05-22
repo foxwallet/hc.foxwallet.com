@@ -68,6 +68,12 @@ function getProvider() {
 }
 ```
 
+#### SDK
+* [@manahippo/aptos-wallet-adapter](https://www.npmjs.com/package/@manahippo/aptos-wallet-adapter)
+  ```js
+  import { FoxWalletAdapter } from '@manahippo/aptos-wallet-adapter';
+  ```
+
 ### Sui Provider
 
 **FoxWallet uses the same protocol as Sui Wallet.**
