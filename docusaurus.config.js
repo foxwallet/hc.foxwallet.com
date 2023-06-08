@@ -146,7 +146,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/JVjVbe3Zth',
+                href: 'https://discord.gg/foxwallet',
               },
             ],
           },

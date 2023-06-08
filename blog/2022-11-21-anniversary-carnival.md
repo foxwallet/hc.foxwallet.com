@@ -33,7 +33,7 @@ In this carnival, we organized a series of events with other partners.
 * **Rules**:
   * Follow [FoxWallet](https://twitter.com/FoxWallet) and [TaskOn](https://twitter.com/taskonxyz) on twitter
   * [RT TaskOn twitter](https://twitter.com/intent/retweet?tweet_id=1593542058555629570)
-  * Join [FoxWallet](https://discord.gg/JVjVbe3Zth) and [TaskOn](https://discord.com/invite/8E6E4hRUZz) Discord sever
+  * Join [FoxWallet](https://discord.gg/foxwallet) and [TaskOn](https://discord.com/invite/8E6E4hRUZz) Discord sever
   * [Download FoxWallet App](https://foxwallet.com/download)
 * **Entrance**:  https://taskon.xyz/campaign/detail/1226
 
