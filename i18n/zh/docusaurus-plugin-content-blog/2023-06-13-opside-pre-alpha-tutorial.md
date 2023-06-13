@@ -70,15 +70,15 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 点击`详情`，关注[Opside官方推特](https://twitter.com/OpsideZK)，然后你就可以的到2 points了。 
 
 2. 第二个部分是在Opside的Discord打字吹水聊天，活跃的人可以得到以下身份(Mage，Cleric，Sage，Cardinal).
-这是进入Opside的DC链接 [https://discord.gg/opsidezk](https://discord.gg/opsidezk), 进去之后验证身份并选择角色，就成功进入啦.
+  这是进入Opside的DC链接 [https://discord.gg/opsidezk](https://discord.gg/opsidezk), 进去之后验证身份并选择角色，就成功进入啦.
 
- <img src="/img/blog/opside-pre-alpha-tutorial/14.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/15.webp" width="300" />  
+  <img src="/img/blog/opside-pre-alpha-tutorial/14.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/15.webp" width="300" />  
 
-返回Galxe页面点击 `Connect Discord`, 把你的DC账户和Galxe绑定，然后坚持每天去活跃，持之以恒！就能得到19 Points。  
+  返回Galxe页面点击 `Connect Discord`, 把你的DC账户和Galxe绑定，然后坚持每天去活跃，持之以恒！就能得到19 Points。  
 
-下图是得到相应Points在Discord里面所对应的等级  
+  下图是得到相应Points在Discord里面所对应的等级  
 
- <img src="/img/blog/opside-pre-alpha-tutorial/16.webp" width="300" />
+  <img src="/img/blog/opside-pre-alpha-tutorial/16.webp" width="300" />
 
 3. 第三个部分是浏览Opside官方网站, 点击`验证邮件(Verify Email)`, 填写邮箱地址并输入验证码. 验证完成后，点击 `Go` 就会直接跳转到Opside官方网站，浏览你感兴趣的部分，返回Galxe页面就会得到1 point。
  ![](/img/blog/opside-pre-alpha-tutorial/18.webp)
