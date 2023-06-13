@@ -10,8 +10,9 @@ Welcome to [@FoxWalletDaily](https://twitter.com/FoxWalletDaily)
 We are FoxWallet's official airdrop info aggregation, aiming to provide you with the latest and most valuable airdrop information! 
 
 You will find:  
-🚀Popular Airdrops      🚀Tutorials and Rewards  
-🚀Project Highlights    🚀Teaching Videos  
+🚀Popular Airdrops&emsp;&emsp;&emsp;🚀Tutorials and Rewards  
+🚀Project Highlights&emsp;&emsp;&ensp;🚀Teaching Videos  
+
 
 Pay attention now and don't miss out on any exclusive airdrop opportunities and interesting airdrop content! 
 
