@@ -83,7 +83,7 @@ Go back to the Galxe page and click `Connect Discord`, bind your DC account to G
  ![](/img/blog/opside-pre-alpha-tutorial/18.webp)
  ![](/img/blog/opside-pre-alpha-tutorial/19.webp)
 
-4. Post a tweet with the hashtag `#opside` (you can talk about how to use Opside) and a meme (three each). After that, in our official account, the Meme picture will be updated, and everyone can pick it up by themselves~ (there are links at the beginning and end of the article).   
+4. Post a tweet with the hashtag `#opside` (you can talk about how to use Opside) and a meme (three each).
   After publishing, click the `Detail` button on the Galxe task page, click in and you will see a form link.  
   After entering, go and copy the tweet link into the form.  
 

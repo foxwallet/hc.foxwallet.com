@@ -7,7 +7,7 @@ authors: FoxWalletDaily
 
 欢迎来到 [@FoxWalletCN](https://twitter.com/FoxWalletCN)
 
-我们是 FoxWallet 的官方空投资讯聚合账户，旨在为您提供最新、最有价值的空投资讯! 
+我们是 [FoxWallet](https://foxwallet.com) 的官方空投资讯聚合账户，旨在为您提供最新、最有价值的空投资讯! 
 
 你会发现：
 🚀热门空投活动      🚀操作教程和奖励细节
@@ -31,7 +31,7 @@ authors: FoxWalletDaily
 
 ![](/img/blog/opside-pre-alpha-tutorial/2.webp)
 
-Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.com Ventures领投,与NGC Ventures共同投资。 Opside任务持续共3个月,其任务的特点也是可以用“持之以恒”来概括。
+Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.com Ventures 领投, 与NGC Ventures共同投资。Opside任务持续共3个月,其任务的特点也是可以用“持之以恒”来概括。
 
 * **活动时间: 2023/05/24 00:00-2023/08/23 00:00 GMT+08:00**
 * **活动链接: https://galxe.com/Opside/campaign/GCpHhUYvox**
@@ -81,7 +81,7 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
  ![](/img/blog/opside-pre-alpha-tutorial/19.webp)
 
 4. 第四部分是在推特上发布带着 `#opside` 标签的推文 (可以讲讲怎么使用Opside) 和 自制的表情图片（各三条）. 
-  之后在我们官方账户（英文：https://twitter.com/FoxWalletDaily  中文：https://twitter.com/FoxWalletCN里，会更新Meme图片，大家可以自取噢~     
+  之后在我们官方账户（[https://twitter.com/FoxWalletCN](https://twitter.com/FoxWalletCN)）里，会更新Meme图片，大家可以自取噢~     
   发布完后，在Galxe任务页面点击详细（Detail）按钮，点击进去你会看见一个表格链接，进入后去把推文链接复制到表格里面。
 
  ![](/img/blog/opside-pre-alpha-tutorial/21-cn.webp)
@@ -133,8 +133,8 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
     * 进入 `LIQUIDITY` 页面, 按照下图红色箭头指示点击 `Add Liquidity`。在上一轮Swap里面我们已经获取了一定数量的`LAW`，这里我们直接点击`MAX`，另一边会自动配对一定数量的`IDE`，点击`Supply`。之后弹窗出现确认批准，你都点击确认，LP就组好了！（如右下图）<br/>
         <img src="/img/blog/opside-pre-alpha-tutorial/44.webp" width="300" /> <img src="/img/blog/opside-pre-alpha-tutorial/45.webp" width="300" /> 
 
-* 通过公共 zkEVM 桥桥接您的资产
-在FoxWallet里面操作，这里需要6个`IDE`作为gas，每天可以得到10个。我们可以根据你所交互的情况给IDE分配不同的任务.  
+* 通过公共 zkEVM 桥桥接您的资产<br/>
+ 在FoxWallet里面操作，这里需要6个`IDE`作为gas，每天可以得到10个。我们可以根据你所交互的情况给IDE分配不同的任务.<br/>
  <img src="/img/blog/opside-pre-alpha-tutorial/52.webp" width="300" />
 
 *注意！以上演示均使用FoxWallet手机App进行操作，非常方便。当你在外面无聊的时候玩抖音的时候，你可以使用FoxWallet应用程序来交互。别人消遣时间，你用时间创造金钱！*
@@ -146,7 +146,7 @@ Opside’s dApp Evolution ，是和 OKX Wallet，BK钱包，FoxWallet钱包互�
 
 1. 首先下载BitKeep钱包，添加到拓展程序，导入你连接Galxe的测试网账户
 
-2. 然后下载FoxWallet 手机App(下载链接: https://foxwallet.com/download)，导入助记词或私钥到钱包，去 ”管理网络“ 中选中 Opside。
+2. 然后下载FoxWallet 手机App(下载链接: [https://foxwallet.com/download](https://foxwallet.com/download))，导入助记词或私钥到钱包，去 ”管理网络“ 中选中 `Opside Pre-alpha Testnet`。
 
 3. 第三个就是从Galxe任务链接点进去，去下载OKX钱包，浏览他们的各种网站，还有转发他们的推文就好了~
 
