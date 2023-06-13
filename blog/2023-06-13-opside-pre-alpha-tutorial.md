@@ -121,24 +121,26 @@ Next, we will start the formal task tutorial.
 
 * Then we go to pick up our Opside test coin IDE.
     * Step 1: Join the official Opside Discord `https://discord.gg/rhqwKAPB`
-    * Step 2: Enter the for-general-users channel
+    * Step 2: Enter the `for-general-users` channel
     * Step 3: @Opside Faucet, enter your wallet address, send a message and you will receive your TestIDE
         ![](/img/blog/opside-pre-alpha-tutorial/38.webp)
 
 #### 2. Next, look at the second plate. 
-To trade on Opside for 30 days, you can get 50 Points after 60 days. Then if you complete 30.60.100 than the transaction on the test network, you can get 10.20.30 Points respectively. Perseverance prevails! After all, this project lasts for 3 months.
+To trade on Opside for 30 days, you can get 50 Points after 60 days. Then if you complete 30/60/100 transactions on the test network, you can get 10/20/30 Points respectively. Perseverance prevails! After all, this project lasts for 3 months.
 
 There are very few dapps at present. You can go to the official Bridge every day to conduct cross-chain operation transactions, and you can also interact on BLOCKNG. 
 
-* Bridge your assets via the public zkEVM bridge
-Follow the instructions of the red arrow below with FoxWallet. There are 6 IDE as gas required here, and there are 10 you can get every day. We can assign IDE to different tasks according to the interaction situation.
-
 * BLOCKNG
     * Enter the URL [https://opside.testnet.blockng.money/](https://opside.testnet.blockng.money/) in the search box on the FoxWallet `Discover` page.<br/>  
-    * Go to `Swap` tab, enter the number of `IDE`, and click `Swap`.<br/>  
+    * Go to `Swap` tab, select a pair, enter the number of `IDE`, and click `Swap`.<br/>  
         <img src="/img/blog/opside-pre-alpha-tutorial/43.webp" width="300" />
     * Go to `LIQUIDITY` tab, and click `Add Liquidity` as indicated by the red arrow in the image below. In the last round of Swap, we have obtained a certain amount of `LAW`. Here we directly click `MAX`, and the other side will automatically pair a certain number of `IDE` and click `Supply`. After that, the pop-up window will appear to confirm the approval, you all click `Confirm`, and the `LP` will be formed!<br/>
         <img src="/img/blog/opside-pre-alpha-tutorial/44.webp" width="300" /> <img src="/img/blog/opside-pre-alpha-tutorial/45.webp" width="300" /> 
+
+* Bridge your assets via the public zkEVM bridge
+Follow the instructions of the red arrow below with FoxWallet. There are 6 IDE as gas required here, and there are 10 you can get every day. We can assign IDE to different tasks according to the interaction situation.  
+  <img src="/img/blog/opside-pre-alpha-tutorial/52.webp" width="300" />
+
 
 *Attention! The above demos are all operated using the FoxWallet mobile App, which is very convenient. You can use the FoxWallet App to interact when you are bored outside and play Tiktok every day. People spend time, and you use time to create money!*
 
@@ -148,11 +150,9 @@ The event link is [https://galxe.com/Opside/campaign/GCcUXUX8S9](https://galxe.c
 These three tasks are very similar. They all import the wallet address that they connected to Galxe into BitKeep, FoxWallet, and OKX wallet respectively.
 
 1. First download BitKeep wallet, add it to the extension program, import your testnet account connected to Galxe.
-https://bitkeep.com/ (Official link)
 
-2. The second is to download FoxWallet 
-(Official link: https://foxwallet.com/download )
-Import the account connected to Galxe into FoxWallet. Then add the testnet as follows.
+2. The second is to download FoxWallet (Official link: https://foxwallet.com/download )
+Import the account connected to Galxe into FoxWallet. Then add the testnet.
 
 3. The third is to click on the Galxe task link to download OKX wallet, browse their various websites, and forward their tweets~
 (Click the link in the task, and the Twitter page will automatically jump out) Click the Retweet button below, and it's ok~
