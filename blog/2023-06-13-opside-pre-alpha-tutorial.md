@@ -75,13 +75,13 @@ Click the `Detail` link to follow, then you will get 2 points.
 2. Chatting on [Opside's Discord](https://discord.gg/opsidezk), where active people can get the identities(Mage，Cleric，Sage，Cardinal).
 Opside DC link: [https://discord.gg/opsidezk](https://discord.gg/opsidezk), after entering, verify and select a role to join successfully.    
 
- <img src="/img/blog/opside-pre-alpha-tutorial/14.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/15.webp" width="300" />  
+  <img src="/img/blog/opside-pre-alpha-tutorial/14.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/15.webp" width="300" />  
 
-Go back to the Galxe page and click `Connect Discord`, bind your DC account to Galxe, and keep active every day, persevere! You can get 19 Points.  
+  Go back to the Galxe page and click `Connect Discord`, bind your DC account to Galxe, and keep active every day, persevere! You can get 19 Points.  
 
-The following figure is the level corresponding to the corresponding rank points in Discord.  
+  The following figure is the level corresponding to the corresponding rank points in Discord.  
 
-![](/img/blog/opside-pre-alpha-tutorial/16.webp)
+  ![](/img/blog/opside-pre-alpha-tutorial/16.webp)
 
 3. Click `Verify Email`, enter your email address to receive a verification code. After verification, click `Go` will jump directly to the Opside official website, browse the part you are interested in, return to the Galxe page will get 1 point.  
  ![](/img/blog/opside-pre-alpha-tutorial/18.webp)
@@ -133,6 +133,9 @@ Next, we will start the formal task tutorial.
 #### 2. Next, look at the second plate. 
 To trade on Opside for 30 days, you can get 50 Points after 60 days. Then if you complete 30/60/100 transactions on the test network, you can get 10/20/30 Points respectively. Perseverance prevails! After all, this project lasts for 3 months.
 
+![](/img/blog/opside-pre-alpha-tutorial/40.webp)
+![](/img/blog/opside-pre-alpha-tutorial/41.webp)
+
 There are very few dapps at present. You can go to the official Bridge every day to conduct cross-chain operation transactions, and you can also interact on BLOCKNG. 
 
 * BLOCKNG
@@ -143,17 +146,21 @@ There are very few dapps at present. You can go to the official Bridge every day
     * Go to `LIQUIDITY` tab, and click `Add Liquidity` as indicated by the red arrow in the image below. In the last round of Swap, we have obtained a certain amount of `LAW`. Here we directly click `MAX`, and the other side will automatically pair a certain number of `IDE` and click `Supply`. After that, the pop-up window will appear to confirm the approval, you all click `Confirm`, and the `LP` will be formed!<br/>
         <img src="/img/blog/opside-pre-alpha-tutorial/44.webp" width="300" /> <img src="/img/blog/opside-pre-alpha-tutorial/45.webp" width="300" /> 
 
-* Bridge your assets via the public zkEVM bridge
-Follow the instructions of the red arrow below with FoxWallet. There are 6 IDE as gas required here, and there are 10 you can get every day. We can assign IDE to different tasks according to the interaction situation.  
-  <img src="/img/blog/opside-pre-alpha-tutorial/52.webp" width="300" />
+* Bridge your assets via the public zkEVM bridge<br/>
+  Follow the instructions of the red arrow below with FoxWallet.   
+  There are 6 IDE as gas required here, and there are 10 you can get every day. We can assign IDE to different tasks according to the interaction situation.  
+  <img src="/img/blog/opside-pre-alpha-tutorial/47.webp" width="400" /><br/>
+  <img src="/img/blog/opside-pre-alpha-tutorial/52.webp" width="400" />
 
 
 *Attention! The above demos are all operated using the FoxWallet mobile App, which is very convenient. You can use the FoxWallet App to interact when you are bored outside and play Tiktok every day. People spend time, and you use time to create money!*
 
 ### Third plate: Opside's dApp Evolution
-Opside's dApp Evolution is an interactive section with OKX Wallet, BK Wallet, and FoxWallet.
-The event link is [https://galxe.com/Opside/campaign/GCcUXUX8S9](https://galxe.com/Opside/campaign/GCcUXUX8S9).
+Opside's dApp Evolution is an interactive section with OKX Wallet, BK Wallet, and FoxWallet.  
+The event link is [https://galxe.com/Opside/campaign/GCcUXUX8S9](https://galxe.com/Opside/campaign/GCcUXUX8S9).  
 These three tasks are very similar. They all import the wallet address that they connected to Galxe into BitKeep, FoxWallet, and OKX wallet respectively.
+
+![](/img/blog/opside-pre-alpha-tutorial/54.webp)
 
 1. First download BitKeep wallet, add it to the extension program, import your testnet account connected to Galxe.
 

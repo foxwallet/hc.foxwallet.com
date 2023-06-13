@@ -129,6 +129,9 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 #### 2. 接下来看第二个板块
 要在Opside交易30天，60天然后可以得到50Points，然后如果在测试网完成 30/60/100 笔交易可以分别获得 10/20/30 的Points，坚持就是胜利，毕竟这个项目持续3个月之久~
 
+![](/img/blog/opside-pre-alpha-tutorial/40-cn.webp)
+![](/img/blog/opside-pre-alpha-tutorial/41.webp)
+
 目前的dApp很少，你可以每天去官方Bridge去进行跨链操作交易，也可以在BLOCKNG上交互。
 
 * BLOCKNG 使用教程
@@ -140,8 +143,9 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
         <img src="/img/blog/opside-pre-alpha-tutorial/44.webp" width="300" /> <img src="/img/blog/opside-pre-alpha-tutorial/45.webp" width="300" /> 
 
 * 通过公共 zkEVM 桥桥接您的资产<br/>
- 在FoxWallet里面操作，这里需要6个`IDE`作为gas，每天可以得到10个。我们可以根据你所交互的情况给IDE分配不同的任务.<br/>
- <img src="/img/blog/opside-pre-alpha-tutorial/52.webp" width="300" />
+  在FoxWallet里面操作，这里需要6个`IDE`作为gas，每天可以得到10个。我们可以根据你所交互的情况给IDE分配不同的任务.<br/>
+  <img src="/img/blog/opside-pre-alpha-tutorial/47.webp" width="400" /><br/>
+  <img src="/img/blog/opside-pre-alpha-tutorial/52.webp" width="400" />
 
 *注意！以上演示均使用FoxWallet手机App进行操作，非常方便。当你在外面无聊的时候玩抖音的时候，你可以使用FoxWallet应用程序来交互。别人消遣时间，你用时间创造金钱！*
 
@@ -149,6 +153,8 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 Opside’s dApp Evolution ，是和 OKX Wallet，BK钱包，FoxWallet钱包互动板块。
 活动链接为 [https://galxe.com/Opside/campaign/GCcUXUX8S9](https://galxe.com/Opside/campaign/GCcUXUX8S9).
 这三个任务都很类似，都是把自己之前连接Galxe的钱包地址去分别导入BitKeep钱包，FoxWallet钱包，OKX钱包里面就好。
+
+![](/img/blog/opside-pre-alpha-tutorial/54.webp)
 
 1. 首先下载BitKeep钱包，添加到拓展程序，导入你连接Galxe的测试网账户
 
