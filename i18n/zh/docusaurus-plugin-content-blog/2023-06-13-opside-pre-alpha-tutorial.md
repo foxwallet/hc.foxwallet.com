@@ -78,7 +78,7 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 
 下图是得到相应Points在Discord里面所对应的等级  
 
- <img src="/img/blog/opside-pre-alpha-tutorial/16.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/17.webp" width="300" /> 
+ <img src="/img/blog/opside-pre-alpha-tutorial/16.webp" width="300" />
 
 3. 第三个部分是浏览Opside官方网站, 点击`验证邮件(Verify Email)`, 填写邮箱地址并输入验证码. 验证完成后，点击 `Go` 就会直接跳转到Opside官方网站，浏览你感兴趣的部分，返回Galxe页面就会得到1 point。
  ![](/img/blog/opside-pre-alpha-tutorial/18.webp)
