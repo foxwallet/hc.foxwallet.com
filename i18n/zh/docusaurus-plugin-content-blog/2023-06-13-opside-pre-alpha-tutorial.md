@@ -70,11 +70,15 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 点击`详情`，关注[Opside官方推特](https://twitter.com/OpsideZK)，然后你就可以的到2 points了。 
 
 2. 第二个部分是在Opside的Discord打字吹水聊天，活跃的人可以得到以下身份(Mage，Cleric，Sage，Cardinal).
-这是进入Opside的DC链接 [https://discord.gg/dzDmsAKj](https://discord.gg/dzDmsAKj), 进去之后验证身份并选择角色，就成功进入啦.
+这是进入Opside的DC链接 [https://discord.gg/opsidezk](https://discord.gg/opsidezk), 进去之后验证身份并选择角色，就成功进入啦.
 
  <img src="/img/blog/opside-pre-alpha-tutorial/14.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/15.webp" width="300" />  
 
-返回Galxe页面点击 `Connect Discord`, 把你的DC账户和Galxe绑定，然后坚持每天去活跃，持之以恒！就能得到19 Points。
+返回Galxe页面点击 `Connect Discord`, 把你的DC账户和Galxe绑定，然后坚持每天去活跃，持之以恒！就能得到19 Points。  
+
+下图是得到相应Points在Discord里面所对应的等级  
+
+ <img src="/img/blog/opside-pre-alpha-tutorial/16.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/17.webp" width="300" /> 
 
 3. 第三个部分是浏览Opside官方网站, 点击`验证邮件(Verify Email)`, 填写邮箱地址并输入验证码. 验证完成后，点击 `Go` 就会直接跳转到Opside官方网站，浏览你感兴趣的部分，返回Galxe页面就会得到1 point。
  ![](/img/blog/opside-pre-alpha-tutorial/18.webp)
@@ -83,14 +87,14 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 4. 第四部分是在推特上发布带着 `#opside` 标签的推文 (可以讲讲怎么使用Opside) 和 自制的表情图片（各三条）. 
   之后在我们官方账户（[https://twitter.com/FoxWalletCN](https://twitter.com/FoxWalletCN)）里，会更新Meme图片，大家可以自取噢~     
   发布完后，在Galxe任务页面点击详细（Detail）按钮，点击进去你会看见一个表格链接，进入后去把推文链接复制到表格里面。
-
- ![](/img/blog/opside-pre-alpha-tutorial/21-cn.webp)
+  ![](/img/blog/opside-pre-alpha-tutorial/20.webp)
+  ![](/img/blog/opside-pre-alpha-tutorial/21-cn.webp)
 
 5. 第五部分的分数合计高达50，分别是YouTube制作两个不少于五分钟的视频和线下举行的关于Opside的聚会
 表格需要填写聚会地点，日期，具体时间，聚会主题，会议人数，花费金额，相关聚会视频或者照片，以及你的dc账户和连接Galxe的钱包账户   
  ![](/img/blog/opside-pre-alpha-tutorial/23.webp)
 
-6. 最后一个部分，一个是去转发官方推文，另外两个是引用推文并@你好友（可以@FoxWallet噢~~~）再加上`#opside`标签（Quote Retweet）
+6. 最后一个部分，一个是去转发官方推文，另外两个是引用推文并 @你好友（可以@FoxWallet噢~~~）再加上`#opside`标签（Quote Retweet）
  ![](/img/blog/opside-pre-alpha-tutorial/24-cn.webp)
 
 ### 第二个板块: Opside DiveIn!
@@ -116,8 +120,9 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
         ![](/img/blog/opside-pre-alpha-tutorial/32.webp)
 
 * 然后我们去领取 Opside 测试币 IDE
-    * 第一步: 进入官方Opside 官方Discord `https://discord.gg/rhqwKAPB`
-    * 第二步: 进入 `for-general-users` 频道
+    * 第一步: 进入官方Opside 官方Discord `https://discord.gg/opsidezk`
+    * 第二步: 进入 `for-general-users` 频道  
+        ![](/img/blog/opside-pre-alpha-tutorial/37.webp)
     * 第三步:  @Opside Faucet，输入你的钱包地址，发送消息，你将收到你的TestIDE
         ![](/img/blog/opside-pre-alpha-tutorial/38.webp)
 
@@ -128,6 +133,7 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 
 * BLOCKNG 使用教程
     * 在 FoxWallet 发现页的顶部地址栏里输入BLOCKNG的网址 [https://opside.testnet.blockng.money/](https://opside.testnet.blockng.money/)。<br/>  
+        <img src="/img/blog/opside-pre-alpha-tutorial/42.webp" width="300" />
     * 进入 `Swap` 页面, 选择一个交易对，输入 `IDE` 数量, 点击 `Swap` 进行兑换.<br/>  
         <img src="/img/blog/opside-pre-alpha-tutorial/43.webp" width="300" />
     * 进入 `LIQUIDITY` 页面, 按照下图红色箭头指示点击 `Add Liquidity`。在上一轮Swap里面我们已经获取了一定数量的`LAW`，这里我们直接点击`MAX`，另一边会自动配对一定数量的`IDE`，点击`Supply`。之后弹窗出现确认批准，你都点击确认，LP就组好了！（如右下图）<br/>

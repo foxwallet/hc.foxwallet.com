@@ -72,12 +72,16 @@ Click `Connect Twitter` and you will be taken to the Twitter page attached to yo
 
 Click the `Detail` link to follow, then you will get 2 points.   
 
-2. Chatting on [Opside's Discord](https://discord.gg/dzDmsAKj), where active people can get the identities(Mage，Cleric，Sage，Cardinal).
-Opside DC link: https://discord.gg/dzDmsAKj, after entering, verify and select a role to join successfully.    
+2. Chatting on [Opside's Discord](https://discord.gg/opsidezk), where active people can get the identities(Mage，Cleric，Sage，Cardinal).
+Opside DC link: [https://discord.gg/opsidezk](https://discord.gg/opsidezk), after entering, verify and select a role to join successfully.    
 
  <img src="/img/blog/opside-pre-alpha-tutorial/14.webp" width="300" /><img src="/img/blog/opside-pre-alpha-tutorial/15.webp" width="300" />  
 
-Go back to the Galxe page and click `Connect Discord`, bind your DC account to Galxe, and keep active every day, persevere! You can get 19 Points.
+Go back to the Galxe page and click `Connect Discord`, bind your DC account to Galxe, and keep active every day, persevere! You can get 19 Points.  
+
+The following figure is the level corresponding to the corresponding rank points in Discord.  
+
+![](/img/blog/opside-pre-alpha-tutorial/16.webp)
 
 3. Click `Verify Email`, enter your email address to receive a verification code. After verification, click `Go` will jump directly to the Opside official website, browse the part you are interested in, return to the Galxe page will get 1 point.  
  ![](/img/blog/opside-pre-alpha-tutorial/18.webp)
@@ -86,14 +90,14 @@ Go back to the Galxe page and click `Connect Discord`, bind your DC account to G
 4. Post a tweet with the hashtag `#opside` (you can talk about how to use Opside) and a meme (three each).
   After publishing, click the `Detail` button on the Galxe task page, click in and you will see a form link.  
   After entering, go and copy the tweet link into the form.  
-
- ![](/img/blog/opside-pre-alpha-tutorial/21.webp)
+  ![](/img/blog/opside-pre-alpha-tutorial/20.webp)
+  ![](/img/blog/opside-pre-alpha-tutorial/21.webp)
 
 5. The fifth part has a total score of 50, which is two videos of no less than five minutes post in YouTube and an offline gathering about Opside
 (The form needs to fill in the party location, date, specific time, party theme, number of people at the meeting, amount of money spent, relevant party videos or photos, as well as your DC account and wallet account connected to Galxe),DYOR~    
  ![](/img/blog/opside-pre-alpha-tutorial/23.webp)
 
-6. Retweet official tweets or Quote Retweet and at FoxWallet with `#opside` hashtag (Quote Retweet)  
+6. Retweet official tweets or Quote Retweet and @FoxWallet with `#opside` hashtag (Quote Retweet)  
  ![](/img/blog/opside-pre-alpha-tutorial/24.webp)
 
 ### The Second plate: Opside DiveIn!
@@ -115,13 +119,14 @@ Next, we will start the formal task tutorial.
     * Click the event `Detail` link
         ![](/img/blog/opside-pre-alpha-tutorial/30.webp)
     * Click the `Call-to-Action` link to jump to the Opside-Bridge page.  
-        ![](/img/blog/opside-pre-alpha-tutorial/31.webp)
+        <img src="/img/blog/opside-pre-alpha-tutorial/31.webp" width="300" />
     * And connect your wallet(FoxWallet is compatible with Metamask, so just click `Metamask` here) . Then click `Confirm`, switch the network to `Goerli Testnet`.  Then cross the Goerli ETH test coin, click `Confirm`, the first task is complete!
-        ![](/img/blog/opside-pre-alpha-tutorial/32.webp)
+        <img src="/img/blog/opside-pre-alpha-tutorial/32.webp" width="300" />
 
 * Then we go to pick up our Opside test coin IDE.
-    * Step 1: Join the official Opside Discord `https://discord.gg/rhqwKAPB`
-    * Step 2: Enter the `for-general-users` channel
+    * Step 1: Join the official Opside Discord `https://discord.gg/opsidezk`
+    * Step 2: Enter the `for-general-users` channel  
+        ![](/img/blog/opside-pre-alpha-tutorial/37.webp)
     * Step 3: @Opside Faucet, enter your wallet address, send a message and you will receive your TestIDE
         ![](/img/blog/opside-pre-alpha-tutorial/38.webp)
 
@@ -132,6 +137,7 @@ There are very few dapps at present. You can go to the official Bridge every day
 
 * BLOCKNG
     * Enter the URL [https://opside.testnet.blockng.money/](https://opside.testnet.blockng.money/) in the search box on the FoxWallet `Discover` page.<br/>  
+         <img src="/img/blog/opside-pre-alpha-tutorial/42.webp" width="300" />
     * Go to `Swap` tab, select a pair, enter the number of `IDE`, and click `Swap`.<br/>  
         <img src="/img/blog/opside-pre-alpha-tutorial/43.webp" width="300" />
     * Go to `LIQUIDITY` tab, and click `Add Liquidity` as indicated by the red arrow in the image below. In the last round of Swap, we have obtained a certain amount of `LAW`. Here we directly click `MAX`, and the other side will automatically pair a certain number of `IDE` and click `Supply`. After that, the pop-up window will appear to confirm the approval, you all click `Confirm`, and the `LP` will be formed!<br/>
