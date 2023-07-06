@@ -15,13 +15,12 @@ You will find:
 
 Pay attention now and don't miss out on any exclusive airdrop opportunities and interesting airdrop content! 
 
-**Here is our official social media account:**
+**Here is our official social media accounts**
 * The Official twitter: https://twitter.com/FoxWallet
 * English Airdrops account: https://twitter.com/FoxWalletDaily
 * Chinese Airdrops account: https://twitter.com/FoxWalletCN
 
 ## In this issue, we present the tutorial for Taiko Alpha-3 Incentivized Testnet 👇👇
-
 ![](/img/blog/taiko-alpha3-tutorial/1.webp)
 
 Taiko is a decentralized, Ethereum-compatible ZK-EVM and general-purpose ZK-Rollup. Its purpose is to allow developers and users of dApps developed for Ethereum L1 to seamlessly utilize Taiko without any modifications. As a result, dApps can be easily deployed to L2, inheriting Ethereum's security while generating lower transaction fees compared to L1.
@@ -53,7 +52,7 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 * Open https://sepoliafaucet.com/
 * Verify and paste your address in FoxWallet
 ![](/img/blog/taiko-alpha3-tutorial/4.webp)
-* If you are unable to claim the Sepolia ETH test tokens using the mentioned method, there are alternative websites where you can try to obtain test tokens.
+* If you are unable to claim the Sepolia ETH test tokens using the above method, there are alternative websites you can try.
     * https://sepolia-faucet.pk910.de/
     * https://faucet-sepolia.rockx.com/
     * https://infura.io/faucet/sepolia
@@ -91,7 +90,7 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 ![](/img/blog/taiko-alpha3-tutorial/13.webp)
 
 ### Deploy your own contract on Taiko
-To be continued, in the next week, we will provide a dedicated tutorial on deploying contracts. It will not only cover completing the task of deploying on Taiko Alpha-3 Testnet but also focus on learning more efficient methods for contract deployment.   
+To be continued, we will provide a dedicated tutorial on deploying contracts in next week. It will not only cover completing the task of deploying on Taiko Alpha-3 Testnet but also focus on learning more efficient methods for contract deployment.   
 Therefore, Cecilia recommends everyone to stay tuned for our updates!
 
 ### Welcome to follow us

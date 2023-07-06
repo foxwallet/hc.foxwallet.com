@@ -1,6 +1,6 @@
 ---
 slug: opside-pre-alpha-tutorial
-title: $400w Financing Project Opside Airdrop Tutorial! Airdrop Confirmed!
+title: $4 Million Funding:Opside Airdrop Tutorial！Airdrop confirmed!
 tags: [tutorial]
 authors: FoxWalletDaily
 ---
