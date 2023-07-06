@@ -33,19 +33,19 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 
 ### First, add Sepolia and Taiko Alpha-3 Testnet to FoxWallet
 * Download FoxWallet: https://foxwallet.com/download
-* Go to "Me" -> "Networks" -> "Testnets" -> find `Sepolia Testnet` and `Taiko Alpha-3 Testnet`, select to enable them.
+* Go to "Me" -> "Networks" -> Search `Sepolia Testnet` and `Taiko Alpha-3 Testnet` -> select to enable them.
 
 ![](/img/blog/taiko-alpha3-tutorial/2.webp)
 
 ### Switch network to Taiko Alpha-3 Testnet and add test tokens
 * Click the switch button on the left-top corner of "wallet" screen to switch networks
 * Switch network to `Taiko Alpha-3 Testnet`
-* Click the add button and input contract address to add tokens
+![](/img/blog/taiko-alpha3-tutorial/2-1.webp)
+* Click the add icon and input contract address to add tokens
     * BLL: `0x6302744962a0578E814c675B40909e64D9966B0d`
     * HORSE: `0xa4505BB7AA37c2B68CfBC92105D10100220748EB`
     * TTKO: `0x7b1a3117B2b9BE3a3C31e5a097c7F890199666aC`
-
-![](/img/blog/taiko-alpha3-tutorial/3.webp)
+    * ![](/img/blog/taiko-alpha3-tutorial/3.webp)
 
 ### Claim Sepolia ETH test coins
 * Switch network to `Sepolia Testnet`
@@ -70,7 +70,6 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 * Connect wallet
 * Select tokens to mint, ensure that you have Sepolia ETH in your wallet as gas.
 ![](/img/blog/taiko-alpha3-tutorial/7.webp)
-![](/img/blog/taiko-alpha3-tutorial/8.webp)
 
 ### Use Taiko official bridge, from Sepolia to Taiko
 * Open https://bridge.test.taiko.xyz
@@ -81,11 +80,14 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 ![](/img/blog/taiko-alpha3-tutorial/9.webp)
 * Send the transaction on your FoxWallet
 * To bridge BLL and HORSE, you need "Approve" first
+![](/img/blog/taiko-alpha3-tutorial/10.webp)
 * Go to "Transactions" tab, you can check if the tokens have been credited to your account, they will be automatically claimed after a while
 ![](/img/blog/taiko-alpha3-tutorial/11.webp)
 
 ### Bridge back from Taiko to Sepolia
-* The operation is almost the same as above, just change the location of Sepolia and Taiko
+* Click the "Switch network" button, and click the "Confirm" button on FoxWallet
+![](/img/blog/taiko-alpha3-tutorial/12.webp)
+* The bridge operation is almost the same as above
 * After confirming that Taiko goes to Sepolia, bridge ETH/BLL/HORESE back in turn according to the previous operation
 ![](/img/blog/taiko-alpha3-tutorial/13.webp)
 
