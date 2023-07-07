@@ -29,7 +29,7 @@ We provide you with a Fox Credit mall and a lucky draw system, where you can use
 The Fox Credit mall and lucky draw feature are currently under development, please stay tuned.
 
 ## 4. Notes
+* **Fox Credit is not token and cannot be transferred. FoxWallet currently has no plans to issue tokens.**
 * Fox Credit may be cleared periodically, so please use any unused Fox Credit before the clearing time. We will notify you through announcements.
 * Our points system is designed to reward and motivate users, allowing you to better utilize your points. If you have any questions or need further assistance, please feel free to contact our customer service team.
-* Fox Credit are not tokens and cannot be transferred. FoxWallet currently has no plans to issue tokens.
 * FoxWallet reserves all rights to interpret the Fox Credit.
