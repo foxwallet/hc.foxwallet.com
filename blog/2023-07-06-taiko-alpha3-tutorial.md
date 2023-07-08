@@ -1,6 +1,9 @@
 ---
 slug: taiko-alpha3-tutorial
 title: $22 Millon Funding Taiko:Alpha-3 Incentivized Testnet Airdrop Tutorial
+keywords:
+  - taiko airdrop
+  - taiko tutorial
 tags: [tutorial]
 authors: FoxWalletDaily
 ---

@@ -1,6 +1,11 @@
 ---
 slug: opside-pre-alpha-tutorial
 title: 400w 美刀融资项目 Opside 空投教程！明牌空投！
+keywords:
+  - opside 交互教程
+  - opside 空投教程
+  - opside 薅羊毛
+  - opside 刷空投
 tags: [tutorial]
 authors: FoxWalletDaily
 ---

@@ -1,6 +1,11 @@
 ---
 slug: taiko-alpha3-tutorial
 title: 2200w美刀融资项目Taiko：Alpha-3 激励性测试网空投教程
+keywords:
+  - taiko 交互教程
+  - taiko 空投教程
+  - taiko 薅羊毛
+  - taiko 刷空投
 tags: [tutorial]
 authors: FoxWalletDaily
 ---

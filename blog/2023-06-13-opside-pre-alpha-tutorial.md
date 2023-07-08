@@ -1,6 +1,9 @@
 ---
 slug: opside-pre-alpha-tutorial
 title: $4 Million Funding:Opside Airdrop Tutorial！Airdrop confirmed!
+keywords:
+  - opside airdrop
+  - opside tutorial
 tags: [tutorial]
 authors: FoxWalletDaily
 ---
