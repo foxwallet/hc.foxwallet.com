@@ -23,7 +23,8 @@ As an unprecedented form of currency, Bitcoin has withstood numerous market test
 ## Usage
 * Downliad FoxWallet: https://foxwallet.com/download
 * Create Wallet: https://hc.foxwallet.com/docs/basic/create-wallet
-* Enter the homepage, click the switch button in the upper left corner, switch the network to `Bitcoin`
+* Enter the homepage, click the switch button in the upper left corner, switch the network to `Bitcoin`  
+
   <img src="/img/docs/switch-network.webp" width="320" /> <img src="/img/docs/switch-bitcoin.webp" width="320" />
 * Click the "Receive" button to get your bitcoin receiving address
 * Click the "Send" button to enter the transfer page, and you can initiate a transfer to others.

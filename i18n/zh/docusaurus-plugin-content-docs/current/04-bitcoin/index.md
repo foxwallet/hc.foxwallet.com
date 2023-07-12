@@ -22,11 +22,12 @@ keywords:
 ## 使用
 * 下载安装 FoxWallet: https://foxwallet.com/download
 * 创建钱包: https://hc.foxwallet.com/docs/basic/create-wallet
-* 进入钱包主页，点击左上角的切换按钮，切换网络到 `Bitcoin`
-  <img src="/img/doc/switch-network-cn.webp" width="320" /> <img src="/img/doc/switch-bitcoin-cn.webp" width="320" />
+* 进入钱包主页，点击左上角的切换按钮，切换网络到 `Bitcoin`  
+
+  <img src="/img/docs/switch-network-cn.webp" width="320" /> <img src="/img/docs/switch-bitcoin-cn.webp" width="320" />
 * 点击 "收款" 按钮，获得你的比特币收款地址
 * 点击 "发送" 按钮，进入转账页面，就可以向他人发起转账。
-  <img src="/img/doc/bitcoin-asset-cn.webp" width="320" />
+  <img src="/img/docs/bitcoin-asset-cn.webp" width="320" />
 
 ## 更多
 FoxWallet 是最安全好用的比特币钱包, 支持管理 Ordinals NFT 和 BRC20 代币。
