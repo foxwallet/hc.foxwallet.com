@@ -82,15 +82,15 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [Tevaera](https://tevaera.com/) | Tevaera 是 zkSync 上的游戏化元宇宙，玩家可以在其中体验、建造、货币化和管理数字岛屿，同时在 TevaBazaar 市场上交易动态 NFT 并玩各种有趣且有回报的街机游戏。  | 尚未发行 &emsp;&emsp;&emsp; |
-| [Crypto Maze](https://cryptomaze.app/) | 一个移动优先的生态系统，让普通人、游戏玩家、社区和品牌可以轻松创建 WEB3 迷你游戏、定制数字资产和独特的虚拟体验，并一起享受它们。 | There's a INITIAL NFT Offering |
+| [Crypto Maze](https://cryptomaze.app/) | 一个移动优先的生态系统，让普通人、游戏玩家、社区和品牌可以轻松创建 WEB3 迷你游戏、定制数字资产和独特的虚拟体验，并一起享受它们。 | 有 INITIAL NFT Offering 计划 |
 | [Mobaverse](https://www.mobaverse.co/) | Mobaverse 是一个用于 NFT 商业化的 web3 游戏平台。 玩家可以将自己的 NFT 货币化，以在 Mobaverse 内竞争、赚取并构建可互操作的未来。 <br/>**2022-08-01，Mobaverse 完成 200 万美元融资**| 尚未发行 |
 | [Tinyworld](https://tinyworlds.io/) | Tiny World 是一个区块链游戏世界，将多样化和有趣的游戏与 NFT 和 DeFi 产品相结合。 | [TINC](https://coinmarketcap.com/currencies/tiny-coin/) |
-| [BladeDAO](https://www.bladedao.games/) | BladeDAO 是一个去中心化链上游戏生态，首款地牢游戏是 Legends of Valoria (LOV)。 | [BLADE IDO at bounce](https://app.bounce.finance/launchpad) |
+| [BladeDAO](https://www.bladedao.games/) | BladeDAO 是一个去中心化链上游戏生态，首款地牢游戏是 Legends of Valoria (LOV)。 | [BLADE，在 bounce 做 IDO](https://app.bounce.finance/launchpad) |
 
 ### Basic tools and facilities
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
-| [FoxWallet](https://foxwallet.com) | FoxWallet是一款去中心化多链钱包，基于BIP44标准支持多助记词、多账户。 | 尚未发行 &emsp;&emsp;&ensp;&emsp;&emsp;&ensp; |
+| [FoxWallet](https://foxwallet.com) | FoxWallet是一款去中心化多链钱包，基于BIP44标准支持多助记词、多账户。 | 尚未发行 &emsp;&emsp;&ensp;&emsp;&emsp; |
 | [Pyth Network](https://pyth.network/) | Pyth Network 是下一代价格预言机解决方案，旨在为项目和协议提供有价值的金融市场数据。 | 尚未发行 |
 | [RedStone Oracles](https://redstone.finance/) | RedStone是一种跨链数据预言机技术。 | 尚未发行 |
 | [thirdweb](https://thirdweb.com/) | 一个 Web3 开发平台，使开发人员能够将 Web3 功能集成到他们的应用程序中。<br/>**2022-08-25,thirdweb 完成 2400 万美元战略融资。 2021-11-13,thirdweb 完成 500 万美元种子轮融资** | 尚未发行 |

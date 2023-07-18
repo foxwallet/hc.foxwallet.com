@@ -101,7 +101,7 @@ This article will introduce 50 popular projects within the zkSync ecosystem, sho
 ### Other
 |  Project | Description | Token |
 |  ------- | ----------- | ----- |
-| [Zealy](https://zealy.io/c/zksync/questboard) | Zealy is building an operating system for Web3 communities, providing templates of Quests for onboarding, whitelisting, paid bounties, events, education, contests, and games. <br/>**On 2022-08-01, Zealy raised $3.5M in seed round.** | Not issued yet &emsp;&emsp;&ensp;&emsp;&emsp;&ensp; |
+| [Zealy](https://zealy.io/c/zksync/questboard) | Zealy is building an operating system for Web3 communities, providing templates of Quests for onboarding, whitelisting, paid bounties, events, education, contests, and games. <br/>**On 2022-08-01, Zealy raised $3.5M in seed round.** | Not issued yet &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp; |
 | [Goal 3](https://beta.goal3.xyz/) | Goal3 is a decentralized sportsbook on the zkSync era, aiming to create an autonomous, transparent, and accessible sportsbook for anyone, anywhere. | Not issued yet |
 | [zkNS](https://app.zkns.domains/) | First DID on zkSync Era, the largest omnichain name service powered by LayerZero. | Not issued yet |
 | [Gitcoin ](https://www.gitcoin.co/) | A community where builders can earn funding for Web3 projects while creating open source decentralized applications, learning new technologies, and connecting with other developers. <br/>**On 2021-04-15, Gitcoin raised $11.3M in a funding round.** | Not issued yet |
