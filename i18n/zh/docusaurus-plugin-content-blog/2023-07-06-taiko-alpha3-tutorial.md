@@ -9,7 +9,7 @@ keywords:
 tags: [tutorial]
 authors: FoxWalletDaily
 ---
-
+<!--truncate-->
 欢迎来到 [@FoxWalletCN](https://twitter.com/FoxWalletCN)
 
 我们是 [FoxWallet](https://foxwallet.com) 的官方空投资讯聚合账户，旨在为您提供最新、最有价值的空投资讯! 

@@ -8,7 +8,7 @@ keywords:
 tags: [tutorial]
 authors: FoxWalletDaily
 ---
-
+<!--truncate-->
 Welcome to [@FoxWalletDaily](https://twitter.com/FoxWalletDaily)
 
 We are FoxWallet's official airdrop info aggregation, aiming to provide you with the latest and most valuable airdrop information! 

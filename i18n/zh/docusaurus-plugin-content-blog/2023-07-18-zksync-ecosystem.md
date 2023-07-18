@@ -8,7 +8,7 @@ keywords:
 tags: [tutorial]
 authors: FoxWalletDaily
 ---
-
+<!--truncate-->
 欢迎来到 [@FoxWalletCN](https://twitter.com/FoxWalletCN)
 
 我们是 [FoxWallet](https://foxwallet.com) 的官方空投资讯聚合账户，旨在为您提供最新、最有价值的空投资讯! 
@@ -35,7 +35,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 ### DeFi
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
-| [SyncSwap](https://syncswap.xyz/) | SyncSwap 是一个去中心化交易所（DEX），以零知识技术为基础，继承以太坊的安全性，为大家带来易用、快速、低成本的 DeFi。 zks Era上最早的一批DEX之一 | 尚未发行 |
+| [SyncSwap](https://syncswap.xyz/) | SyncSwap 是一个去中心化交易所（DEX），以零知识技术为基础，继承以太坊的安全性，为大家带来易用、快速、低成本的 DeFi。 zks Era上最早的一批DEX之一 | 尚未发行 &emsp;&emsp;&emsp; |
 | [Mute.io](https://app.mute.io/) | Mute 是基于zkSync v2构建的zkRollup DeFi平台，用于 在一个去中心化驱动的平台上投资和交易、赚取收益和参与债券。 | [MUTE](https://coinmarketcap.com/currencies/mute/)|
 | [EraLend](https://app.eralend.com/) | EraLend 是一种去中心化的借贷协议，使包括项目/DAO 在内的任何人都可以创建自己的借贷池。 | 尚未发行 |
 | [Velocore](https://app.velocore.xyz/) | Velocore是一种ve（3,3）DEX，可以帮助项目以具有吸引力的方式满足其流动性需求。 | [VC](https://coinmarketcap.com/currencies/velocore/) |
@@ -60,7 +60,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 ### Bridge
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
-| [Official Bridge](https://bridge.zksync.io/) | zkSync 官方跨链桥 | 尚未发行 |
+| [Official Bridge](https://bridge.zksync.io/) | zkSync 官方跨链桥 | 尚未发行 &emsp;&emsp;&emsp; |
 | [Orbiter Finance](https://www.orbiter.finance/) | Orbiter Finance 是一个去中心化的跨 rollup 桥，用于转移以太坊的原生资产。当 Sender 发起转账时，Maker 为其提供流动性。<br/>**2022-11-29，Orbiter Finance 完成 320 万美元种子轮融资** | 尚未发行 |
 | [Layerswap](https://www.layerswap.io/) | Layerswap 是终极的 L2 网关，可为 L2 提供即时且无气体的进出匝道交易。用户可以使用 Layerswap 将代币从中心化交易所即时转移到所有主要的 L2  | 尚未发行 |
 | [Celer CBridge](https://cbridge.celer.network/) | Celer Network 旗下的跨链桥 | [CELR](https://coinmarketcap.com/currencies/celer-network/) |
@@ -71,7 +71,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [zkapes](https://zkape.io/#/) | zkSync上第一个NFT项目,有完整的生态，动态NFT（dNFT）、zkApes arcade、zkSync Name Service(ZNS)，DEX（ApeX、还有工具Apescan等 | [ZAT](https://coinmarketcap.com/currencies/zkapes/) |
-| [zkAnimals](https://zkanimal.xyz/) | 由 3000 个动物组成的 NFT 系列，于 3 月 28 日开启铸造。 | 尚未发行 |
+| [zkAnimals](https://zkanimal.xyz/) | 由 3000 个动物组成的 NFT 系列，于 3 月 28 日开启铸造。 | 尚未发行 &emsp;&emsp;&emsp; |
 | [4EVERLAND](https://www.4everland.org/) |  4EVERLAND是一个Web 3.0云计算平台 <br/> **On 2021-08-09,4EVERLAND raised $1.5M in seed round.** | 尚未发行 |
 | [Tofu NFT](https://tofunft.com/) | tofuNFT 是一个专注于 GameFi 和收藏品的 NFT 市场，从 SCV 的 NFT 市场更名。 | 尚未发行 |
 | [Karatdao](https://karatdao.com/) | KaratDAO 是 Web3 的加密原生引擎，它提供双边服务数据市场，帮助用户在获得奖励的同时控制他们的 web2 和 web3 数据。 | 尚未发行 |
@@ -81,7 +81,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 ### GameFi
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
-| [Tevaera](https://tevaera.com/) | Tevaera 是 zkSync 上的游戏化元宇宙，玩家可以在其中体验、建造、货币化和管理数字岛屿，同时在 TevaBazaar 市场上交易动态 NFT 并玩各种有趣且有回报的街机游戏。  | 尚未发行 |
+| [Tevaera](https://tevaera.com/) | Tevaera 是 zkSync 上的游戏化元宇宙，玩家可以在其中体验、建造、货币化和管理数字岛屿，同时在 TevaBazaar 市场上交易动态 NFT 并玩各种有趣且有回报的街机游戏。  | 尚未发行 &emsp;&emsp;&emsp; |
 | [Crypto Maze](https://cryptomaze.app/) | 一个移动优先的生态系统，让普通人、游戏玩家、社区和品牌可以轻松创建 WEB3 迷你游戏、定制数字资产和独特的虚拟体验，并一起享受它们。 | There's a INITIAL NFT Offering |
 | [Mobaverse](https://www.mobaverse.co/) | Mobaverse 是一个用于 NFT 商业化的 web3 游戏平台。 玩家可以将自己的 NFT 货币化，以在 Mobaverse 内竞争、赚取并构建可互操作的未来。 <br/>**2022-08-01，Mobaverse 完成 200 万美元融资**| 尚未发行 |
 | [Tinyworld](https://tinyworlds.io/) | Tiny World 是一个区块链游戏世界，将多样化和有趣的游戏与 NFT 和 DeFi 产品相结合。 | [TINC](https://coinmarketcap.com/currencies/tiny-coin/) |
@@ -103,7 +103,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 ### Other
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
-| [Zealy](https://zealy.io/c/zksync/questboard) | Zealy 正在为 Web3 社区（任务、分析和自动化）构建一个操作系统，为入职、白名单、付费赏金、活动、教育、竞赛、游戏提供任务模板。(原Crew3) <br/>**2022-08-01 Zealy 完成 350 万美元种子轮融资** | 尚未发行 |
+| [Zealy](https://zealy.io/c/zksync/questboard) | Zealy 正在为 Web3 社区（任务、分析和自动化）构建一个操作系统，为入职、白名单、付费赏金、活动、教育、竞赛、游戏提供任务模板。(原Crew3) <br/>**2022-08-01 Zealy 完成 350 万美元种子轮融资** | 尚未发行  &emsp;&emsp;&emsp; |
 | [Goal3](https://beta.goal3.xyz/) | Goal3 是第一个建立在 zkSync 区块链上的去中心化体育博彩项目，旨在创建一个自主、透明且任何人在任何地方都可以访问的体育博彩生态。 | 尚未发行 |
 | [zkNS](https://app.zkns.domains/) | zkSync Era 上的第一个 DID，这是由 LayerZero 提供支持的最大的全链名称服务。 | 尚未发行 |
 | [Gitcoin ](https://www.gitcoin.co/) | 在这个社区中，开发者可以在创建开源去中心化应用程序、学习新技术以及与其他开发者联系的同时赚取 Web3 项目的资金。 <br/>**2021-04-15，Gitcoin 完成 1130 万美元融资** | 尚未发行 |
