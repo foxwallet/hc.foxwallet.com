@@ -82,11 +82,16 @@ This article will introduce 54 popular projects within the zkSync ecosystem, sho
 |  ------- | ----------- | ----- |
 | [Tevaera](https://tevaera.com/) | Tevaera is one of the first gamified and decentralized metaverses on zkSync.  | Not issued yet |
 | [Crypto Maze](https://cryptomaze.app/) | A mobile-first ecosystem that makes it EASY for everyday people, gamers, communities and brands to create WEB3 mini-games, custom digital assets and unique virtual experiences and enjoy them TOGETHER. | There's a INITIAL NFT Offering |
+| [Mobaverse](https://www.mobaverse.co/) | Mobaverse is a web3 gaming platform for the commercialization of NFTs. Players can monetize their own NFTs to compete, earn, and build an interoperable future within Mobaverse.  <br/>**On 2022/8/1, Mobaverse raised $2M in a funding round.**| Not issued yet |
+| [Tinyworld](https://tinyworlds.io/) | Tiny World is a blockchain game universe that combines diverse and entertaining gaming with Non-Fungible Tokens (NFTs) and Decentralized Finance (DeFi) products. | [TINC](https://coinmarketcap.com/currencies/tiny-coin/) |
+| [BladeDAO](https://www.bladedao.games/) | A decentralized on-chain game ecosystem built by degens, for degens. Launching this June on zkSync Era. | [BLADE IDO at bounce](https://app.bounce.finance/launchpad) |
+| [Homespace](https://homespace.is/) | Homespace is a Metaverse with photorealistic graphics that erases the boundaries between the real and virtual worlds.It is a new type of social network that allows users to spend time with friends in both private and public virtual spaces. Additionally, the Homespace project includes Artificial Intelligence, which can evolve into an AI Assistant, friend, or companion. | Not issued yet |
+
 
 ### Basic tools and facilities
 |  Project | Description | Token |
 |  ------- | ----------- | ----- |
-| [FoxWallet](https://foxwallet.com) | FoxWallet is a decentralized multi-chain wallet, which supports multi seed phase and multi accounts based on BIP44 standard. | Not issued yet &emsp;&emsp;&ensp;&emsp;&emsp;&ensp; |
+| [FoxWallet](https://foxwallet.com) | FoxWallet is a decentralized multi-chain wallet, which supports multi seed phrase and multi accounts based on BIP44 standard. | Not issued yet &emsp;&emsp;&ensp;&emsp;&emsp;&ensp; |
 | [Pyth Network](https://pyth.network/) | Pyth Network is a next-generation price oracle solution that aims to make valuable financial market data available on-chain for projects and protocols. | Not issued yet |
 | [RedStone Oracles](https://redstone.finance/) | RedStone is a cross-chain data oracle technology.  | Not issued yet |
 | [thirdweb](https://thirdweb.com/) | A Web3 development platform that enables developers to integrate Web3 functionality into their applications.<br/>**On 2022-08-25, thirdweb raised $24M in strategic financing. On 2021-11-13, thirdweb raised $5M in seed round.** | Not issued yet |
@@ -99,7 +104,7 @@ This article will introduce 54 popular projects within the zkSync ecosystem, sho
 |  ------- | ----------- | ----- |
 | [Zealy](https://zealy.io/c/zksync/questboard) | Zealy is building an operating system for Web3 communities, providing templates of Quests for onboarding, whitelisting, paid bounties, events, education, contests, and games. <br/>**On 2022-08-01, Zealy raised $3.5M in seed round.** | Not issued yet &emsp;&emsp;&ensp;&emsp;&emsp;&ensp; |
 | [Goal 3](https://beta.goal3.xyz/) | Goal3 is a decentralized sportsbook on the zkSync era, aiming to create an autonomous, transparent, and accessible sportsbook for anyone, anywhere. | Not issued yet |
-| [zkNS](https://app.zkns.domains/) | First DID on zkSync Era, the largest omnichain name service powered by LayerZero, not affiliated with Matter Labs. | Not issued yet |
+| [zkNS](https://app.zkns.domains/) | First DID on zkSync Era, the largest omnichain name service powered by LayerZero. | Not issued yet |
 | [Gitcoin ](https://www.gitcoin.co/) | A community where builders can earn funding for Web3 projects while creating open source decentralized applications, learning new technologies, and connecting with other developers. <br/>**On 2021-04-15, Gitcoin raised $11.3M in a funding round.** | Not issued yet |
   
   
