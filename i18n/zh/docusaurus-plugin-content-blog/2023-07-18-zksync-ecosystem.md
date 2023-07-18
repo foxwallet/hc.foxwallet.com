@@ -57,7 +57,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [UniDex](https://www.unidex.exchange/) | UniDex 是一个 DeFi 聚合层，制作有趣的交易产品，例如杠杆交易聚合、衍生品和其他交易产品。 | [UNIDX](https://coinmarketcap.com/currencies/unidex/) |
 | [ZKSwap](https://zksync.zks.app/swap)| 第一个由 ZK-Rollups 技术支持的 Layer 2 AMM DEX。 它在 ZKSpace 和 EVM 链 ZKSync Era 上运行，旨在提供创新且用户友好的 DEX，降低 Gas 费用并提高交易速度。 | [ZKS](https://coinmarketcap.com/currencies/zkswap/) |
 
-### Bridge
+### 跨链桥
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [Official Bridge](https://bridge.zksync.io/) | zkSync 官方跨链桥 | 尚未发行 &emsp;&emsp;&emsp; |
@@ -67,7 +67,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [Via Protocol](https://via.exchange/) | Via Protocol 是一种跨链流动性聚合协议，旨在打造不同区块链之间快速、高效、无缝的交易体验。 Via Protocol 可以被认为是加密货币的 Visa 和 Mastercard。 <br/>**2022-02-01，Via Protocol 完成 120 万美元种子轮融资** | 尚未发行 |
 
 
-### NFT Ecosystem
+### NFT
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [zkapes](https://zkape.io/#/) | zkSync上第一个NFT项目,有完整的生态，动态NFT（dNFT）、zkApes arcade、zkSync Name Service(ZNS)，DEX（ApeX、还有工具Apescan等 | [ZAT](https://coinmarketcap.com/currencies/zkapes/) |
@@ -78,7 +78,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [Kreatorland](https://https://kreatorland.com/) | Kreatorland 是一个 NFT 启动平台和市场，拥有发现、交易和发布数字商品。 | 尚未发行 |
 | [Taker Protocol](https://www.taker.xyz/) | Taker 是一种 NFT 流动性协议，允许用户清算和出租各种新颖的加密资产，包括加密收藏品、元宇宙资产、金融票据、合成资产等。<br/>**2021/9/21，Taker Protocol 完成 300 万美元种子轮融资** | 尚未发行 |
 
-### GameFi
+### 游戏
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [Tevaera](https://tevaera.com/) | Tevaera 是 zkSync 上的游戏化元宇宙，玩家可以在其中体验、建造、货币化和管理数字岛屿，同时在 TevaBazaar 市场上交易动态 NFT 并玩各种有趣且有回报的街机游戏。  | 尚未发行 &emsp;&emsp;&emsp; |
@@ -87,7 +87,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [Tinyworld](https://tinyworlds.io/) | Tiny World 是一个区块链游戏世界，将多样化和有趣的游戏与 NFT 和 DeFi 产品相结合。 | [TINC](https://coinmarketcap.com/currencies/tiny-coin/) |
 | [BladeDAO](https://www.bladedao.games/) | BladeDAO 是一个去中心化链上游戏生态，首款地牢游戏是 Legends of Valoria (LOV)。 | [BLADE，在 bounce 做 IDO](https://app.bounce.finance/launchpad) |
 
-### Basic tools and facilities
+### 工具和基础设施
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [FoxWallet](https://foxwallet.com) | FoxWallet是一款去中心化多链钱包，基于BIP44标准支持多助记词、多账户。 | 尚未发行 &emsp;&emsp;&ensp;&emsp;&emsp; |
@@ -98,7 +98,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [Sentio](https://www.sentio.xyz/) | Sentio 构建了一个面向 Web3 和加密项目的可观察性平台。<br/>**2022-09-01，Sentio 完成 640 万美元种子轮融资** | 尚未发行 |
 | [CARV](https://carv.io/) | Carv 旨在建立一个用户拥有的游戏身份（基础设施），实现成就展示、朋友和游戏发现、直接货币化，并且可以带到任何地方。<br/>**2022-11-22，Carv 完成 400 万美元融资** | 尚未发行 |
 
-### Other
+### 其他
 |  项目 | 描述 | Token |
 |  ------- | ----------- | ----- |
 | [Zealy](https://zealy.io/c/zksync/questboard) | Zealy 正在为 Web3 社区（任务、分析和自动化）构建一个操作系统，为入职、白名单、付费赏金、活动、教育、竞赛、游戏提供任务模板。(原Crew3) <br/>**2022-08-01 Zealy 完成 350 万美元种子轮融资** | 尚未发行  &emsp;&emsp;&emsp; |
