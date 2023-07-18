@@ -20,7 +20,8 @@ By logging into your wallet and clicking the "Check-in" button on the page every
 In addition to earning Fox Credit through daily check-ins and transfers, our points system also provides various other tasks for you to accumulate Fox Credit more quickly and diversely.
 
 1. Invite friends  
-By inviting your friends to use FoxWallet, you will receive additional Fox Credit as a reward. Simply use the invitation link or code in the application to invite your friends to install FoxWallet, and both you and your friends will receive Fox Credit rewards.
+* By inviting your friends to use FoxWallet, you will receive additional Fox Credit as a reward. Simply use the invitation link or code in the application to invite your friends to install FoxWallet, and both you and your friends will receive Fox Credit rewards.  
+* Please note that the number of invites made before FoxCredit went live will not be counted towards rewards.
 
 2. More types of tasks coming soon
 
