@@ -30,7 +30,7 @@ authors: FoxWalletDaily
 zkSync通过在链下执行计算和存储，将所有资金由主链上的智能合约持有，从而实现高效的交易处理和可扩展性。  
 本文将分板块为您介绍zkSync生态系统中的50个热门项目，展示这一技术的多样化应用和广阔前景。  
 
-![](/img/blog/zksync-eco.webp)
+![](/img/blog/zksync-eco-cn.webp)
 
 ### DeFi
 |  项目 | 描述 | Token |
