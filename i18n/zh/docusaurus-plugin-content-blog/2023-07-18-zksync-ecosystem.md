@@ -1,6 +1,6 @@
 ---
 slug: zksync-ecosystem
-title: 一文纵览zkSync Era生态54个项目
+title: 一文纵览zkSync Era生态50个项目
 keywords:
   - zksync 空投
   - zksync 生态
@@ -25,10 +25,10 @@ authors: FoxWalletDaily
 * 英文空投资讯账号: https://twitter.com/FoxWalletDaily
 * 中文空投资讯账号: https://twitter.com/FoxWalletCN
 
-## 今天我们主要介绍的是zkSync Era生态上54个热门项目
+## 今天我们主要介绍的是zkSync Era生态上50个热门项目
 区块链技术作为一项颠覆性的创新，已经吸引了无数项目和开发者的关注和参与。其中，zkSync作为第2层扩展解决方案，以其利用最新一代简洁的零知识证明技术保留底层区块链的安全属性而备受瞩目。 
 zkSync通过在链下执行计算和存储，将所有资金由主链上的智能合约持有，从而实现高效的交易处理和可扩展性。  
-本文将分板块为您介绍zkSync生态系统中的54个热门项目，展示这一技术的多样化应用和广阔前景。  
+本文将分板块为您介绍zkSync生态系统中的50个热门项目，展示这一技术的多样化应用和广阔前景。  
 
 ![](/img/blog/zksync-eco.webp)
 
@@ -45,7 +45,7 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [veSync](https://app.vesync.finance/) | ve(3,3) DEX，也是 Velodrome Finance 的一个分支 | [VS](https://coinmarketcap.com/currencies/vesync/) |
 | [izumi finance](https://zksync.izumi.finance/) | iZUMi Finance 是一种多链 DeFi 协议，提供一站式流动性即服务 (LaaS)。iZUMi 推出了 LiquidBox、iZiSwap 和 iUSD 三款链上流动性产品。 | [IZI](https://coinmarketcap.com/currencies/izumi-finance/) |
 | [ZigZag](https://trade.zigzag.exchange/) | ZigZag 是一个基于 ZK Rollups 的原生、易于使用、可靠、完全安全和低费用的去中心化交易所。 | [ZZ](https://coinmarketcap.com/currencies/zigzag/) |
-| [rhino.fi](https://rhino.fi/) | rhino.fi 是一个去中心化的Layer2交换协议，用户可以在一个平台上交换、发送和投资，而无需支付以太坊网络费用。  | [DVF](https://coinmarketcap.com/currencies/deversifi/) |
+| [rhino.fi](https://rhino.fi/) | rhino.fi 是一个去中心化的Layer2交换协议，用户可以在一个平台上交换、发送和投资，而无需支付以太坊网络费用。| [DVF](https://coinmarketcap.com/currencies/deversifi/) |
 | [Symbiosis](https://app.symbiosis.finance/) | Symbiosis是一个跨链引擎和跨链通信协议，它聚合了跨EVM和非EVM网络的分散交换流动性。 | [SIS](https://coinmarketcap.com/currencies/symbiosis-finance/) |
 | [Overnigh.fi](https://app.overnight.fi/) | Overnight 是美元+收益生成稳定币背后的协议。<br/>**2022-02-15，Overnight 完成 85 万美元Pre种子轮融资** | 尚未发行 |
 | [Mes Protocol](https://www.mesprotocol.com/) | 一个cross-rollup订单薄DEX，支持交易在多个在一个单一的订单。 | 尚未发行 |
@@ -86,8 +86,6 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [Mobaverse](https://www.mobaverse.co/) | Mobaverse 是一个用于 NFT 商业化的 web3 游戏平台。 玩家可以将自己的 NFT 货币化，以在 Mobaverse 内竞争、赚取并构建可互操作的未来。 <br/>**2022-08-01，Mobaverse 完成 200 万美元融资**| 尚未发行 |
 | [Tinyworld](https://tinyworlds.io/) | Tiny World 是一个区块链游戏世界，将多样化和有趣的游戏与 NFT 和 DeFi 产品相结合。 | [TINC](https://coinmarketcap.com/currencies/tiny-coin/) |
 | [BladeDAO](https://www.bladedao.games/) | BladeDAO 是一个去中心化链上游戏生态，首款地牢游戏是 Legends of Valoria (LOV)。 | [BLADE IDO at bounce](https://app.bounce.finance/launchpad) |
-| [Homespace](https://homespace.is/) | Homespace 是一个具有逼真图形的元宇宙，其中真实世界和虚拟世界之间的界限被抹去。这是一种新型社交网络，可以让用户在私人世界和公共虚拟空间中与朋友共度时光。 Homespace 项目的一部分是人工智能，它可以发展成为人工智能助手、朋友或同伴。 | 尚未发行 |
-
 
 ### Basic tools and facilities
 |  项目 | 描述 | Token |
@@ -107,9 +105,11 @@ zkSync通过在链下执行计算和存储，将所有资金由主链上的智�
 | [Goal3](https://beta.goal3.xyz/) | Goal3 是第一个建立在 zkSync 区块链上的去中心化体育博彩项目，旨在创建一个自主、透明且任何人在任何地方都可以访问的体育博彩生态。 | 尚未发行 |
 | [zkNS](https://app.zkns.domains/) | zkSync Era 上的第一个 DID，这是由 LayerZero 提供支持的最大的全链名称服务。 | 尚未发行 |
 | [Gitcoin ](https://www.gitcoin.co/) | 在这个社区中，开发者可以在创建开源去中心化应用程序、学习新技术以及与其他开发者联系的同时赚取 Web3 项目的资金。 <br/>**2021-04-15，Gitcoin 完成 1130 万美元融资** | 尚未发行 |
+| [Homespace](https://homespace.is/) | Homespace 是一个具有逼真图形的元宇宙，其中真实世界和虚拟世界之间的界限被抹去。这是一种新型社交网络，可以让用户在私人世界和公共虚拟空间中与朋友共度时光。 Homespace 项目的一部分是人工智能，它可以发展成为人工智能助手、朋友或同伴。 | 尚未发行 |
+
   
   
-虽然54个zkSync Era 项目汇总文章到这里就结束了，但是空投还在路上，我们还制作了zkSync相关的视频交互教程，分别是：
+虽然50个zkSync Era 项目汇总文章到这里就结束了，但是空投还在路上，我们还制作了zkSync相关的视频交互教程，分别是：
 - [教程A：只需花费0.01ETH就能交互7个最热门的Dapps](https://twitter.com/FoxWalletDaily/status/1674667922516766720?s=20)
 - [教程B：融资项目及资深早期Dex交互视频教程](https://twitter.com/FoxWalletDaily/status/1680155442679529472?s=20)
 

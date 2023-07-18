@@ -1,6 +1,6 @@
 ---
 slug: zksync-ecosystem
-title: zkSync Era ecosystem — Overview of 54 popular projects
+title: zkSync Era ecosystem — Overview of 50 popular projects
 keywords:
   - zksync airdrop
   - zksync ecosystem
@@ -24,10 +24,10 @@ Pay attention now and don't miss out on any exclusive airdrop opportunities and 
 * English Airdrops account: https://twitter.com/FoxWalletDaily
 * Chinese Airdrops account: https://twitter.com/FoxWalletCN
 
-## Today we'll talk about zkSync Era Ecosystem - 54 popular projects
+## Today we'll talk about zkSync Era Ecosystem - 50 popular projects
 As a disruptive innovation, blockchain technology has attracted the attention and participation of numerous projects and developers. Among them, zkSync, as a layer 2 scaling solution, has gained significant attention due to its utilization of the latest generation of succinct zero-knowledge proof technology, which preserves the security attributes of the underlying blockchain.  
 By executing computations and storage off-chain, zkSync transfers all funds to be held by smart contracts on the main chain, thereby achieving efficient transaction processing and scalability.   
-This article will introduce 54 popular projects within the zkSync ecosystem, showcasing the diverse applications and vast prospects of this technology.
+This article will introduce 50 popular projects within the zkSync ecosystem, showcasing the diverse applications and vast prospects of this technology.
 
 ![](/img/blog/zksync-eco.webp)
 
@@ -85,7 +85,6 @@ This article will introduce 54 popular projects within the zkSync ecosystem, sho
 | [Mobaverse](https://www.mobaverse.co/) | Mobaverse is a web3 gaming platform for the commercialization of NFTs. Players can monetize their own NFTs to compete, earn, and build an interoperable future within Mobaverse.  <br/>**On 2022/8/1, Mobaverse raised $2M in a funding round.**| Not issued yet |
 | [Tinyworld](https://tinyworlds.io/) | Tiny World is a blockchain game universe that combines diverse and entertaining gaming with Non-Fungible Tokens (NFTs) and Decentralized Finance (DeFi) products. | [TINC](https://coinmarketcap.com/currencies/tiny-coin/) |
 | [BladeDAO](https://www.bladedao.games/) | A decentralized on-chain game ecosystem built by degens, for degens. Launching this June on zkSync Era. | [BLADE IDO at bounce](https://app.bounce.finance/launchpad) |
-| [Homespace](https://homespace.is/) | Homespace is a Metaverse with photorealistic graphics that erases the boundaries between the real and virtual worlds.It is a new type of social network that allows users to spend time with friends in both private and public virtual spaces. Additionally, the Homespace project includes Artificial Intelligence, which can evolve into an AI Assistant, friend, or companion. | Not issued yet |
 
 
 ### Basic tools and facilities
@@ -106,9 +105,10 @@ This article will introduce 54 popular projects within the zkSync ecosystem, sho
 | [Goal 3](https://beta.goal3.xyz/) | Goal3 is a decentralized sportsbook on the zkSync era, aiming to create an autonomous, transparent, and accessible sportsbook for anyone, anywhere. | Not issued yet |
 | [zkNS](https://app.zkns.domains/) | First DID on zkSync Era, the largest omnichain name service powered by LayerZero. | Not issued yet |
 | [Gitcoin ](https://www.gitcoin.co/) | A community where builders can earn funding for Web3 projects while creating open source decentralized applications, learning new technologies, and connecting with other developers. <br/>**On 2021-04-15, Gitcoin raised $11.3M in a funding round.** | Not issued yet |
+| [Homespace](https://homespace.is/) | Homespace is a Metaverse with photorealistic graphics that erases the boundaries between the real and virtual worlds.It is a new type of social network that allows users to spend time with friends in both private and public virtual spaces. Additionally, the Homespace project includes Artificial Intelligence, which can evolve into an AI Assistant, friend, or companion. | Not issued yet |
   
   
-Although the 54 zkSync Era projects summary articles end here, the airdrop is still on the way. We also produced zkSync related video interactive tutorials：
+Although the 50 zkSync Era projects summary articles end here, the airdrop is still on the way. We also produced zkSync related video interactive tutorials：
 - [Tutorial A—Only 0.01 ETH to Interact with 7 Hottest Dapps](https://twitter.com/FoxWalletDaily/status/1674667922516766720?s=20)
 - [Tutorial B—A collection of funded projects and early Dex](https://twitter.com/FoxWalletDaily/status/1680155442679529472?s=20)
 
