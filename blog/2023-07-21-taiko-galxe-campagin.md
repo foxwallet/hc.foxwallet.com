@@ -5,6 +5,7 @@ keywords:
   - taiko airdrop
   - taiko tutorial
   - taiko galxe
+  - Which type of zkEVM has the fastest zk-proving time
 tags: [tutorial]
 authors: FoxWalletDaily
 ---
@@ -32,8 +33,10 @@ Pay attention now and don't miss out on any exclusive airdrop opportunities and 
 - Open web page https://galxe.com/taiko/campaign/GCeWBUeKCr
 - Click the "Connect Wallet" button in the upper right corner of the page.
     <img src="/img/blog/taiko-galxe/2.webp" width="640" />
+
 - Select "WalletConnect" as the wallet connection option.
     <img src="/img/blog/taiko-galxe/3.webp" width="640" />
+
 - Open FoxWallet and click the scan icon in the upper right corner.
 - Scan the QR code on the webpage to connect to the wallet  
 
@@ -42,44 +45,55 @@ Pay attention now and don't miss out on any exclusive airdrop opportunities and 
 ### 1. Become a Taiko Discord member
 - Click the first mission card `Become a Taiko Discord member`, jump to the task details page
     <img src="/img/blog/taiko-galxe/6.webp" width="640" />
+
 - Click the link `Taiko Discord Human`
 - Log into your Discord account and Authorize
     <img src="/img/blog/taiko-galxe/7.webp" width="640" />
-- Accept the invitation and complete a series of initial certifications 
 
+- Accept the invitation and complete a series of initial certifications 
     <img src="/img/blog/taiko-galxe/8.webp" width="320" />
+
 - Click `Verify` and `Continue`
     <img src="/img/blog/taiko-galxe/10.webp" width="640" /><img src="/img/blog/taiko-galxe/11.webp" width="640" />
+
 - Complete the Question (everyone is different)
 - If you see other channels on the left, it means you have successfully entered Taiko discord
     <img src="/img/blog/taiko-galxe/13.webp" width="640" />
+
 - Go back to the Galxe page, click `Cliam 20 Points`, then the first task is done
     <img src="/img/blog/taiko-galxe/14.webp" width="640" />
 
 ### 2. Become a Taiko Twitter follower
 - Click the second mission card `Become a Taiko Twitter follower`, jump to the task details page
     <img src="/img/blog/taiko-galxe/15.webp" width="640" />
+
 - Click `Become a Taiko Twitter follower`
     <img src="/img/blog/taiko-galxe/16.webp" width="640" />
+
 - Click the `Tweet` button in the galxe task page
 - Click the `Tweet` button in the twitter page, this will bind your twitter account to your Galxe’s account
     <img src="/img/blog/taiko-galxe/17.webp" width="640" />
+
 - Copy the verified tweet link 
 - Paste it into the task list, and Verify  
     <img src="/img/blog/taiko-galxe/18.webp" width="640" />
 
 - After the certification completed, follow Taiko official Twitter https://twitter.com/taikoxyz
     <img src="/img/blog/taiko-galxe/19.webp" width="400" />
+
 - Go back to the task list and click `Claim` to get the second task Points.
     <img src="/img/blog/taiko-galxe/20.webp" width="640" />
 
 ### 3. Like and retweet Taiko Quest announcement
 - Click the mission card `Like and retweet Taiko Quest announcement`, jump to the task details page
     <img src="/img/blog/taiko-galxe/21.webp" width="640" />
+
 - Click the first link `Tweet Liker`, then like the tweet.
     <img src="/img/blog/taiko-galxe/22.webp" width="640" />
+
 - Click the second link `Tweet Retweeters`, then retweet the tweet.
     <img src="/img/blog/taiko-galxe/23.webp" width="640" />
+
 - Click the refresh button
     <img src="/img/blog/taiko-galxe/24.webp" width="640" />
 
@@ -94,10 +108,13 @@ These four tasks are almost the same steps: `Visit the "Introduction to Taiko" b
 
 - Go to the task page and click the task link
     <img src="/img/blog/taiko-galxe/28.webp" width="640" />
+
 - Click `Continue to Access` after the Risk Warning appears (each task will appear)
     <img src="/img/blog/taiko-galxe/29.webp" width="640" />
+
 - After browsing all blog pages, back to the task detail page
     <img src="/img/blog/taiko-galxe/30.webp" width="640" />
+
 - Click the Authenticate button, then click the `Claim 1 Box` button
     <img src="/img/blog/taiko-galxe/31.webp" width="640" />
 
