@@ -7,7 +7,7 @@ keywords:
   - FoxCredit
 ---
 
-Welcome to use FoxWallet! We have brought you a brand new points system designed to help you manage and fully utilize your points more easily. This manual will provide a detailed introduction to our points system and its various functions.
+Welcome to use FoxWallet, we have brought you a brand-new points system, Fox Credit, which aims to motivate users to use various functions of FoxWallet. At the same time, external projects can create tasks in FoxWallet for product promotion.
 
 ## 1. What is Fox Credit
 The Fox Credit is a mechanism designed to reward users and encourage them to use our products more frequently. You can earn Fox Credit by completing specified tasks on the page, which can be used to purchase goods in the future Fox Credit mall or participate in lucky draws to win more rewards.
