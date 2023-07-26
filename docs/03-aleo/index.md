@@ -28,11 +28,11 @@ keywords:
 <img src="/img/docs/aleo-wallet.webp" width="320" /> <img src="/img/docs/aleo-transfer.webp" width="320" />
 
 
-<!-- ## Advance -->
+## Advance
 
-<!-- ```mdx-code-block
+```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
 <DocCardList items={useCurrentSidebarCategory().items}/>
-``` -->
+```
