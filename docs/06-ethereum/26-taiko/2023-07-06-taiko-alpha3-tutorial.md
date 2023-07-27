@@ -1,27 +1,37 @@
 ---
-sidebar_position: 26
-title: How to Interact on Taiko via FoxWallet
-sidebar_label: Taiko
+slug: taiko-alpha3-tutorial
+title: $22 Millon Funding Taiko:Alpha-3 Incentivized Testnet Airdrop Tutorial
+sidebar_label: Alpha-3 Incentivized Testnet Airdrop Tutorial
 keywords:
-  - Taiko guide
-  - Taiko airdrop
+  - taiko airdrop
+  - taiko tutorial
+tags: [tutorial]
+authors: FoxWalletDaily
 ---
+<!--truncate-->
+Welcome to [@FoxWalletDaily](https://twitter.com/FoxWalletDaily)
 
-```mdx-code-block
-<img src={require('@site/docs/static/img/taiko.webp').default} width={"80px"} height={"80px"} alt={"Taiko"} />
-<span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
-```
+We are FoxWallet's official airdrop info aggregation, aiming to provide you with the latest and most valuable airdrop information! 
 
-[Taiko](https://taiko.xyz/) is a Type 1 (Ethereum-equivalent) ZK-EVM aims for maximum compatibility. Taiko has fully decentralized and permissionless nodes, proposers, and provers.
+You will find:  
+🚀Popular Airdrops&emsp;&emsp;&emsp;🚀Tutorials and Rewards  
+🚀Project Highlights&emsp;&emsp;&ensp;🚀Teaching Videos  
 
+Pay attention now and don't miss out on any exclusive airdrop opportunities and interesting airdrop content! 
+
+**Here is our official social media accounts**
+* The Official twitter: https://twitter.com/FoxWallet
+* English Airdrops account: https://twitter.com/FoxWalletDaily
+* Chinese Airdrops account: https://twitter.com/FoxWalletCN
+
+## In this issue, we present the tutorial for Taiko Alpha-3 Incentivized Testnet 👇👇
 ![](/img/blog/taiko-alpha3-tutorial/1.webp)
 
 Taiko is a decentralized, Ethereum-compatible ZK-EVM and general-purpose ZK-Rollup. Its purpose is to allow developers and users of dApps developed for Ethereum L1 to seamlessly utilize Taiko without any modifications. As a result, dApps can be easily deployed to L2, inheriting Ethereum's security while generating lower transaction fees compared to L1.
 
 According to the latest reports, Taiko raised a total of $22 million in its seed round, led by HongShan on September 1,and on June 8th, it received a $12 million investment led by Generative Ventures.
 
-**On June 7th, Taiko launched the Alpha-3 incentivized testnet, which focuses on the decentralized and Ethereum-compatible ZK-EVM component. However, it's important to note that this incentivized testnet is specifically for Proposers and Provers (the first and second batches of early contributors). You can check the following link to see if you are on the list:**
+**On June 7th, Taiko launched the Alpha-3 incentivized testnet, which focuses on the decentralized and Ethereum-compatible ZK-EVM component. However, it's important to note that this incentivized testnet is specifically for Proposers and Provers (the first and second batches of early contributors). You can check the following link to see if you are on the list (also for individuals holding TTKO tokens):**
 * alpha-1: https://github.com/taikoxyz/operations/blob/main/askja-provers/provers.csv
 * alpha-2: https://github.com/taikoxyz/operations/blob/main/askja-provers/provers.csv
 
@@ -71,12 +81,15 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 * Go to "Bridge" tab
 * Input the Sepolia ETH amount you want to bridge
 * Click the "Bridge" button
-![](/img/blog/taiko-alpha3-tutorial/9.webp)
+
+  ![](/img/blog/taiko-alpha3-tutorial/9.webp)
 * Send the transaction on your FoxWallet
 * To bridge BLL and HORSE, you need "Approve" first
-![](/img/blog/taiko-alpha3-tutorial/10.webp)
+
+  ![](/img/blog/taiko-alpha3-tutorial/10.webp)
 * Go to "Transactions" tab, you can check if the tokens have been credited to your account, they will be automatically claimed after a while
-![](/img/blog/taiko-alpha3-tutorial/11.webp)
+
+  ![](/img/blog/taiko-alpha3-tutorial/11.webp)
 
 ### Bridge back from Taiko to Sepolia
 * Click the "Switch network" button, and click the "Confirm" button on FoxWallet
@@ -84,3 +97,21 @@ According to the latest reports, Taiko raised a total of $22 million in its seed
 * The bridge operation is almost the same as above
 * After confirming that Taiko goes to Sepolia, bridge ETH/BLL/HORESE back in turn according to the previous operation
 ![](/img/blog/taiko-alpha3-tutorial/13.webp)
+
+### Deploy your own contract on Taiko
+To be continued, we will provide a dedicated tutorial on deploying contracts in next week. It will not only cover completing the task of deploying on Taiko Alpha-3 Testnet but also focus on learning more efficient methods for contract deployment.   
+Therefore, Cecilia recommends everyone to stay tuned for our updates!
+
+### Welcome to follow us
+* The Official twitter: https://twitter.com/FoxWallet
+* English Airdrops account: https://twitter.com/FoxWalletDaily
+* Chinese Airdrops account: https://twitter.com/FoxWalletCN
+
+Best wishes  
+By Cecilia  
+On 2023.7.6
+
+
+
+
+
