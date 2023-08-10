@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 export default function FoxCredit() {
   useEffect(() => {
     const timeout = setTimeout(() => {
-        window.location.replace("https://link.foxwallet.com/credit");
+        window.location.replace("foxwallet://credit");
     }, 1);
     return () => clearTimeout(timeout);
   }, []);
