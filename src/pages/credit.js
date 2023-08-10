@@ -1,7 +1,14 @@
-import React from 'react';
+import React, { useEffect }  from 'react';
 import Layout from '@theme/Layout';
 
 export default function FoxCredit() {
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+        window.location.replace("https://link.foxwallet.com/credit");
+    }, 1);
+    return () => clearTimeout(timeout);
+  }, []);
+
   return (
     <Layout title="Fox Credit" description="Fox Credit">
       <div
@@ -13,9 +20,6 @@ export default function FoxCredit() {
           fontSize: '20px',
         }}>
       </div>
-      <script>
-        window.location.href="https://link.foxwallet.com/credit"
-      </script>
     </Layout>
   );
 }
