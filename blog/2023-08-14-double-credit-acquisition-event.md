@@ -1,16 +1,16 @@
 ---
 slug: double-credit-acquisition-event
-title: FoxWallet Credits Launching Campaign
+title: FoxWallet Credit Launching Campaign
 tags: [announcement, event]
 ---
 
-To celebrate the Fox Credits feature online, we are thrilled to announce the FoxWallet Credits Launching Campaign! During this week, users will be able to accumulate more credits than usual and share the $1000U rewards pool.  
+To celebrate the Fox Credit feature online, we are thrilled to announce the FoxWallet Credit Launching Campaign! During this week, users will be able to accumulate more credits than usual and share the $1000U rewards pool.  
 
 ![](/img/blog/foxcredit-launching-campaign.webp)
 
 **Time: Aug 14 — Aug 21**
 
-### How to earn Fox Credits?
+### How to earn Fox Credit?
 
 1. Daily Check-in: create/import the wallet and go check-in, you’ll get 20 credits on a daily basis; the initial check-in will be counted for 40 credits; 40 extra credits will be rewarded to those who check in 7 consecutive days during the campaign. Your total credits by check-in will be 200 in total.
 2. Invite Friends: each invite can get you 100 credits and each invitee will receive 50 credits — — more invites, more credits.
