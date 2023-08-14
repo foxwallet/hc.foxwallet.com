@@ -31,10 +31,10 @@ Zealy任务包括:
 
 |  Fox Credits | 奖励池 |
 |  ------- | ----------- |
-| 0 ~ 800 | 200 USDT |
+| 20 ~ 800 | 200 USDT |
 | 800 ~ 1300 | 300 USDT |
 | > 1300 | 500 USDT |
 
 - **奖励低于0.05U将不会分配。所有的USDT将发送到Polygon网络。**
-- FoxWallet Credits启动活动的奖励池仅用于活动期间获得的Fox Credits。活动之前或之后获得的积分不计入其中。
+- FoxWallet Credit 上线活动的奖励池仅用于活动期间获得的 Fox Credit，活动之前或之后获得的积分不计入其中。
 - FoxWallet保留最终解释权。

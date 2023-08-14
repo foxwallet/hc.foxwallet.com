@@ -31,7 +31,7 @@ For example, Alice earned 500 Fox Credits and the total Credits for the first Po
 
 |  Fox Credits | Prize Pool |
 |  ------- | ----------- |
-| 0 ~ 800 | 200 USDT |
+| 20 ~ 800 | 200 USDT |
 | 800 ~ 1300 | 300 USDT |
 | > 1300 | 500 USDT |
 
