@@ -21,3 +21,21 @@ function getProvider() {
 const Provider = getProvider();
 const accounts = await Provider.request({ method: 'eth_requestAccounts' }); // string[], an array of a single, hexadecimal Ethereum address string.
 ```
+
+### Use [@rainbow-me/rainbowkit](https://www.npmjs.com/package/@rainbow-me/rainbowkit)
+```tsx
+import {
+  getDefaultWallets,
+  connectorsForWallets,
+} from '@rainbow-me/rainbowkit';
+import { foxWallet } from '@rainbow-me/rainbowkit/wallets';
+
+const { wallets } = getDefaultWallets({ appName, projectId, chains });
+const connectors = connectorsForWallets([
+  ...wallets,
+  {
+    groupName: 'Other',
+    wallets: [foxWallet({ projectId, chains })],
+  },
+]);
+```
