@@ -22,7 +22,7 @@ Time：-2023/08/23 12:00 - 2023/09/26 12:00 GMT+08:00-
 
 ### Connect FoxWallet
 - Download FoxWallet: https://foxwallet.com/download
-- Open the event page on your PC: https://galxe.com/taiko/campaign/GCKxqU5MwL
+- Open the event page on your PC: https://galxe.com/zkLink/campaign/GCn45UjHXE
 - Click the "Connect Wallet" button in the upper right corner of the page
 - Select "WalletConnect" as the connection option
   ![](/img/blog/zklink-summer/2.webp)

@@ -22,7 +22,7 @@ authors: FoxWalletDaily
 
 ### 连接钱包
 - 下载安装 FoxWallet: https://foxwallet.com/download
-- 打开活动网页 https://galxe.com/zkLink/campaign/GCn45UjHXE
+- 打开活动网页：https://galxe.com/zkLink/campaign/GCn45UjHXE
 - 点击页面右上角的 "Connect Wallet" 按钮
 - 选择 "WalletConnect" 作为连接选项
   ![](/img/blog/zklink-summer/2.webp)
