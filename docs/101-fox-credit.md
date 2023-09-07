@@ -26,11 +26,14 @@ In addition to earning Fox Credit through daily check-ins and transfers, our poi
 2. More types of tasks coming soon
 
 ## 3. Uses of Fox Credit
-### 3.1 Lucky Draw 
-You can use your points to participate in sweepstakes and have a chance to win different prizes. Once the points are consumed, they cannot be refunded.
 
-### 3.2 Credit Mall
-This feature is under development, so stay tuned.
+### 3.1 Credit Mall
+You can use Fox Credit to redeem gifts in the mall, including various Tokens and NFTs, and we will replenish the gift inventory from time to time.  
+
+<img src="/img/blog/credit-mall.webp" width="320" />
+
+### 3.2 Lucky Draw 
+You can use your points to participate in sweepstakes and have a chance to win different prizes. Once the points are consumed, they cannot be refunded.
 
 ## 4. Notes
 * **Fox Credit is not token and cannot be transferred. FoxWallet currently has no plans to issue tokens.**
