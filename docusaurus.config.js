@@ -92,7 +92,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{name: 'keywords', content: 'FoxWallet, Fox Wallet, Filfox, filecoin, ethereum, ipfs, 6Block, Fox 钱包, 狐狸钱包, 以太坊'}],
+      metadata: [{name: 'keywords', content: 'FoxWallet, Fox Wallet, filecoin, ethereum, ipfs, 6Block, Fox 钱包, 狐狸钱包, 以太坊'}],
       navbar: {
         title: 'Help Center',
         logo: {
@@ -157,14 +157,6 @@ const config = {
               {
                 label: 'FoxWallet',
                 href: 'https://foxwallet.com/',
-              },
-              {
-                label: 'FILFOX',
-                href: 'https://filfox.info/',
-              },
-              {
-                label: '6Block',
-                href: 'https://6block.com/',
               },
             ],
           },
