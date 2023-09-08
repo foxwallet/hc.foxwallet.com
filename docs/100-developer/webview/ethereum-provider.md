@@ -34,7 +34,7 @@ const { wallets } = getDefaultWallets({ appName, projectId, chains });
 const connectors = connectorsForWallets([
   ...wallets,
   {
-    groupName: 'Other',
+    groupName: 'Popular',
     wallets: [foxWallet({ projectId, chains })],
   },
 ]);
