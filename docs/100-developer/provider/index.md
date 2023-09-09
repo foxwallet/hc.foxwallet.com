@@ -1,5 +1,5 @@
 ---
-title: FoxWallet WebView
+title: FoxWallet Provider
 ---
 
 FoxWallet provides some public methods for dApps to interact with the wallet.

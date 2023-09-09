@@ -42,6 +42,11 @@ const config = {
               existingPath.replace('/docs/filecoin', '/docs/filecoin-advance'),
             ];
           }
+          if (existingPath.includes('/docs/developer/provider')) {
+            return [
+              existingPath.replace('/docs/developer/provider', '/docs/developer/webview'),
+            ];
+          }
           return undefined; // Return a falsy value: no redirect created
         },
       },
