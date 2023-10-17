@@ -2,7 +2,7 @@
 slug: tailo-alpha-5-campaign
 title: Watch, Read, and Mint on Taiko (Alpha-5 Jólnir) Galxe Tutorial
 tags: [tutorial]
-authors: FoxWalletDaily
+authors: FoxWalletCN
 ---
 <!--truncate-->
 欢迎来到 [@FoxWalletCN](https://twitter.com/FoxWalletCN)！

@@ -1,5 +1,10 @@
 FoxWalletDaily:
-  name: FoxWalletAirdrops
+  name: FoxWalletDaily
   title: FoxWalletDaily
   url: https://twitter.com/FoxWalletDaily
+  image_url: https://pbs.twimg.com/profile_images/1663807994524749824/150ZoDpe_400x400.jpg
+FoxWalletDaily:
+  name: FoxWalletCN
+  title: FoxWalletCN
+  url: https://twitter.com/FoxWalletCN
   image_url: https://pbs.twimg.com/profile_images/1663807994524749824/150ZoDpe_400x400.jpg
