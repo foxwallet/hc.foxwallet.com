@@ -14,4 +14,4 @@ keywords:
   - Note: The approximate tokenId range is from 1200 to 3400, but there are also some other categories in between, better to check if the token name equals "TaskOn and FoxWallet Team Up for a Special NFT Giveaway! 🎉"
 
 ## FoxWallet 2nd Anniversary NFT
-- On the way
+- Contract: https://polygonscan.com/token/0x139cc0009bad35822c912785905b9ee909481fa0
