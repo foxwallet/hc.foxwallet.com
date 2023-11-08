@@ -39,7 +39,8 @@ tags: [announcement, event]
 
 ## 4. Check Your Ranking
 - Click `Checking your ranking` on `Invite Page` to check your ranking  
-  <img src="/img/blog/2nd-anniversary-tutorial/10.webp" width="320" />  <img src="/img/blog/2nd-anniversary-tutorial/11.webp" width="320" />
+
+  <img src="/img/blog/2nd-anniversary-tutorial/10.webp" width="320" /><img src="/img/blog/2nd-anniversary-tutorial/11.webp" width="320" />
 
 ## 
 FoxWallet is dedicated to providing secure, efficient and convenient trusted digital services in the Web3 space, providing a safe entrance for users to the Web3 world. Our FoxWallet team is beyond grateful for your support, enthusiasm and feedback we've received since product inception. We are devoted to offering you more evolving features that ensure you the best wallet and blockchain experience.  
