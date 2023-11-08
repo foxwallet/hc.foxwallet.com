@@ -12,8 +12,32 @@ Welcome to use FoxWallet, we have brought you a brand-new points system, Fox Cre
 ## 1. What is Fox Credit
 The Fox Credit is a mechanism designed to reward users and encourage them to use our products more frequently, which can be used to purchase goods in the Credit mall or participate in lucky draws to win more rewards.
 
-## 2. How to earn Fox Credit
-You can earn Fox Credit by completing specified tasks on the page.
+## 2. How to Earn Fox Credits
+
+### 2.1 Daily Check-in
+- Log in to your wallet every day and click the "Check-in" button on the page to receive a certain amount of points as a reward. Additionally, there's an extra bonus for checking in for 7 consecutive days.
+
+### 2.2 Invite Friends
+- By inviting your friends to use FoxWallet, you will receive additional points as a reward. Simply use the invitation link or code in FoxWallet to invite friends to register and use our encrypted wallet; both you and your friend will receive points as a reward.
+- Please note that the number of invitations made before the launch of FoxCredit will not be counted towards rewards.
+
+### 2.3 Complete a Swap Transaction
+- By using FoxWallet's Swap feature daily, the first three transactions will be rewarded with a varying amount of points, ranging from 1 to 500.
+
+### 2.4 Join the FoxWallet Community
+- By visiting and joining the FoxWallet community on the points page, you can receive a certain point reward.
+
+### 2.5 Hold Specific Tokens
+- Within a specified period, holding certain tokens in your account will earn you a certain point reward.
+
+### 2.6 Hold Specific NFTs
+- Within a specified period, holding certain NFTs in your account will earn you a certain point reward.
+
+### 2.7 Upload a 5-star Review Screenshot
+- On the points page, uploading a five-star review from the iOS App Store or Google Play will earn you a certain amount of points as a reward.
+
+### 2.8 Experience Other Projects
+- By visiting the points page and experiencing other projects, you can earn joint rewards released by FoxWallet and the project in question.
 
 ## 3. Uses of Fox Credit
 
