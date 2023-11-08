@@ -73,26 +73,26 @@ FoxWallet has been paying attention and is committed to supporting more public c
 ### Side Events
 You can also earn credits (points on TaskOn) by completing FoxWallet joint side events and sharing extra rewards, check the event list: 
 - FoxWallet X TaskOn Joint Event 
-- FoxWallet X FBBank Joint Event
-- FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox Joint Event
+- [FoxWallet X FBBank Joint Event](https://rewards.taskon.xyz/campaign/detail/18264)
+- [FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox Joint Event](https://rewards.taskon.xyz/campaign/detail/18358)
 - FoxWallet X FileMarket Joint Event
-- FoxWallet X Meta2150s Joint Event
-- FoxWallet X Star_Protocol Joint Event
-- FoxWallet X Ola Joint Event
-- FoxWallet X Velocore Joint Event
-- FoxWallet X HashKing Joint Event
-- FoxWallet X Lumoz Joint Event
-- FoxWallet X zkDx Joint Event
-- FoxWallet X USDD Joint Event
-- FoxWallet X Pheasant Joint Event
-- FoxWallet X HorizonDEX Joint Event
-- FoxWallet X SFT Protocol Joint Event
-- FoxWallet X Celer Network Joint Event
-- FoxWallet X ReactorFusion Joint Event
-- FoxWallet X Oases Joint Event
+- [FoxWallet X Meta2150s Joint Event](https://rewards.taskon.xyz/campaign/detail/18556)
+- [FoxWallet X Star_Protocol Joint Event](https://rewards.taskon.xyz/campaign/detail/18562)
+- [FoxWallet X Ola Joint Event](https://rewards.taskon.xyz/campaign/detail/18563)
+- [FoxWallet X Velocore Joint Event](https://rewards.taskon.xyz/campaign/detail/18568)
+- [FoxWallet X HashKing Joint Event](https://rewards.taskon.xyz/campaign/detail/18569)
+- [FoxWallet X Lumoz Joint Event](https://rewards.taskon.xyz/campaign/detail/18570)
+- [FoxWallet X zkDx Joint Event](https://rewards.taskon.xyz/campaign/detail/18571)
+- [FoxWallet X USDD Joint Event](https://rewards.taskon.xyz/campaign/detail/18572)
+- [FoxWallet X Pheasant Joint Event](https://rewards.taskon.xyz/campaign/detail/18574)
+- [FoxWallet X HorizonDEX Joint Event](https://rewards.taskon.xyz/campaign/detail/18575)
+- [FoxWallet X SFT Protocol Joint Event](https://rewards.taskon.xyz/campaign/detail/18576)
+- [FoxWallet X Celer Network Joint Event](https://rewards.taskon.xyz/campaign/detail/18577)
+- [FoxWallet X ReactorFusion Joint Event](https://rewards.taskon.xyz/campaign/detail/18578)
+- [FoxWallet X Oases Joint Event](https://rewards.taskon.xyz/campaign/detail/18580)
 - FoxWallet X LULU Market Joint Event
-- FoxWallet X NOAH Joint Event
-- FoxWallet X Carbon Browser Joint Event
+- [FoxWallet X NOAH Joint Event](https://rewards.taskon.xyz/campaign/detail/18582)
+- [FoxWallet X Carbon Browser Joint Event](https://rewards.taskon.xyz/campaign/detail/18583)
 
 ### Rules
 - Each person can redeem each reward once per day, and the lottery can be drawn 20 times per day. 

@@ -70,27 +70,27 @@ FoxWallet一直在关注并致力于支持更多公链，以便在钱包中进�
 
 ### 附加活动
 您还可以通过完成FoxWallet联合附加活动以及分享额外奖励来赚取积分（TaskOn上的积分），请查看活动清单：
-- FoxWallet X TaskOn联合活动
-- FoxWallet X FBBank联合活动
-- FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox联合活动
-- FoxWallet X FileMarket联合活动
-- FoxWallet X Meta2150s联合活动
-- FoxWallet X Star_Protocol联合活动
-- FoxWallet X Ola联合活动
-- FoxWallet X Velocore联合活动
-- FoxWallet X HashKing联合活动
-- FoxWallet X Lumoz联合活动
-- FoxWallet X zkDx联合活动
-- FoxWallet X USDD联合活动
-- FoxWallet X Pheasant联合活动
-- FoxWallet X HorizonDEX联合活动
-- FoxWallet X SFT Protocol联合活动
-- FoxWallet X Celer Network联合活动
-- FoxWallet X ReactorFusion联合活动
-- FoxWallet X Oases联合活动
-- FoxWallet X LULU Market联合活动
-- FoxWallet X NOAH联合活动
-- FoxWallet X Carbon Browser联合活动
+- FoxWallet X TaskOn 联合活动 
+- [FoxWallet X FBBank 联合活动](https://rewards.taskon.xyz/campaign/detail/18264)
+- [FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox 联合活动](https://rewards.taskon.xyz/campaign/detail/18358)
+- FoxWallet X FileMarket 联合活动
+- [FoxWallet X Meta2150s 联合活动](https://rewards.taskon.xyz/campaign/detail/18556)
+- [FoxWallet X Star_Protocol 联合活动](https://rewards.taskon.xyz/campaign/detail/18562)
+- [FoxWallet X Ola 联合活动](https://rewards.taskon.xyz/campaign/detail/18563)
+- [FoxWallet X Velocore 联合活动](https://rewards.taskon.xyz/campaign/detail/18568)
+- [FoxWallet X HashKing 联合活动](https://rewards.taskon.xyz/campaign/detail/18569)
+- [FoxWallet X Lumoz 联合活动](https://rewards.taskon.xyz/campaign/detail/18570)
+- [FoxWallet X zkDx 联合活动](https://rewards.taskon.xyz/campaign/detail/18571)
+- [FoxWallet X USDD 联合活动](https://rewards.taskon.xyz/campaign/detail/18572)
+- [FoxWallet X Pheasant 联合活动](https://rewards.taskon.xyz/campaign/detail/18574)
+- [FoxWallet X HorizonDEX 联合活动](https://rewards.taskon.xyz/campaign/detail/18575)
+- [FoxWallet X SFT Protocol 联合活动](https://rewards.taskon.xyz/campaign/detail/18576)
+- [FoxWallet X Celer Network 联合活动](https://rewards.taskon.xyz/campaign/detail/18577)
+- [FoxWallet X ReactorFusion 联合活动](https://rewards.taskon.xyz/campaign/detail/18578)
+- [FoxWallet X Oases 联合活动](https://rewards.taskon.xyz/campaign/detail/18580)
+- FoxWallet X LULU Market 联合活动
+- [FoxWallet X NOAH 联合活动](https://rewards.taskon.xyz/campaign/detail/18582)
+- [FoxWallet X Carbon Browser 联合活动](https://rewards.taskon.xyz/campaign/detail/18583)
 
 ### 规则
 - 每人每天可兑换每个奖励一次，每天可以抽奖20次。
