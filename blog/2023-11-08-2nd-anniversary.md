@@ -72,7 +72,7 @@ FoxWallet has been paying attention and is committed to supporting more public c
 
 ### Side Events
 You can also earn credits (points on TaskOn) by completing FoxWallet joint side events and sharing extra rewards, check the event list: 
-- FoxWallet X TaskOn Joint Event 
+- [FoxWallet X TaskOn Joint Event](https://taskon.xyz/campaign/detail/19053)
 - [FoxWallet X FBBank Joint Event](https://rewards.taskon.xyz/campaign/detail/18264)
 - [FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox Joint Event](https://rewards.taskon.xyz/campaign/detail/18358)
 - [FoxWallet X FileMarket Joint Event](https://rewards.taskon.xyz/campaign/detail/18397)

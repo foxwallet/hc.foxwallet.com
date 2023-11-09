@@ -70,7 +70,7 @@ FoxWallet一直在关注并致力于支持更多公链，以便在钱包中进�
 
 ### 附加活动
 您还可以通过完成FoxWallet联合附加活动以及分享额外奖励来赚取积分（TaskOn上的积分），请查看活动清单：
-- FoxWallet X TaskOn 联合活动 
+- [FoxWallet X TaskOn 联合活动](https://taskon.xyz/campaign/detail/19053) 
 - [FoxWallet X FBBank 联合活动](https://rewards.taskon.xyz/campaign/detail/18264)
 - [FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox 联合活动](https://rewards.taskon.xyz/campaign/detail/18358)
 - [FoxWallet X FileMarket 联合活动](https://rewards.taskon.xyz/campaign/detail/18397)
