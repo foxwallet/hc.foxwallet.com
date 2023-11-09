@@ -75,7 +75,7 @@ You can also earn credits (points on TaskOn) by completing FoxWallet joint side 
 - FoxWallet X TaskOn Joint Event 
 - [FoxWallet X FBBank Joint Event](https://rewards.taskon.xyz/campaign/detail/18264)
 - [FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox Joint Event](https://rewards.taskon.xyz/campaign/detail/18358)
-- FoxWallet X FileMarket Joint Event
+- [FoxWallet X FileMarket Joint Event](https://rewards.taskon.xyz/campaign/detail/18397)
 - [FoxWallet X Meta2150s Joint Event](https://rewards.taskon.xyz/campaign/detail/18556)
 - [FoxWallet X Star_Protocol Joint Event](https://rewards.taskon.xyz/campaign/detail/18562)
 - [FoxWallet X Ola Joint Event](https://rewards.taskon.xyz/campaign/detail/18563)
@@ -90,7 +90,7 @@ You can also earn credits (points on TaskOn) by completing FoxWallet joint side 
 - [FoxWallet X Celer Network Joint Event](https://rewards.taskon.xyz/campaign/detail/18577)
 - [FoxWallet X ReactorFusion Joint Event](https://rewards.taskon.xyz/campaign/detail/18578)
 - [FoxWallet X Oases Joint Event](https://rewards.taskon.xyz/campaign/detail/18580)
-- FoxWallet X LULU Market Joint Event
+- [FoxWallet X LULU Market Joint Event](https://rewards.taskon.xyz/campaign/detail/18581)
 - [FoxWallet X NOAH Joint Event](https://rewards.taskon.xyz/campaign/detail/18582)
 - [FoxWallet X Carbon Browser Joint Event](https://rewards.taskon.xyz/campaign/detail/18583)
 

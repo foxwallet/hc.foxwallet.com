@@ -73,7 +73,7 @@ FoxWallet一直在关注并致力于支持更多公链，以便在钱包中进�
 - FoxWallet X TaskOn 联合活动 
 - [FoxWallet X FBBank 联合活动](https://rewards.taskon.xyz/campaign/detail/18264)
 - [FoxWallet X FNS DAO -Filutils, FNS.Space, Filfox 联合活动](https://rewards.taskon.xyz/campaign/detail/18358)
-- FoxWallet X FileMarket 联合活动
+- [FoxWallet X FileMarket 联合活动](https://rewards.taskon.xyz/campaign/detail/18397)
 - [FoxWallet X Meta2150s 联合活动](https://rewards.taskon.xyz/campaign/detail/18556)
 - [FoxWallet X Star_Protocol 联合活动](https://rewards.taskon.xyz/campaign/detail/18562)
 - [FoxWallet X Ola 联合活动](https://rewards.taskon.xyz/campaign/detail/18563)
@@ -88,7 +88,7 @@ FoxWallet一直在关注并致力于支持更多公链，以便在钱包中进�
 - [FoxWallet X Celer Network 联合活动](https://rewards.taskon.xyz/campaign/detail/18577)
 - [FoxWallet X ReactorFusion 联合活动](https://rewards.taskon.xyz/campaign/detail/18578)
 - [FoxWallet X Oases 联合活动](https://rewards.taskon.xyz/campaign/detail/18580)
-- FoxWallet X LULU Market 联合活动
+- [FoxWallet X LULU Market 联合活动](https://rewards.taskon.xyz/campaign/detail/18581)
 - [FoxWallet X NOAH 联合活动](https://rewards.taskon.xyz/campaign/detail/18582)
 - [FoxWallet X Carbon Browser 联合活动](https://rewards.taskon.xyz/campaign/detail/18583)
 
