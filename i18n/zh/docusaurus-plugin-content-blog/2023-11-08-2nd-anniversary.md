@@ -91,6 +91,8 @@ FoxWallet一直在关注并致力于支持更多公链，以便在钱包中进�
 - [FoxWallet X LULU Market 联合活动](https://rewards.taskon.xyz/campaign/detail/18581)
 - [FoxWallet X NOAH 联合活动](https://rewards.taskon.xyz/campaign/detail/18582)
 - [FoxWallet X Carbon Browser 联合活动](https://rewards.taskon.xyz/campaign/detail/18583)
+- [FoxWallet X Relation 联合活动](https://taskon.xyz/campaign/detail/18927)
+- [FoxWallet X Swapter 联合活动](https://rewards.taskon.xyz/campaign/detail/18928)
 
 ### 规则
 - 每人每天可兑换每个奖励一次，每天可以抽奖20次。

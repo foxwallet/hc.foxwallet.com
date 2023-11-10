@@ -93,6 +93,8 @@ You can also earn credits (points on TaskOn) by completing FoxWallet joint side 
 - [FoxWallet X LULU Market Joint Event](https://rewards.taskon.xyz/campaign/detail/18581)
 - [FoxWallet X NOAH Joint Event](https://rewards.taskon.xyz/campaign/detail/18582)
 - [FoxWallet X Carbon Browser Joint Event](https://rewards.taskon.xyz/campaign/detail/18583)
+- [FoxWallet X Relation Joint Event](https://taskon.xyz/campaign/detail/18927)
+- [FoxWallet X Swapter Joint Event](https://rewards.taskon.xyz/campaign/detail/18928)
 
 ### Rules
 - Each person can redeem each reward once per day, and the lottery can be drawn 20 times per day. 
