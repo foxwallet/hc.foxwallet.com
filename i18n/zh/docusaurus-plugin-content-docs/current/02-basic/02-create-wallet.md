@@ -6,7 +6,7 @@ sidebar_position: 3
 
 打开钱包后，首先阅读并勾选《Fox钱包用户协议》。
 
-![](../img/onboard.webp)
+<img src="/img/docs/onboard.webp" width="320" />
 
 ### 如果已经有钱包，可以直接选择“导入钱包”
 

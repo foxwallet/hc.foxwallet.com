@@ -5,12 +5,12 @@ sidebar_position: 4
 # 收款与转账
 FoxWallet 支持多种链，可点击 ”钱包“页面左上角按钮进行切换。
 
-![](../img/switch-entrance.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
 
 ### 收款
 点击”收款”按钮，可获取钱包地址和二维码。
 
-![](../img/receive.webp)
+<img src="/img/docs/receive.webp" width="320" />
 
 ### 转账
 

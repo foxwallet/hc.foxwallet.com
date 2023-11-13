@@ -21,7 +21,9 @@ keywords:
 
 点击钱包主页左上角的切换按钮 => 选择 zkSync Alpha Testnet => 选择一个账户。
 
-![](../img/switch-entrance.webp)![](../img/switch-zksync-alpha-testnet.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-zksync-alpha-testnet.webp)
 
 ## 获取测试币 和 体验跨链桥
 

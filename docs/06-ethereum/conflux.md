@@ -25,4 +25,6 @@ keywords:
 
 Click the switch button in main page => Choose Conflux eSpace => Select one account.
 
-![](../img/switch-entrance.webp)![](../img/switch-conflux.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-conflux.webp)

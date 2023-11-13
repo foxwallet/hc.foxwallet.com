@@ -20,7 +20,9 @@ keywords:
 ## Switch Network
 Click the switch button in the top-right corner => Choose `Goerli Testnet` => Select one account.
 
-![](../img/switch-entrance.webp)![](../img/switch-goerli.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-goerli.webp)
 
 
 ## Goerli Faucets

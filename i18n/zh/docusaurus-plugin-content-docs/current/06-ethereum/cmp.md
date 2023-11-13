@@ -20,4 +20,6 @@ keywords:
 
 点击钱包主页左上角的切换按钮 => 选择 Caduceus Mainnet => 选择一个账户。
 
-![](../img/switch-entrance.webp)![](../img/switch-cmp.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-cmp.webp)

@@ -26,4 +26,6 @@ keywords:
 
 Click the switch button in main page => Choose KCC Mainnet => Select one account.
 
-![](../img/switch-entrance.webp)![](../img/switch-kcc.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-kcc.webp)

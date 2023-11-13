@@ -4,11 +4,11 @@ Read the “FoxWallet terms” if you are opening the wallet for the first time.
 
 Click “Create wallet”, and set the “Wallet name”, “Password” and “Password reminder” according to the prompts on the page. 
 
+<img src="/img/docs/onboard.webp" width="320" />
+
 Keep in mind that FoxWallet DOES NOT store the password NOR retrieve it for you. 
 
 After entering all the information, click “Submit”.
-
-![](../img/onboard.webp)
 
 At this point, your wallet has been created, and you can choose to back up the seed phrase immediately or later.
 

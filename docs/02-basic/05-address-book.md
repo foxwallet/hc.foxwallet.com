@@ -10,11 +10,9 @@ This feature also minimizes the risk of manual typing errors in cryptocurrency a
 
 1. Open "Me" Tab
 
-![](../img/settings.webp)
+2. Click "Contacts"
 
-2. Click AddressBook
-
-![](../img/ab.webp)
+<img src="/img/docs/me-contacts.webp" width="320" /> 
 
 3. Select the network for the address you want to save
 

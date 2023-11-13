@@ -3,12 +3,12 @@
 ### Switch networks
 [FoxWallet](https://foxwallet.com) supports multiple chains, you can switch them through the button in the top left corner of the “Wallet”
 
-![](../img/switch-entrance.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
 
 ### Receive
 Click the “Receive” button to get your wallet address.
 
-![](../img/receive.webp)
+<img src="/img/docs/receive.webp" width="320" />
 
 ### Send
 

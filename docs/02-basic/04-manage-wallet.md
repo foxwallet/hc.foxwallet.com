@@ -6,12 +6,12 @@ You can view the "Manage Wallet" page via "Me" => "Settings" => "Switch Wallet",
 ## Add wallet
 Click the "+ Add wallet" button in "Switch Wallet" page, select the corresponding method and follow the prompts to create or restore a wallet.
 
-![](../img/add-wallet.webp)
+<img src="/img/docs/add-wallet.webp" width="320" /> 
 
 ## Switch wallet
 Click the switch button on the left-top corner of wallet screen.  
 
-![](../img/switch-entrance.webp)  
+<img src="/img/docs/switch-entrance.webp" width="320" />  
 
 Click the manage icon on the left-top corner of pop-up screen.  
 

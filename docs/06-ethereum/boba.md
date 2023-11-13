@@ -25,4 +25,6 @@ keywords:
 Click the switch button in main page => Choose Boba Mainnet => Select one
 account.
 
-![](../img/switch-entrance.webp)![](../img/switch-boba.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-boba.webp)

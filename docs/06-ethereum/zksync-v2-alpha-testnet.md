@@ -27,7 +27,9 @@ keywords:
 
 Click the switch button in main page => Choose zkSync Alpha Testnet => Select one account.
 
-![](../img/switch-entrance.webp)![](../img/switch-zksync-alpha-testnet.webp)
+<img src="/img/docs/switch-entrance.webp" width="320" />
+
+![](../img/switch-zksync-alpha-testnet.webp)
 
 ## Get testnet coin and bridge
 

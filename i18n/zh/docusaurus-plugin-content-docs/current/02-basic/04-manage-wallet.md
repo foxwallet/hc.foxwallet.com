@@ -12,12 +12,12 @@ FoxWallet 支持通过私钥或助记词的方式导入多个钱包，助记词�
 
 其中 “创建钱包” 会通过安全的随机算法新生成一套助记词，“导入助记词“ 支持导入其他钱包生成的12位或24位助记词，“导入私钥” 则和特定的链相关。
 
-![](../img/add-wallet.webp)
+<img src="/img/docs/add-wallet.webp" width="320" /> 
 
 ## 切换钱包
 点击钱包页左上角的切换按钮。 
 
-![](../img/switch-entrance.webp)  
+<img src="/img/docs/switch-entrance.webp" width="320" />  
 
 点击弹窗左上角的管理图标。  
 
