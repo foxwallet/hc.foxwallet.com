@@ -42,12 +42,12 @@ FoxWallet provides more than $25,000 rewards, and our cooperation partners provi
 
 |  Credit | Reward |
 |  ------ | ------ |
-| 100 | 0.1 USDT  |
-| 150 | 0.2 USDT  |
-| 250 | 0.5 USDT  |
-| 400 | 1 USDT  |
-| 1000 | 3 USDT  |
-| 5000 | 20 USDT  |
+| 150 | 0.1 USDT  |
+| 250 | 0.2 USDT  |
+| 500 | 0.5 USDT  |
+| 1000 | 1.2 USDT  |
+| 2000 | 3 USDT  |
+| 5000 | 10 USDT  |
 
 #### Daily Referral Rewards
 FoxWallet also provides extra bonuses to daily top inviters.   
