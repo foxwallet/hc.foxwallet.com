@@ -33,7 +33,7 @@
 
 - Natalie    
     - Email: nataliey@foxwallet.com
-    - Telegram: [@@natalie_yev](https://t.me/natalie_yev)
+    - Telegram: [@natalie_yev](https://t.me/natalie_yev)
     - Twitter: https://twitter.com/natalie_yev
 
 ## Telegram Admin
