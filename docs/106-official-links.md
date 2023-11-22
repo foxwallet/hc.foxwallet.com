@@ -4,7 +4,7 @@
 - Official Website: https://foxwallet.com/
 - Help Center: https://hc.foxwallet.com/
 
-## Comminity
+## Community
 - Discord: https://discord.gg/foxwallet
 - Telegram
     - English: https://t.me/FoxWallet_EN
