@@ -26,12 +26,15 @@
 
 ## Member
 - CodeFace
-    - codeface@foxwallet.com
-    - https://twitter.com/codeface_eth
+    - Email: codeface@foxwallet.com
+    - Telegram: [@codeface_fox](https://t.me/codeface_fox)
+    - Twitter: https://twitter.com/codeface_eth
     - [codeface.eth](https://etherscan.io/name-lookup-search?id=codeface.eth)
+
 - Natalie    
-    - nataliey@foxwallet.com
-    - https://twitter.com/natalie_yev
+    - Email: nataliey@foxwallet.com
+    - Telegram: [@@natalie_yev](https://t.me/natalie_yev)
+    - Twitter: https://twitter.com/natalie_yev
 
 ## Telegram Admin
 - FoxWallet Official: [@FoxWalletOfficial](https://t.me/FoxWalletOfficial)

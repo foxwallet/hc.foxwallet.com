@@ -95,6 +95,16 @@ You can also earn credits (points on TaskOn) by completing FoxWallet joint side 
 - [FoxWallet X Carbon Browser Joint Event](https://rewards.taskon.xyz/campaign/detail/18583)
 - [FoxWallet X Relation Joint Event](https://taskon.xyz/campaign/detail/18927)
 - [FoxWallet X Swapter Joint Event](https://rewards.taskon.xyz/campaign/detail/18928)
+- [FoxWallet X Cattie Swap Joint Event](https://rewards.taskon.xyz/campaign/detail/20243)
+- [FoxWallet X iZUMi Finance Joint Event](https://rewards.taskon.xyz/campaign/detail/20194)
+- [FoxWallet X Kinza Finance Joint Event](https://rewards.taskon.xyz/campaign/detail/20244)
+- [FoxWallet X STP Joint Event](https://rewards.taskon.xyz/campaign/detail/20246)
+- [FoxWallet X Adventure Gold Joint Event](https://rewards.taskon.xyz/campaign/detail/20250)
+- [FoxWallet X Aleoswap Joint Event](https://rewards.taskon.xyz/campaign/detail/20252)
+- [FoxWallet X Konnect Joint Event](https://rewards.taskon.xyz/campaign/detail/20253)
+- [FoxWallet X zKLink Joint Event](https://rewards.taskon.xyz/campaign/detail/22207)
+- [FoxWallet X DappGate Joint Event](https://rewards.taskon.xyz/campaign/detail/21285)
+- [FoxWallet X Aggre Joint Event](https://rewards.taskon.xyz/campaign/detail/20945)
 
 ### Rules
 - Each person can redeem each reward once per day, and the lottery can be drawn 20 times per day. 

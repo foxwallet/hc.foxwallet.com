@@ -93,6 +93,16 @@ FoxWallet一直在关注并致力于支持更多公链，以便在钱包中进�
 - [FoxWallet X Carbon Browser 联合活动](https://rewards.taskon.xyz/campaign/detail/18583)
 - [FoxWallet X Relation 联合活动](https://taskon.xyz/campaign/detail/18927)
 - [FoxWallet X Swapter 联合活动](https://rewards.taskon.xyz/campaign/detail/18928)
+- [FoxWallet X Cattie Swap Joint Event](https://rewards.taskon.xyz/campaign/detail/20243)
+- [FoxWallet X iZUMi Finance Joint Event](https://rewards.taskon.xyz/campaign/detail/20194)
+- [FoxWallet X Kinza Finance Joint Event](https://rewards.taskon.xyz/campaign/detail/20244)
+- [FoxWallet X STP Joint Event](https://rewards.taskon.xyz/campaign/detail/20246)
+- [FoxWallet X Adventure Gold Joint Event](https://rewards.taskon.xyz/campaign/detail/20250)
+- [FoxWallet X Aleoswap Joint Event](https://rewards.taskon.xyz/campaign/detail/20252)
+- [FoxWallet X Konnect Joint Event](https://rewards.taskon.xyz/campaign/detail/20253)
+- [FoxWallet X zKLink Joint Event](https://rewards.taskon.xyz/campaign/detail/22207)
+- [FoxWallet X DappGate Joint Event](https://rewards.taskon.xyz/campaign/detail/21285)
+- [FoxWallet X Aggre Joint Event](https://rewards.taskon.xyz/campaign/detail/20945)
 
 ### 规则
 - 每人每天可兑换每个奖励一次，每天可以抽奖20次。
