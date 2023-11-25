@@ -21,15 +21,15 @@
 - dev@foxwallet.com
 
 ## Address
+- [0x8eB53CEeB1Bb263cA2ef95d791Ef31F91536A146(foxwallet.eth)](https://etherscan.io/name-lookup-search?id=foxwallet.eth)
 - 0xed123cf8e3ba51c6c15da1eac74b2b5deea31448
-- [0x8eB53CEeB1Bb263cA2ef95d791Ef31F91536A146](https://etherscan.io/name-lookup-search?id=foxwallet.eth)
 
 ## Member
 - CodeFace
     - Email: codeface@foxwallet.com
     - Telegram: [@codeface_fox](https://t.me/codeface_fox)
     - Twitter: https://twitter.com/codeface_eth
-    - [codeface.eth](https://etherscan.io/name-lookup-search?id=codeface.eth)
+    - Address: [codeface.eth](https://etherscan.io/name-lookup-search?id=codeface.eth)
 
 - Natalie    
     - Email: nataliey@foxwallet.com
