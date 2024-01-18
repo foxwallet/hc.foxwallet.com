@@ -16,7 +16,7 @@ function getProvider() {
 
 ### requestAccounts
 Connect the current account
-* Returns: `Promise returns string[]` : Address of current account.
+* Returns: `Promise` returns `string[]` : Address of current account.
 * Example:
     ```js
     try {
@@ -31,15 +31,15 @@ Connect the current account
 
 ### getAccounts
 Get address of current account
-* Returns: `Promise returns string[]` : Address of current account.
+* Returns: `Promise` returns `string[]` : Address of current account.
 
 ### getNetwork
 * Get Network
-* Returns: `Promise - string`: the network. `livenet` and `testnet`
+* Returns: `Promise` - `string`: the network. `livenet` and `testnet`
 
 ### getBalance
 Get BTC balance
-* Returns: `Promise - Object`:
+* Returns: `Promise` - `Object`:
     * `confirmed` - `number` : the confirmed satoshis
     * `unconfirmed` - `number` : the unconfirmed satoshis
     * `total` - `number` : the total satoshis
@@ -51,7 +51,7 @@ Send BTC
     * satoshis: number
     * options?: Object
         * feeRate: number
-* Returns: `Promise - string`: txid
+* Returns: `Promise` - `string`: txid
 * Example
     ```js
     try {
@@ -65,7 +65,7 @@ Send BTC
 
 ### getInscriptions
 List inscriptions of current account
-* Returns: `Promise - Object`:
+* Returns: `Promise` - `Object`:
     * total - number : the total count
     * list - Object[] :
     * inscriptionId - string : the id of inscription.
@@ -89,7 +89,7 @@ Send Inscription
     * inscriptionId: string
     * options?: Object
         * feeRate: number
-* Returns: `Promise - string`: txid
+* Returns: `Promise` - `string`: txid
 
 
 ### signMessage
@@ -97,7 +97,7 @@ Send Inscription
 * Params:
     * msg - string: a string to sign
     * type - string:  (Optional) "ecdsa" | "bip322-simple". default is "ecdsa"
-* Returns: Promise - string: the signature.
+* Returns: `Promise` - `string`: the signature.
 
 ### pushTx
 Broadcast raw transaction
@@ -106,7 +106,7 @@ Broadcast raw transaction
 Traverse all inputs that match the current address to sign.
 * Params:
     * psbtHex - string: the hex string of psbt to sign
-* Retuns: Promise - string: the hex string of signed psbt
+* Retuns: `Promise` - `string`: the hex string of signed psbt
 
 ### signPsbts
 Sign Multiple PSBTs at once
@@ -115,4 +115,4 @@ Sign Multiple PSBTs at once
 Push transaction
 * Params:
     * psbtHex - string: the hex string of psbt to push
-* Returns: `Promise - string`: txid    
+* Returns: `Promise` - `string`: txid    
