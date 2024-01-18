@@ -29,5 +29,6 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Ethereum & Other EVM-compatible Networks](https://hc.foxwallet.com/docs/ethereum/)
 * [Filecoin](https://hc.foxwallet.com/docs/filecoin/)
 * [IronFish](https://hc.foxwallet.com/docs/ironfish)
+* [Nostr](https://hc.foxwallet.com/docs/nostr/)
 * [Sui](https://hc.foxwallet.com/docs/sui/)
 * [Spacemesh](https://hc.foxwallet.com/docs/spacemesh/)

@@ -26,5 +26,6 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [以太坊 和 其他EVM兼容链](https://hc.foxwallet.com/zh/docs/ethereum/)
 * [Filecoin](https://hc.foxwallet.com/zh/docs/filecoin/)
 * [IronFish](https://hc.foxwallet.com/zh/docs/ironfish)
+* [Nostr](https://hc.foxwallet.com/docs/nostr/)
 * [Sui](https://hc.foxwallet.com/zh/docs/sui/)
 * [Spacemesh](https://hc.foxwallet.com/docs/spacemesh/)
