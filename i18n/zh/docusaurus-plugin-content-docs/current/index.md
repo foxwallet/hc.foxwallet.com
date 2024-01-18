@@ -27,3 +27,4 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Filecoin](https://hc.foxwallet.com/zh/docs/filecoin/)
 * [IronFish](https://hc.foxwallet.com/zh/docs/ironfish)
 * [Sui](https://hc.foxwallet.com/zh/docs/sui/)
+* [Spacemesh](https://hc.foxwallet.com/docs/spacemesh/)

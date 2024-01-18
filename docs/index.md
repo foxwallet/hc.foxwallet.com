@@ -30,3 +30,4 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Filecoin](https://hc.foxwallet.com/docs/filecoin/)
 * [IronFish](https://hc.foxwallet.com/docs/ironfish)
 * [Sui](https://hc.foxwallet.com/docs/sui/)
+* [Spacemesh](https://hc.foxwallet.com/docs/spacemesh/)
