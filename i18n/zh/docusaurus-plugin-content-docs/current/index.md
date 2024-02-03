@@ -23,6 +23,7 @@ FoxWallet 开发团队拥有丰富的区块链和网络安全从业经验，代�
 * [Aleo](https://hc.foxwallet.com/zh/docs/aptos/)
 * [Aptos](https://hc.foxwallet.com/zh/docs/aptos/)
 * [比特币](https://hc.foxwallet.com/zh/docs/bitcoin/)
+* [Coreum](https://hc.foxwallet.com/docs/coreum/)
 * [以太坊 和 其他EVM兼容链](https://hc.foxwallet.com/zh/docs/ethereum/)
 * [Filecoin](https://hc.foxwallet.com/zh/docs/filecoin/)
 * [IronFish](https://hc.foxwallet.com/zh/docs/ironfish)

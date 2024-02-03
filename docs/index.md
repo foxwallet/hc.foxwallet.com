@@ -26,6 +26,7 @@ The FoxWallet development team has rich experience in blockchain and network sec
 * [Aleo](https://hc.foxwallet.com/docs/aptos/)
 * [Aptos](https://hc.foxwallet.com/docs/aptos/)
 * [Bitcoin](https://hc.foxwallet.com/docs/bitcoin/)
+* [Coreum](https://hc.foxwallet.com/docs/coreum/)
 * [Ethereum & Other EVM-compatible Networks](https://hc.foxwallet.com/docs/ethereum/)
 * [Filecoin](https://hc.foxwallet.com/docs/filecoin/)
 * [IronFish](https://hc.foxwallet.com/docs/ironfish)
