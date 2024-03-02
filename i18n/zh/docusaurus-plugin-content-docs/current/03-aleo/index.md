@@ -23,7 +23,7 @@ keywords:
 - 进入“我”->“网络”选择并下载“Aleo Testnet3”的零知识证明参数以供使用。
 <img src="/img/docs/networks-aleo.webp" width="320" />
 
-- 返回钱包首页，点击左上角切换按钮，【切换网络】(https://hc.foxwallet.com/zh/docs/basic/manage-funds#switch-networks) 到`Aleo Testnet3`
+- 返回钱包首页，点击左上角切换按钮，[切换网络](https://hc.foxwallet.com/zh/docs/basic/manage-funds#switch-networks) 到`Aleo Testnet3`
 <img src="/img/docs/switch-network.webp" width="320" /> <img src="/img/docs/switch-aleo.webp" width="320" />
 
 - 查看并转移您的 ALEO
