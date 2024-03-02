@@ -20,9 +20,8 @@ keywords:
 ## Usage
 * Open [FoxWallet](https://foxwallet.com/download)
 * Create or Import wallet
-* Go to "Me" => "Networks"
-* Find and Click `Qtum` 
-* Go to "Wallet" page, switch network to `Qtum`
+* Go to "Me" => "Networks", find and enable `Qtum` 
+* Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Qtum`
 * Now, you can receive and send your `QTUM`
 
 

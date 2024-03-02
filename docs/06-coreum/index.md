@@ -1,9 +1,9 @@
 ---
-title: Coreum Wallet | CORE Wallet
+title: Coreum Wallet | COREUM Wallet
 sidebar_label: Coreum
 keywords:
   - Coreum Wallet
-  - CORE Wallet
+  - COREUM Wallet
 ---
 
 # What is Coreum
@@ -16,7 +16,6 @@ Coreum is fast, cost-effective, and environmentally friendly due to its Bonded P
 ## Usage
 * Downliad FoxWallet: https://foxwallet.com/download
 * Create Wallet: https://hc.foxwallet.com/docs/basic/create-wallet
-* Go to "Me" => "Networks"
-* Find and Click `Coreum` 
-* Go to "Wallet" page, switch network to `Coreum`
-* Now, you can receive and send your `CORE`
+* Go to "Me" => "Networks", find and Enable `Coreum` 
+* Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Coreum`
+* Now, you can receive and send your `COREUM`

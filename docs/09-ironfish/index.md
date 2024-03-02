@@ -28,7 +28,7 @@ keywords:
 * Open [FoxWallet](https://foxwallet.com/download)
 * Create or Import wallet
 * Go to "Me" => "Networks"
-* Find and Click `Iron Fish` 
+* Find and Enable `Iron Fish` 
   <img src="/img/docs/networks-ironfish.webp" width="320" />
 
 * Click "Confirm" to download transfer components  
@@ -37,7 +37,7 @@ keywords:
 * Wait for the download to complete, click "Back"
   <img src="/img/docs/ironfish-downloaded.webp" width="320" />
 
-* Go to "Wallet" page, switch network to `Iron Fish`
+* Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Iron Fish`
   <img src="/img/docs/switch-to-ironfish.webp" width="320" />
 
 * Now, you can receive and send your IRONs

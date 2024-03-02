@@ -23,9 +23,8 @@ Go to "Me" -> "Networks" -> find and enable `Spacemesh`.
 ## Usage
 * Open [FoxWallet](https://foxwallet.com/download)
 * Create or Import wallet
-* Go to "Me" => "Networks"
-* Find and Enable `Spacemesh` 
-* Go to "Wallet" page, switch network to `Spacemesh`
+* Go to "Me" => "Networks", find and enable `Spacemesh` 
+* Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Spacemesh`
 * Now, you can receive and send your `SMH`
 
 
