@@ -1,6 +1,6 @@
 # Ethereum Provider
 
-**FoxWallet uses the same protocol as MetaMask.**
+**FoxWallet's ethereum provider is compatible with MetaMask.**
 
 ### getProvider
 
@@ -22,7 +22,9 @@ const Provider = getProvider();
 const accounts = await Provider.request({ method: 'eth_requestAccounts' }); // string[], an array of a single, hexadecimal Ethereum address string.
 ```
 
-### Use [@rainbow-me/rainbowkit](https://www.npmjs.com/package/@rainbow-me/rainbowkit)
+### Supported Connectors
+
+- [@rainbow-me/rainbowkit](https://www.npmjs.com/package/@rainbow-me/rainbowkit)
 ```tsx
 import {
   getDefaultWallets,
@@ -38,4 +40,21 @@ const connectors = connectorsForWallets([
     wallets: [foxWallet({ projectId, chains })],
   },
 ]);
+```
+
+- [WalletConnect](https://explorer.walletconnect.com/foxwallet)'s [@web3modal](https://docs.walletconnect.com/web3modal/about)
+```tsx
+import { createWeb3Modal } from '@web3modal/wagmi/react'
+
+createWeb3Modal({
+  //...
+  featuredWalletIds: [
+    'c7708575a2c3c9e6a8ab493d56cdcc56748f03956051d021b8cd8d697d9a3fd2', // FoxWallet
+  ]
+})
+```
+
+- [@web3-onboard](https://github.com/blocknative/web3-onboard)
+```tsx
+import injectedModule from '@web3-onboard/injected-wallets'
 ```
