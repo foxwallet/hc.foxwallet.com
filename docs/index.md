@@ -3,11 +3,19 @@ sidebar_position: 1
 ---
 
 # Introduction
-FoxWallet is a safe and easy-to-use decentralized Web3 wallet, dedicated to creating an entrance and connection to the Web3 world.
+FoxWallet is a secure and convenient **decentralized self-custody** wallet, dedicated to becoming a central gateway and connector in the Web3 world.
 
-The FoxWallet development team has rich experience in blockchain and network security, and the code has passed the [audit](https://github.com/foxwallet/security-audit-certification) of authoritative institutions, making it a reliable wallet.
+- **Security as a Priority**: FoxWallet considers security as its lifeline, with private keys encrypted and stored locally on the user’s device to completely cut off any leakage paths. Additionally, it is equipped with multiple layers of security protection, including automatic phishing site blocking, high-risk signature warnings, and malicious authorization checks, providing comprehensive protection for your digital assets.
 
-## Getting started
+- **Transparent Auditing**: By accessing our [open source code](https://github.com/foxwallet/foxwallet-extension) and [audit reports](https://github.com/foxwallet/security-audit-certification), everyone can get an in-depth understanding of the technology behind FoxWallet, ensuring its transparency and security.
+
+- **Comprehensive Chain Support**: Supporting asset management for over 50 chains, including Bitcoin, Ethereum, Solana, Aptos, Sui, Aleo, Filecoin, and IronFish, FoxWallet is an ideal choice for keeping pace with current cryptocurrency trends. Its deep integration with NFT and BRC20 standards ensures its leading position in digital asset management.
+
+- **Trusted by Users**: Chosen by over **one million users**, FoxWallet has become the most popular wallet on networks like [Filecoin](https://hc.foxwallet.com/docs/filecoin/), [Iron Fish](https://hc.foxwallet.com/docs/ironfish/), and [Spacemesh](https://hc.foxwallet.com/docs/spacemesh/), receiving widespread recognition and high regards from the community.
+
+FoxWallet is more than just a wallet; it's your safe haven in the Web3 world, making each connection simple and secure.
+
+# Usage
 * [Create & Import Wallet](https://hc.foxwallet.com/docs/basic/create-wallet)
 * [Manage Funds](https://hc.foxwallet.com/docs/basic/manage-funds)
 * [Manage Wallets](https://hc.foxwallet.com/docs/basic/manage-wallet)
