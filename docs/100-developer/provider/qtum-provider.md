@@ -17,6 +17,6 @@ function getProvider() {
 ```
 
 
-### Testing dApp
+### Testing DApp
 - Link: https://qtumproject.github.io/test-dapp/
 - Source Code: https://github.com/qtumproject/test-dapp

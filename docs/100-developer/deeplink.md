@@ -9,7 +9,7 @@ sidebar_position: 1
 
 ### Open DApp
 * [foxwallet://dapp?url=](foxwallet://dapp?url=)
-    * url: urlencoded dApp url
+    * url: urlencoded DApp url
     * eg: [foxwallet://dapp?url=https%3A%2F%2Fapp.uniswap.org](foxwallet://dapp?url=https%3A%2F%2Fapp.uniswap.org)
 
 ### WalletConnect

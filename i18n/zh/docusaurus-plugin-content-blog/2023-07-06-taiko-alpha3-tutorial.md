@@ -29,7 +29,7 @@ authors: FoxWalletDaily
 ## 本期我们介绍的是Taiko Alpha-3激励测试网教程👇👇
 ![](/img/blog/taiko-alpha3-tutorial/1.webp)
 
-Taiko 是一种去中心化的以太坊等效 ZK-EVM 和通用 ZK-Rollup。其目的是让为以太坊 L1 开发的 dApp 的开发者和用户无需任何更改即可在 Taiko 上使用。因此，dApps 可以很容易地部署到 L2，继承以太坊的安全性，同时产生比 L1 更低的交易费用。
+Taiko 是一种去中心化的以太坊等效 ZK-EVM 和通用 ZK-Rollup。其目的是让为以太坊 L1 开发的 DApp 的开发者和用户无需任何更改即可在 Taiko 上使用。因此，DApps 可以很容易地部署到 L2，继承以太坊的安全性，同时产生比 L1 更低的交易费用。
 
 据最新报道，基于zkRollup的以太坊二层网络Taiko种子轮一共筹集到了2200w美元，分别于2022年9月1号由红杉中国（HongShan）领投1000w美元，以及于6月八日由Generative Ventures领投1200w美元。
 

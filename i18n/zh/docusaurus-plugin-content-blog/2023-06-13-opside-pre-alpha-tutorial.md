@@ -30,7 +30,7 @@ authors: FoxWalletDaily
 
 ![](/img/blog/opside-pre-alpha-tutorial/1.webp)
 
-[Opside](https://opside.network/) 是一个以零知识证明（ZKP）挖矿为特色的去中心化ZK-RaaS（ZKRollup-as-a-Service）网络，它的创新方法结合了权益证明（PoS）和工作证明（PoW），使 Web3 开发人员只需点击即可快速生成zkEVM应用链。并且，通过其三层架构的设计和零知识（ZK）技术，提高了去中心化应用（dApp）的性能、安全性和可扩展性。它对zk-rollups进行了许多系统级别的优化，而且还引入了本地Rollup的概念。所以基于这种架构，L2从桥连接获得了资产多样性，并从Rollup中获得了五项可拓展性，为各种Dapp提供更友好的运行环境。
+[Opside](https://opside.network/) 是一个以零知识证明（ZKP）挖矿为特色的去中心化ZK-RaaS（ZKRollup-as-a-Service）网络，它的创新方法结合了权益证明（PoS）和工作证明（PoW），使 Web3 开发人员只需点击即可快速生成zkEVM应用链。并且，通过其三层架构的设计和零知识（ZK）技术，提高了去中心化应用（DApp）的性能、安全性和可扩展性。它对zk-rollups进行了许多系统级别的优化，而且还引入了本地Rollup的概念。所以基于这种架构，L2从桥连接获得了资产多样性，并从Rollup中获得了五项可拓展性，为各种Dapp提供更友好的运行环境。
 
 综上所述，资产多样性和无限可拓展性是Opside区别于其他区块链的优点。
 
@@ -44,7 +44,7 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 活动共包括三个大的板块:
 * **Opside United** - 社交媒体板块，线下聚会活动
 * **Opside DiveIn** -  Opside pre-alpha 测试网交互板块
-* **Opside's dApp Evolution** - OKX Wallet，BK钱包，FoxWallet钱包互动板块
+* **Opside's DApp Evolution** - OKX Wallet，BK钱包，FoxWallet钱包互动板块
 
 ![](/img/blog/opside-pre-alpha-tutorial/3.webp)
 
@@ -154,8 +154,8 @@ Opside在今年4月6日完成了400w美刀种子轮融资，本轮融资由Web3.
 
 *注意！以上演示均使用FoxWallet手机App进行操作，非常方便。当你在外面无聊的时候玩抖音的时候，你可以使用FoxWallet应用程序来交互。别人消遣时间，你用时间创造金钱！*
 
-### 第三个板块: Opside's dApp Evolution
-Opside’s dApp Evolution ，是和 OKX Wallet，BK钱包，FoxWallet钱包互动板块。
+### 第三个板块: Opside's DApp Evolution
+Opside’s DApp Evolution ，是和 OKX Wallet，BK钱包，FoxWallet钱包互动板块。
 活动链接为 [https://galxe.com/Opside/campaign/GCcUXUX8S9](https://galxe.com/Opside/campaign/GCcUXUX8S9).
 这三个任务都很类似，都是把自己之前连接Galxe的钱包地址去分别导入BitKeep钱包，FoxWallet钱包，OKX钱包里面就好。
 

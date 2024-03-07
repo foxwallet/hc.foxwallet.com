@@ -27,7 +27,7 @@ Pay attention now and don't miss out on any exclusive airdrop opportunities and 
 ## In this issue, we present the tutorial for Taiko Alpha-3 Incentivized Testnet 👇👇
 ![](/img/blog/taiko-alpha3-tutorial/1.webp)
 
-Taiko is a decentralized, Ethereum-compatible ZK-EVM and general-purpose ZK-Rollup. Its purpose is to allow developers and users of dApps developed for Ethereum L1 to seamlessly utilize Taiko without any modifications. As a result, dApps can be easily deployed to L2, inheriting Ethereum's security while generating lower transaction fees compared to L1.
+Taiko is a decentralized, Ethereum-compatible ZK-EVM and general-purpose ZK-Rollup. Its purpose is to allow developers and users of DApps developed for Ethereum L1 to seamlessly utilize Taiko without any modifications. As a result, DApps can be easily deployed to L2, inheriting Ethereum's security while generating lower transaction fees compared to L1.
 
 According to the latest reports, Taiko raised a total of $22 million in its seed round, led by HongShan on September 1,and on June 8th, it received a $12 million investment led by Generative Ventures.
 

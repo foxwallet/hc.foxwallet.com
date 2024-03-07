@@ -2,7 +2,7 @@
 title: FoxWallet Provider
 ---
 
-FoxWallet provides some public methods for dApps to interact with the wallet.
+FoxWallet provides some public methods for DApps to interact with the wallet.
 
 ### isFoxWallet
 ```js

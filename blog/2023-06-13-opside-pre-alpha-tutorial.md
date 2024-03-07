@@ -44,7 +44,7 @@ The Opside mission lasted for a total of 3 months , and the characteristics of i
 It consists of three major sections:
 * **Opside United** - Social media section, offline gathering activities
 * **Opside DiveIn** - Opside pre-alpha test network interactive plate
-* **Opside's dApp Evolution** - OKXWallet, BK Wallet, FoxWallet interactive section
+* **Opside's DApp Evolution** - OKXWallet, BK Wallet, FoxWallet interactive section
 
 ![](/img/blog/opside-pre-alpha-tutorial/3.webp)
 
@@ -159,8 +159,8 @@ There are very few dapps at present. You can go to the official Bridge every day
 
 *Attention! The above demos are all operated using the FoxWallet mobile App, which is very convenient. You can use the FoxWallet App to interact when you are bored outside and play Tiktok every day. People spend time, and you use time to create money!*
 
-### Third plate: Opside's dApp Evolution
-Opside's dApp Evolution is an interactive section with OKX Wallet, BK Wallet, and FoxWallet.  
+### Third plate: Opside's DApp Evolution
+Opside's DApp Evolution is an interactive section with OKX Wallet, BK Wallet, and FoxWallet.  
 The event link is [https://galxe.com/Opside/campaign/GCcUXUX8S9](https://galxe.com/Opside/campaign/GCcUXUX8S9).  
 These three tasks are very similar. They all import the wallet address that they connected to Galxe into BitKeep, FoxWallet, and OKX wallet respectively.
 

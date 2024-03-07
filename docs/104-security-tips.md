@@ -41,9 +41,9 @@ And there is no “forgot your password” option you can rely on.If you lose yo
 * **Never store your seed phrase on any application or device that is connected to the internet.**
 * **Always go for offline methods. While paper and offline documents on flash drives serve the purpose, steel capsules take your seed phrase’s security to the next level.**
 
-## 4. Take care of signing and transactions from dApps
+## 4. Take care of signing and transactions from DApps
 
-When using dApps, FoxWallet can show the detail informations and warning for risky operations. 
+When using DApps, FoxWallet can show the detail informations and warning for risky operations. 
 
 **You should check the website domain、transfer value and destination、message content to sign、function to call carefully, and take care of the warning message.**
 
@@ -66,4 +66,4 @@ Another common scam is fake token, scammers counterfeit tokens by using similar 
 
 Unlike on PCs, each app on your smartphone creates a separate user. That means that if an app infects one user, it can’t infect anybody else’s phone unless that person gives the app permission. 
 
-If you need to use dApp on PC, I recommend using FoxWallet's `WalletConnect` function. With `WalletConnect`, you can bridge the communication between dApps and FoxWallet. 
+If you need to use DApp on PC, I recommend using FoxWallet's `WalletConnect` function. With `WalletConnect`, you can bridge the communication between DApps and FoxWallet. 
