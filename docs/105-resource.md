@@ -4,9 +4,11 @@
 
 ### Logo
 ```mdx-code-block
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
 <img src={require('@site/docs/static/v5/FoxWallet-app-green.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
 <img src={require('@site/docs/static/v5/FoxWallet-app-black.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
 ```
+* [FoxWallet-logo.svg](./static/v5/FoxWallet-logo.svg)
 * [FoxWallet-app-green.svg](./static/v5/FoxWallet-app-green.svg)
 * [FoxWallet-app-black.svg](./static/v5/FoxWallet-app-black.svg)
 
