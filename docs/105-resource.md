@@ -1,8 +1,30 @@
 # Brand Resource
 
-## Resource V4
+## Resource V5
 
-### FoxWallet-logo
+### Logo
+```mdx-code-block
+<img src={require('@site/docs/static/v5/FoxWallet-app-green.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-app-black.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+```
+* [FoxWallet-app-green.svg](./static/v5/FoxWallet-app-green.svg)
+* [FoxWallet-app-black.svg](./static/v5/FoxWallet-app-black.svg)
+
+### Text
+```mdx-code-block
+<img src={require('@site/docs/static/v5/FoxWallet-logo-txt.png').default} width={"360px"} height={"108px"} alt={"FoxWallet"} />
+```
+* [FoxWallet-logo-txt.svg](./static/v5/FoxWallet-logo-txt.svg)
+
+### Traverse
+```mdx-code-block
+<img src={require('@site/docs/static/v5/FoxWallet-logo-traverse.png').default} width={"360px"} height={"108px"} alt={"FoxWallet"} />
+```
+* [FoxWallet-logo-traverse.svg](./static/v5/FoxWallet-logo-traverse.svg)
+
+## Old Resource V4
+
+### Old Logo
 ```mdx-code-block
 <img src={require('@site/docs/static/FoxWallet-logo-v4.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
 <img src={require('@site/docs/static/FoxWallet-logo-bg-black.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
@@ -14,7 +36,7 @@
 * [FoxWallet-logo-white.ai](./static/FoxWallet-logo-white.ai)
 * [FoxWallet-logo-white.svg](./static/FoxWallet-logo-white.svg)
 
-### FoxWallet-traverse
+### Old Traverse
 ```mdx-code-block
 <img src={require('@site/docs/static/FoxWallet-traverse.png').default} width={"360px"} height={"108px"} alt={"FoxWallet"} />
 <img src={require('@site/docs/static/FoxWallet-traverse-black.png').default} width={"360px"} height={"108px"} alt={"FoxWallet"} />
