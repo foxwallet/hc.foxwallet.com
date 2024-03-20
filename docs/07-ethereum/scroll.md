@@ -10,7 +10,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/scroll.webp').default} width={"80px"} height={"80px"} alt={"Scroll"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
 [Scroll](https://scroll.io/) is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools.

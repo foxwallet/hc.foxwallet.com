@@ -11,7 +11,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/heco.webp').default} width={"80px"} height={"80px"} alt={"Heco"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 [FoxWallet](https://foxwallet.com) is the best HECO wallet, the best HT wallet.
 

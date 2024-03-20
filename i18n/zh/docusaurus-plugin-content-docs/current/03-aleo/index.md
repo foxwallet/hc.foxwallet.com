@@ -12,7 +12,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/aleo.webp').default} width={"80px"} height={"80px"} alt={"Aleo"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
 **FoxWallet 是世界上第一个 Aleo 移动去中心化钱包，最好的 Aleo 钱包。**

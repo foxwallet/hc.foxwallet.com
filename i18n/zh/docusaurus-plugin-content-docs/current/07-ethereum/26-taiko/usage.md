@@ -10,7 +10,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/taiko.webp').default} width={"80px"} height={"80px"} alt={"Taiko"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
 [Taiko](https://taiko.xyz/) is a Type 1 (Ethereum-equivalent) ZK-EVM aims for maximum compatibility. Taiko has fully decentralized and permissionless nodes, proposers, and provers.

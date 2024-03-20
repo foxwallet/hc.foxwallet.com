@@ -10,7 +10,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/qtum.webp').default} width={"80px"} height={"80px"} alt={"Qtum"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
 [Qtum](https://qtum.org/) is the world's first smart contract platform based on the Proof-of-Stake (PoS) mechanism. Qtum combines the advantages of Bitcoin and Ethereum and adopts a blockchain design based on the UTXO model. It not only supports the development of smart contracts and decentralized applications (DApps), but also offers security similar to Bitcoin. This new support allows you to manage your assets more diversely on FoxWallet.

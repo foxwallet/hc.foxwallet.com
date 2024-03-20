@@ -10,7 +10,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/linea.webp').default} width={"80px"} height={"80px"} alt={"Linea"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
 Ethereum software firm [ConsenSys](https://consensys.net/) has released a public testnet of its zero-knowledge Ethereum Virtual Machine (zkEVM) on 3.28, and has given it the name "Linea".

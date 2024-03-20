@@ -16,7 +16,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/ironfish.webp').default} width={"80px"} height={"80px"} alt={"IronFish"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
 [Iron Fish](https://ironfish.network/) is a decentralized, proof-of-work (PoW) based, censorship-resistant, and publicly accessible blockchain project. It is designed to support strong privacy guarantees on every transaction.

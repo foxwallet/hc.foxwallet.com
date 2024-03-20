@@ -10,7 +10,7 @@ keywords:
 ```mdx-code-block
 <img src={require('@site/docs/static/img/aurora.webp').default} width={"80px"} height={"80px"} alt={"Aurora"} />
 <span> </span>
-<img src={require('@site/docs/static/img/foxwallet.webp').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
+<img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 [FoxWallet](https://foxwallet.com) is the best Aurora wallet.
 
