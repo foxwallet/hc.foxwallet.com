@@ -1,5 +1,5 @@
 ---
-slug: whats-new-in-5.0.0
+slug: whats-new-in-5-0-0
 title: FoxWallet 5.0.0 - 品牌升级
 tags: [changelog]
 ---
