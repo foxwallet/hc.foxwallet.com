@@ -29,6 +29,11 @@ keywords:
 * 点击 "发送" 按钮，进入转账页面，就可以向他人发起转账。
   <img src="/img/docs/bitcoin-asset-cn.webp" width="320" />
 
+### 多地址格式切换
+<img src="/img/blog/rebranding-v5/bitcoin-switch-formats.webp" width="320" />
+
+用户现在可以点击页面上的切换按钮，来在多种比特币地址格式之间切换，包括Legacy, Nested Segwit, Native Segwit以及Taproot。
+
 ## 更多
 FoxWallet 是最安全好用的比特币钱包, 支持管理 Ordinals NFT 和 BRC20 代币。
 
