@@ -37,6 +37,13 @@ We are pleased to announce the release of FoxWallet 5.0.2 update. Please find be
 - 进入 “我” -> “管理网络” -> 找到并启用 `Nibiru`
 - 进入 “钱包” -> [切换网络](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) 到 `Nibiru`
 
+#### X Layer
+[X Layer 二层网络](https://www.okx.com/zh-hans/xlayer) 基于零知识证明技术构建，它连接了欧易和以太坊社区，让任何人都能参与到真正全球化的链上生态系统中。  
+
+- 打开 [FoxWallet](https://foxwallet.com/download)
+- 进入 “我” -> “管理网络” -> 找到并启用 `X Layer`
+- 进入 “钱包” -> [切换网络](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) 到 `X Layer`
+
 #### CAGA Ankara Testnet
 [CAGA 网络](https://www.cagacrypto.com/) 是建立在创新技术之上的去中心化网络，提供快速、安全和可扩展的解决方案。旨在为每个人创建一个安全的地方，用于构建基于区块链的产品并安全高效地进行交易。该区块链旨在解决当前阻碍区块链技术大规模采用的可扩展性问题和用户体验不佳。
 

@@ -37,6 +37,13 @@ We are pleased to announce the release of FoxWallet 5.0.2 update. Please find be
 - Go to "Me" -> "Networks" -> find and enable `Nibiru`
 - Go to "Wallet" -> [Switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Nibiru`
 
+#### X Layer
+[X Layer](https://www.okx.com/xlayer) is a ZK-powered layer 2 network that connects the OKX and Ethereum communities to allow anyone to take part in a truly global on-chain ecosystem.  
+
+- Open [FoxWallet](https://foxwallet.com/download)
+- Go to "Me" -> "Networks" -> find and enable `X Layer`
+- Go to "Wallet" -> [Switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `X Layer`
+
 #### CAGA Ankara Testnet
 [The CAGA Network](https://www.cagacrypto.com/) is a decentralized network built on innovative technology that provides fast, secure, and scalable solutions. It is designed to create a safe place for everyone to build their blockchain-based products and conduct transactions securely and efficiently. The blockchain is built to handle the scalability issues and poor user experience that currently hinder the mass adoption of blockchain technology.  
 
