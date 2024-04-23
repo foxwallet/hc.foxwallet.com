@@ -23,6 +23,4 @@ Besides, FoxWallet offers the operation of "transfer between my accounts"。
 ### Transaction records
 Click on the asset in the “Asset” list to enter the asset details page and view historical transaction records.
 
-![](../img/history_detail.webp)
-
 

@@ -28,8 +28,6 @@ Go to Settings —> Private key —> Input your password and comfirm —> Choose
 
 Click “Switch Wallet” button in "Settings" tab.
 
-<img src="/img/docs/wallets.webp" width="320" />
-
 Then you will enter the “Wallets” page:
 
 Click "Add wallet" —> Import private key —> set your wallet name and choose “Filecoin private key” —> input your private key —> Submit.

@@ -13,9 +13,7 @@ Click the switch button on the left-top corner of wallet screen.
 
 <img src="/img/docs/switch-entrance.webp" width="320" />  
 
-Click the manage icon on the left-top corner of pop-up screen.  
-
-![](../img/switch-wallet-2.webp)  
+Click the wallet name title of pop-up screen.  
 
 Select the wallet you want to switch to.  
 
@@ -29,16 +27,12 @@ Select the wallet that needs to be deleted, click the “...” button in the up
 After the wallet is deleted, it can only be restored by seed phrase or private key. 
 Please make sure it has been properly backed up.
 
-![](../img/delete-wallet.webp)
-
 ## Add account
 You can derive multi accounts from one mnemonic to enhance the privacy and isolate risk.
 
 Go to "Accounts" page under "Me" tab, choose the chain, click “+ Add account” to operate. 
 
 Note: only mnemonic wallets can add new accounts.
-
-![](../img/add-account-2.webp)
 
 ## Hide account
 If you have more than one accounts, and want to delete one of them, the "Hide account" is your choice.
