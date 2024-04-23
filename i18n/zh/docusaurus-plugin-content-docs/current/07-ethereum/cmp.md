@@ -14,7 +14,7 @@ keywords:
 
 “我” => “管理网络” => 勾选 Caduceus Mainnet => 返回到钱包主页。
 
-![](../img/manage-eth-rpc.webp)![](../img/add-cmp.webp)
+![](../img/add-cmp.webp)
 
 ## 切换至 Caduceus 主网
 

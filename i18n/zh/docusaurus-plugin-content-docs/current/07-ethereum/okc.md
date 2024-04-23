@@ -22,10 +22,6 @@ keywords:
 
 “我” => “管理网络” => 勾选 OKC (OKXChain) => 返回到钱包主页。
 
-![](../img/add-okc.webp)
-
 ## 切换至 OKC (OKXChain)
 
 点击钱包主页左上角的切换按钮 => 选择 OKC (OKXChain) => 选择一个账户。
-
-![](../img/switch-okc.webp)

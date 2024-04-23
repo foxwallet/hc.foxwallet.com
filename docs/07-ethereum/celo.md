@@ -18,10 +18,6 @@ keywords:
 
 "Me" => "Networks" => Enable Celo => Back to wallet main page.
 
-![](../img/add-celo.webp)
-
 ## Switch to Celo
 
 Click the switch button in main page => Choose Celo => Select one account.
-
-![](../img/switch-celo.webp)

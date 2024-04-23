@@ -15,7 +15,7 @@ keywords:
 
 “我” => “管理网络” => 勾选 zkSync Alpha Testnet => 返回到钱包主页。
 
-![](../img/manage-eth-rpc.webp)![](../img/add-zksync-alpha-testnet.webp)
+![](../img/add-zksync-alpha-testnet.webp)
 
 ## 切换至 zkSync Alpha Testnet
 

@@ -8,13 +8,9 @@
 ### Receive
 Click the “Receive” button to get your wallet address.
 
-<img src="/img/docs/receive.webp" width="320" />
-
 ### Send
 
 Click the coin you want to send in wallet main page => Click “transfer” => Input address and amount => Click "confirm"。
-
-![](../img/transfer.webp)
 
 Besides, FoxWallet offers the operation of "transfer between my accounts"。
 

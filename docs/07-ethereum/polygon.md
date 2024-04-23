@@ -20,10 +20,6 @@ keywords:
 
 "Me" => "Networks" => Enable Polygon => Back to wallet main page.
 
-![](../img/add-polygon.webp)
-
 ## Switch to Polygon
 
 Click the switch button in main page => Choose Polygon => Select one account.
-
-![](../img/switch-polygon.webp)

@@ -14,8 +14,6 @@ If you choose to back up the seed phrase immediately, noting down your seed phas
 
 Enter the 12 seed phrase in the verification box according the sequence you have backed up, and click “Next” to complete the backup.
 
-![](../img/backup-seed.webp)
-
 If you choose to back up your seed phrase later, click “Remind me later” to enter the ”Wallet” page. The backup of seed phrase and private key can be done through ”Switch Wallet” on the ”Settings” page.
 
 ### If you already have a wallet, directly select “Import Wallet”.

@@ -14,7 +14,7 @@ keywords:
 ## Add Network
 "Me" => "Networks" => Enable `Goerli Testnet` => Back to wallet tab.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-goerli.webp)
+![](../img/add-goerli.webp)
 
 
 ## Switch Network

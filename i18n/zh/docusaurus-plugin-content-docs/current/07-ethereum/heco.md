@@ -16,10 +16,6 @@ keywords:
 
 “我” => “管理网络” => 勾选 HECO => 返回到钱包主页。
 
-![](../img/add-heco.webp)
-
 ## 切换至 HECO
 
 点击钱包主页左上角的切换按钮 => 选择 HECO => 选择一个账户。
-
-![](../img/switch-heco.webp)

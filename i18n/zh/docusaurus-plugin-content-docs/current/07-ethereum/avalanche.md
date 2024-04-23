@@ -17,10 +17,6 @@ keywords:
 
 “我” => “管理网络” => 勾选 Avalanche C-Chain => 返回到钱包主页。
 
-![](../img/add-avalanche.webp)
-
 ## 切换至 Avalanche C-Chain
 
 点击钱包主页左上角的切换按钮 => 选择 Avalanche C-Chain => 选择一个账户。
-
-![](../img/switch-avalanche.webp)

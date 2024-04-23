@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable Gnosis Chain => Back to wallet main page.
 
-![](../img/add-gnosis.webp)
-
 ## Switch to Gnosis Chain
 
 Click the switch button in main page => Choose Gnosis Chain => Select one account.
-
-![](../img/switch-gnosis.webp)

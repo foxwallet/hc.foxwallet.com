@@ -11,5 +11,3 @@ keywords:
 # Aptos Faucet
 
 Open FoxWallet, switch to Aptos, click the "Faucet" button then you can get some testnet coins.
-
-![](../img/aptos-faucet.webp)

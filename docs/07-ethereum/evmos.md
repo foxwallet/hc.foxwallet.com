@@ -18,10 +18,6 @@ keywords:
 
 "Me" => "Networks" => Enable Evmos => Back to wallet main page.
 
-![](../img/add-evmos.webp)
-
 ## Switch to Evmos
 
 Click the switch button in main page => Choose Evmos => Select one account.
-
-![](../img/switch-evmos.webp)

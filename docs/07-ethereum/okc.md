@@ -21,10 +21,6 @@ keywords:
 
 "Me" => "Networks" => Enable OKC (OKXChain) => Back to wallet main page.
 
-![](../img/add-okc.webp)
-
 ## Switch to OKC (OKXChain)
 
 Click the switch button in main page => Choose OKC (OKXChain) => Select one account.
-
-![](../img/switch-okc.webp)

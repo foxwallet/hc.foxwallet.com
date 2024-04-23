@@ -28,7 +28,6 @@ keywords:
   ![](../img/switch-aptos.webp)
 
 * View and transfer your APT  
-  ![](../img/wallet-aptos.webp)  
 
 ## Aptos Advance
 

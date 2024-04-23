@@ -15,7 +15,6 @@ Once an approval is granted, some smart contracts may be able to execute transac
 **With FoxWallet's Token Approvals feature, you have a clear view of all the smart contracts and corresponding tokens you have allowed to spend on your behalf. Easily revoke your approval or decrease the approved amounts.**
 
 * Open FoxWallet, click the "More" button  
-  ![](../img/tools-more.webp)
 
 * Click the "Approvals" button in the tools page  
   ![](../img/tools-approvals.webp)

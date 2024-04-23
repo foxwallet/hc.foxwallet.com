@@ -8,12 +8,8 @@ Invite your friends to [download FoxWallet](https://foxwallet.com/download), and
 ## 1. Get your invite code
 
 * Click the “Share” menu in "Me" page
-  
-  ![setting-share](../img/setting-share.webp)
 
 * Click "Get Invite Code" in "Share" page, you should be able to see the invite code after pass the verification.
-  
-  ![get-invite-code](../img/get-invite-code.webp)
 
 ## 2. Invite your friends to download FoxWallet
 
@@ -25,5 +21,3 @@ Invite your friends to [download FoxWallet](https://foxwallet.com/download), and
 * Copy and send your invite code to your friends
 * Let your friends click the "Share" menu in "Me" page
 * Enter invite code
-  
-  ![enter-invite-code](../img/enter-invite-code.webp)

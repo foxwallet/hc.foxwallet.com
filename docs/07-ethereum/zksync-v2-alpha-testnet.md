@@ -21,7 +21,7 @@ keywords:
 
 "Me" => "Networks" => Enable zkSync Alpha Testnet => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-zksync-alpha-testnet.webp)
+![](../img/add-zksync-alpha-testnet.webp)
 
 ## Switch to zkSync Alpha Testnet
 

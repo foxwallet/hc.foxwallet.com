@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable Moonriver => Back to wallet main page.
 
-![](../img/add-movr.webp)
-
 ## Switch to Moonriver
 
 Click the switch button in main page => Choose Moonriver => Select one account.
-
-![](../img/switch-movr.webp)

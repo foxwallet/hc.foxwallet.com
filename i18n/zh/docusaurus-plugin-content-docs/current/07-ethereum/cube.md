@@ -13,7 +13,7 @@ keywords:
 
 “我” => “管理网络” => 勾选 CUBE Chain => 返回到钱包主页。
 
-![](../img/manage-eth-rpc.webp)![](../img/add-cube.webp)
+![](../img/add-cube.webp)
 
 ## 切换至 to CUBE Chain
 

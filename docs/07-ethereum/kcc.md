@@ -20,7 +20,7 @@ keywords:
 
 "Me" => "Networks" => Enable KCC Mainnet => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-kcc.webp)
+![](../img/add-kcc.webp)
 
 ## Switch to KCC
 

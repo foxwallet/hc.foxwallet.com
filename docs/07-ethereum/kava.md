@@ -19,7 +19,7 @@ keywords:
 
 "Me" => "Networks" => Enable Kava EVM Co-Chain => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-kava.webp)
+![](../img/add-kava.webp)
 
 ## Switch to Kava EVM Co-Chain
 

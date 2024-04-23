@@ -14,7 +14,7 @@ keywords:
 
 “我” => “管理网络” => 勾选 Kava EVM Co-Chain => 返回到钱包主页。
 
-![](../img/manage-eth-rpc.webp)![](../img/add-kava.webp)
+![](../img/add-kava.webp)
 
 ## 切换到 Kava EVM Co-Chain
 

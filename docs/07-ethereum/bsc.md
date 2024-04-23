@@ -22,11 +22,7 @@ keywords:
 
 "Me" => "Networks" => Enable BNB Chain => Back to wallet main page.
 
-![](../img/add-bsc.webp)
-
 ## Switch to BNB Chain
 
 Click the switch button in main page => Choose BNB Chain => Select one
 account.
-
-![](../img/switch-bsc.webp)

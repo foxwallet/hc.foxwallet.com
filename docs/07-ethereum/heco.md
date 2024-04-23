@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable HECO => Back to wallet main page.
 
-![](../img/add-heco.webp)
-
 ## Switch to HECO
 
 Click the switch button in main page => Choose HECO => Select one account.
-
-![](../img/switch-heco.webp)

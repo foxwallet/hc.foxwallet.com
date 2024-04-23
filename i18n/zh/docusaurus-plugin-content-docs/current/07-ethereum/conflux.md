@@ -17,7 +17,7 @@ keywords:
 
 “我” => “管理网络” => 勾选 Conflux eSpace => 返回到钱包主页。
 
-![](../img/manage-eth-rpc.webp)![](../img/add-conflux.webp)
+![](../img/add-conflux.webp)
 
 ## 切换至 Conflux eSpace
 

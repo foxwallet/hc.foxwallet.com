@@ -19,7 +19,7 @@ keywords:
 
 "Me" => "Networks" => Enable Caduceus Mainnet => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-cmp.webp)
+![](../img/add-cmp.webp)
 
 ## Switch to Caduceus Mainnet
 

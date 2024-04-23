@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable Avalanche C-Chain => Back to wallet main page.
 
-![](../img/add-avalanche.webp)
-
 ## Switch to Avalanche C-Chain
 
 Click the switch button in main page => Choose Avalanche C-Chain => Select one account.
-
-![](../img/switch-avalanche.webp)

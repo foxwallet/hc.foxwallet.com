@@ -20,11 +20,8 @@ keywords:
 
 "Me" => "Networks" => Enable Arbitrum One => Back to wallet main page.
 
-![](../img/add-arbitrum.webp)
 
 ## Switch to Arbitrum One
 
 Click the switch button in main page => Choose Arbitrum One => Select one
 account.
-
-![](../img/switch-arbitrum.webp)

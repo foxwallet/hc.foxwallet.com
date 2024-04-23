@@ -17,10 +17,6 @@ keywords:
 
 “我” => “管理网络” => 勾选 Gnosis Chain => 返回到钱包主页。
 
-![](../img/add-gnosis.webp)
-
 ## 切换至 Gnosis Chain
 
 点击钱包主页左上角的切换按钮 => 选择 Gnosis Chain => 选择一个账户。
-
-![](../img/switch-gnosis.webp)

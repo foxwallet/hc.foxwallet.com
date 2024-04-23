@@ -17,7 +17,7 @@ keywords:
 
 “我” => “管理网络” => 勾选 Moonbeam => 返回到钱包主页。
 
-![](../img/manage-eth-rpc.webp)![](../img/add-moonbeam.webp)
+![](../img/add-moonbeam.webp)
 
 ## 切换至 Moonbeam
 

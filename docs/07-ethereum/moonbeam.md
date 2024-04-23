@@ -19,7 +19,7 @@ keywords:
 
 "Me" => "Networks" => Enable Moonbeam => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-moonbeam.webp)
+![](../img/add-moonbeam.webp)
 
 ## Switch to Moonbeam
 

@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable Fantom => Back to wallet main page.
 
-![](../img/add-fantom.webp)
-
 ## Switch to Fantom
 
 Click the switch button in main page => Choose Fantom => Select one account.
-
-![](../img/switch-fantom.webp)

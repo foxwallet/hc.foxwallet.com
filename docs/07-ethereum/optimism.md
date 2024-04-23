@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable Optimism => Back to wallet main page.
 
-![](../img/add-op.webp)
-
 ## Switch to Optimism
 
 Click the switch button in main page => Choose Optimism => Select one account.
-
-![](../img/switch-op.webp)

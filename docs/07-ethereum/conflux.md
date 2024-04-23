@@ -19,7 +19,7 @@ keywords:
 
 "Me" => "Networks" => Enable Conflux eSpace => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-conflux.webp)
+![](../img/add-conflux.webp)
 
 ## Switch to Conflux eSpace
 

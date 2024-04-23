@@ -19,10 +19,6 @@ keywords:
 
 "Me" => "Networks" => Enable Cronos Mainnet Beta => Back to wallet main page.
 
-![](../img/add-cronos.webp)
-
 ## Switch to Cronos Mainnet Beta
 
 Click the switch button in main page => Choose Cronos Mainnet Beta => Select one account.
-
-![](../img/switch-cronos.webp)

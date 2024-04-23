@@ -19,7 +19,7 @@ keywords:
 
 "Me" => "Networks" => Enable Klaytn Mainnet => Back to wallet main page.
 
-![](../img/manage-eth-rpc.webp)![](../img/add-klay.webp)
+![](../img/add-klay.webp)
 
 ## Switch to Klaytn Mainnet
 
