@@ -13,12 +13,12 @@ keywords:
 
 Make sure the domain name of FoxWallet's official website is **https://foxwallet.com**. And there's a [🔒] symbol in front of the domain name, which means "Connection is secure".
 
-When download from [AppStore](https://apps.apple.com/us/app/foxwallet-secure-crypto-asset/id1590983231), make sure the `DEVELOPER` name is **6Block US**.  
+When download from [AppStore](https://apps.apple.com/us/app/foxwallet-secure-crypto-asset/id1590983231), make sure the `DEVELOPER` name is **6Block US**.    
  
-When download from [Google Play](https://play.google.com/store/apps/details?id=com.foxwallet.play), make sure the `DEVELOPER` name is **6Block**.    
-
-  
 ![](./img/appstore.webp)
+
+When download from [Google Play](https://play.google.com/store/apps/details?id=com.foxwallet.play), make sure the `DEVELOPER` name is **FoxWallet**.    
+
 
 ## 2. Use strong passwords
 

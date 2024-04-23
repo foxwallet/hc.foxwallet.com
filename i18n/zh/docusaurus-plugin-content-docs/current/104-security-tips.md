@@ -13,11 +13,11 @@ keywords:
 
 确保 FoxWallet 的官方网站域名为 **https://foxwallet.com**. 并且在域名前面有一个 [🔒] 符号，这表示“连接是安全的”。
 
-当从 [AppStore](https://apps.apple.com/us/app/foxwallet-secure-crypto-asset/id1590983231) 下载时，请确保 DEVELOPER 名称是 6Block US。
+当从 [AppStore](https://apps.apple.com/us/app/foxwallet-secure-crypto-asset/id1590983231) 下载时，请确保 DEVELOPER 名称是 `6Block US`。  
  
-当从 [Google Play](https://play.google.com/store/apps/details?id=com.foxwallet.play) 下载时，请确保 DEVELOPER 名称是 6Block。
-  
 ![](./img/appstore.webp)
+
+当从 [Google Play](https://play.google.com/store/apps/details?id=com.foxwallet.play) 下载时，请确保 DEVELOPER 名称是 `FoxWallet`。
 
 ## 2. 使用强密码
 
