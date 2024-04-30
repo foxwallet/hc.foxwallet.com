@@ -18,15 +18,7 @@ Since 2018, they have been deeply committed to blockchain infrastructure technol
 - Click the "More tools" button
 - Find and open `HashQuark`
 
-
 ### New Networks
-
-#### BOB Mainnet
-BOB (Build on Bitcoin) is the first Bitcoin Layer 2 with full EVM compatibility and native Bitcoin support, empowering everyone to build and innovate on the Bitcoin platform.  
-
-- Open [FoxWallet](https://foxwallet.com/download)
-- Go to "Me" -> "Networks" -> find and enable `BOB`
-- Go to "Wallet" -> [Switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `BOB`
 
 #### Bahamut Mainnet
 [Bahamut](https://www.bahamut.io/) is an EVM-based blockchain, which means that it is built on the same technical framework as Ethereum. This allows developers to build and deploy decentralized applications (dApps) on Bahamut using the same programming languages and tools as they would on Ethereum. In addition, Bahamut uses PoSA as its consensus mechanism. 
