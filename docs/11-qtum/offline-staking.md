@@ -1,6 +1,6 @@
 ---
 title: Qtum Offline Staking
-sidebar_label: offline-staking
+sidebar_label: Offline Staking
 sidebar_position: 2
 ---
 
