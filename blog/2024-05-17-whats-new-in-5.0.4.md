@@ -18,7 +18,7 @@ We are pleased to announce the release of FoxWallet 5.0.4 update. Please find be
 ### New Networks
 
 #### Zulu Testnet
-[Zulu Network (“Zulu”)](zulunetwork.io) stands out as the first Bitcoin Layer 2 (L2) platform to introduce a dual-layer architecture, meticulously considering both stability and innovation. Relying solely on EVM compatibility poses challenges, such as limited ecosystem innovation and application scenarios. On the other hand, exclusively retaining UTXO characteristics carries inherent risk issues. To address these concerns and facilitate the use of fast DeFi protocols on the Bitcoin Network, Zulu has ingeniously proposed a dual-layer architecture design.  
+[Zulu Network (“Zulu”)](https://zulunetwork.io) stands out as the first Bitcoin Layer 2 (L2) platform to introduce a dual-layer architecture, meticulously considering both stability and innovation. Relying solely on EVM compatibility poses challenges, such as limited ecosystem innovation and application scenarios. On the other hand, exclusively retaining UTXO characteristics carries inherent risk issues. To address these concerns and facilitate the use of fast DeFi protocols on the Bitcoin Network, Zulu has ingeniously proposed a dual-layer architecture design.  
 
 - Open [FoxWallet](https://foxwallet.com/download)
 - Go to "Me" -> "Networks" -> find and enable `Zulu Testnet`

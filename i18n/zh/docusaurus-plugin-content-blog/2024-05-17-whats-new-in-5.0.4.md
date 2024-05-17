@@ -17,7 +17,7 @@ tags: [changelog]
 ### 新网络
 
 #### Zulu 测试网
-[Zulu 网络 (“Zulu”)](zulunetwork.io) 作为首个引入双层架构的比特币第二层（L2）平台而脱颖而出，深思熟虑了稳定性与创新性。仅依赖于 EVM 兼容性会带来挑战，比如限制了生态系统的创新和应用场景。而仅保留 UTXO 特性则存在固有的风险问题。为了解决这些问题并促进在比特币网络上使用快速DeFi协议，Zulu 巧妙地提出了双层架构设计。  
+[Zulu 网络 (“Zulu”)](https://zulunetwork.io) 作为首个引入双层架构的比特币第二层（L2）平台而脱颖而出，深思熟虑了稳定性与创新性。仅依赖于 EVM 兼容性会带来挑战，比如限制了生态系统的创新和应用场景。而仅保留 UTXO 特性则存在固有的风险问题。为了解决这些问题并促进在比特币网络上使用快速DeFi协议，Zulu 巧妙地提出了双层架构设计。  
 
 - 在 “我” -> “管理网络” 中找到并启用`Zulu Testnet`
 - 转到 “钱包”-> [切换网络](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) 至 `Zulu Testnet`
