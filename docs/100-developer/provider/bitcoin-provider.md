@@ -31,11 +31,27 @@ Connect the current account
 
 ### getAccounts
 Get address of current account
-* Returns: `Promise` returns `string[]` : Address of current account.
+* Returns: `Promise` - `string[]` : Address of current account.
 
 ### getNetwork
 * Get Network
 * Returns: `Promise` - `string`: the network. `livenet` and `testnet`
+
+### switchNetwork
+Switch to qtum mainnet or testnet
+* Params: network: `string`: `livenet`|`testnet`
+* Returns: `Promise` - `string`: the network. `livenet` and `testnet`
+
+* Example
+    ```js
+    try {
+        const provider = getProvider();  
+        let network = await provider.switchNetwork("livenet");
+        console.log(network)
+    } catch (e) {
+        console.log(e);
+    }
+    ```
 
 ### getBalance
 Get BTC balance
