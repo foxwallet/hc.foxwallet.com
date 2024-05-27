@@ -21,7 +21,7 @@ Bitcoin utilizes cryptographic technology to control the production and transfer
 As an unprecedented form of currency, Bitcoin has withstood numerous market tests and technological attacks, remaining resilient throughout. Today, Bitcoin has grown into a currency system with millions of users worldwide, tens of thousands of merchants accepting payments, and a market capitalization reaching billions of dollars.
 
 ## Usage
-* Downliad FoxWallet: https://foxwallet.com/download
+* Download FoxWallet: https://foxwallet.com/download
 * Create Wallet: https://hc.foxwallet.com/docs/basic/create-wallet
 * Enter the homepage, click the switch button in the upper left corner, switch the network to `Bitcoin`  
 

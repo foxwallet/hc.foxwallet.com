@@ -11,7 +11,7 @@ keywords:
 
 
 ## Usage
-* Downliad FoxWallet: https://foxwallet.com/download
+* Download FoxWallet: https://foxwallet.com/download
 * Create Wallet: https://hc.foxwallet.com/docs/basic/create-wallet
 * Go to "Me" => "Networks", find and Enable `Sei` 
 * Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Sei`

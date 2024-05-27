@@ -14,7 +14,7 @@ The network ensures high throughput, cost-effective fees, and unmatched scalabil
 Coreum is fast, cost-effective, and environmentally friendly due to its Bonded Proof of Stake (BPoS) consensus mechanism, avoiding the high energy costs of other blockchains, while its scalability and throughput ensure that network operations do not incur exorbitant fees.
 
 ## Usage
-* Downliad FoxWallet: https://foxwallet.com/download
+* Download FoxWallet: https://foxwallet.com/download
 * Create Wallet: https://hc.foxwallet.com/docs/basic/create-wallet
 * Go to "Me" => "Networks", find and Enable `Coreum` 
 * Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Coreum`
