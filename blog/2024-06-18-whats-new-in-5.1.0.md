@@ -36,7 +36,7 @@ Optopia is an AI-driven, intent-centric Layer 2 network that allows permissionle
 #### 5ire Testnet
 5ireChain is an EVM-compatible, sustainability-oriented smart contract platform that focuses on developing a sustainable and beneficial ecosystem based on the United Nations Sustainable Development Goals (SDGs). Our goal is to build a computing platform that promotes and advocates these activities to achieve the goals.
 
-### 错误修复和体验改进
+### Bug fixes and experience improvements
 - Added Japanese translation
 - Fixed the retrieval of transaction history for certain networks
 - Added warning for unknown websites
