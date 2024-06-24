@@ -53,6 +53,10 @@ Switch to qtum mainnet or testnet
     }
     ```
 
+### getPublicKey
+Get publicKey of current account.
+* Returns: `Promise` - `string`: empty string when not connected
+
 ### getBalance
 Get BTC balance
 * Returns: `Promise` - `Object`:
