@@ -9,7 +9,6 @@
 ```js
 function getProvider() {
   const provider = window.foxwallet && window.foxwallet.qtum;
-  // available on Qtum mainnet only
   if (!provider) {
     window.open('https://foxwallet.com/download');
     throw `Please guide users to download from FoxWallet official website`
