@@ -1,6 +1,6 @@
 # Qtum Provider
 
-## EVM part provider
+## EVM Style Provider
 
 **FoxWallet uses the same protocol as [Qnekt](https://github.com/qtumproject/metamask-extension).**
 
@@ -17,11 +17,6 @@ function getProvider() {
   return provider;
 }
 ```
-
-
-### Testing DApp
-- Link: https://qtumproject.github.io/test-dapp/
-- Source Code: https://github.com/qtumproject/test-dapp
 
 ### eth_accounts
 get connected addresses
@@ -54,6 +49,7 @@ get the coinbase address.
     } catch (e) {}
     > '0xa77392123a1085f75e62eec7dea7e0e1e5142d5f'
     ```
+
 ### eth_chainId
 the chain ID of the current network.
 * Returns: `Promise` returns `string` : coinbase address.
@@ -277,7 +273,12 @@ add specified token in FoxWallet. Returns a boolean indicating if the token was 
     > true
     ```
 
-## BTC part provider
+### Testing DApp
+- Link: https://qtumproject.github.io/test-dapp/
+- Source Code: https://github.com/qtumproject/test-dapp
+
+
+## BTC Style Provider
 
 **FoxWallet uses the similar protocol as [UniSat](https://docs.unisat.io/dev/unisat-wallet-api) under `window.foxwallet.qtum.btc`**
 
