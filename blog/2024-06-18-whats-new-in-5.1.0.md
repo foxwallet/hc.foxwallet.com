@@ -4,7 +4,7 @@ title: FoxWallet 5.1.0 - Multi-chain Asset Aggregation
 tags: [changelog]
 ---
 
-We are pleased to announce the release of FoxWallet 5.0.4 update. Please find below the details of this update.
+We are pleased to announce the release of FoxWallet 5.1.0 update. Please find below the details of this update.
 
 **Note: This update includes significant changes, and upgrading from an older version may require a considerable amount of time to process data.**
 <!--truncate-->
