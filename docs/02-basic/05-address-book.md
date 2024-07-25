@@ -12,8 +12,6 @@ This feature also minimizes the risk of manual typing errors in cryptocurrency a
 
 2. Click "Contacts"
 
-<img src="/img/docs/me-contacts.webp" width="320" /> 
-
 3. Select the network for the address you want to save
 
 4. Click the "+" button to add an address

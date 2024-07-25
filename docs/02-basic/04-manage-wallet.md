@@ -7,17 +7,15 @@ You can view the "Manage Wallet" page via "Me" => "Settings" => "Switch Wallet",
 Click the "+ Add wallet" button in "Switch Wallet" page, select the corresponding method and follow the prompts to create or restore a wallet.
 
 ## Switch wallet
-Click the switch button on the left-top corner of wallet screen.  
+Click the account button on the center of wallet screen.  
 
-<img src="/img/docs/switch-entrance.webp" width="320" />  
+<img src="/img/docs/switch-account.webp" width="320" />  
 
 Click the wallet name title of pop-up screen.  
 
+<img src="/img/docs/switch-wallet.webp" width="320" /> 
+
 Select the wallet you want to switch to.  
-
-![](../img/switch-wallet-3.webp)  
-
-Back to the wallet screen, new wallet is switched.   
 
 ## Delete wallet
 Select the wallet that needs to be deleted, click the “...” button in the upper right corner, and then click “Delete”. 
@@ -36,7 +34,5 @@ Note: only mnemonic wallets can add new accounts.
 If you have more than one accounts, and want to delete one of them, the "Hide account" is your choice.
 
 Go to "Accounts" page => choose the chain => click the "..." button on the top-right corner of account card => "Hide".
-
-![](../img/hide-account-1.webp)![](../img/hide-account-2.webp)
 
 

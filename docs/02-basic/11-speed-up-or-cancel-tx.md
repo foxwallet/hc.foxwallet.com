@@ -22,8 +22,6 @@ Go to the "Transaction Detail" page, and click "Speed up" to re-broadcast your t
 
 If you have more than one transactions get stucked, you need speed up the earliest one first. Only when the earliest get confirmed, the following transaction can be processed.
 
-![](../img/pending.webp)
-
 ## Cancel Transaction
 If you send a transaction by mistake, and luckily the transaction is not confirmed, you can go to the "Transaction Detail" page, and click "Cancel" to re-broadcast your tx, [FoxWallet](https://foxwallet.com) will create a new transaction sending funds to your self with higher gas.
 
@@ -34,13 +32,9 @@ To solve this problem, FoxWallet has introduced a transaction canceller tool.
 
 To access the tool, click on the "More" button in the tools section under the "Wallet" tab, and then click on the "Canceller" option.
 
-<img src="/img/docs/tool-more.webp" width="320" /> <img src="/img/docs/tools-canceller.webp" width="320" />
-
 On the canceller page, users only need to fill in the nonce of the transaction. FoxWallet will then create a transfer from itself to itself to override the stuck transaction.   
 
 If you do not know what nonce to fill in, FoxWallet automatically fill in the nonce of the earliest stuck transaction in the memory pool.
-
-<img src="/img/docs/tool-canceller.webp" width="320" />
 
 ## Import to FoxWallet
 If your have stuck transactions in other wallet, you can import it to FoxWallet. The mnemonic is common across most wallets, private keys are supported too.

@@ -12,5 +12,5 @@ It enables the flow of data and tokens across what would otherwise be siloed set
 
 **FoxWallet brings you an easy access to all the popular and reliable cross-chain bridges.**
 
-* Open FoxWallet, click the "Bridge" button  
+* Open FoxWallet, click the "Swap" button  
 * Select from network, to network and token

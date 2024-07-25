@@ -20,15 +20,11 @@ keywords:
 ## Usage
 - Download and open [FoxWallet](https://foxwallet.com/download)
 
-- Go to "Me" -> "Networks" select and download the zero-knowledge proof parameters for `Aleo Testnet3` to use.  
-<img src="/img/docs/networks-aleo.webp" width="320" />
+- Go to "Me" -> "Networks" select and download the zero-knowledge proof parameters for `Aleo Testnet` to use.  
 
-- Return to the wallet home page, click the switch button in the upper left corner, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Aleo Testnet3`
-<img src="/img/docs/switch-network.webp" width="320" /> <img src="/img/docs/switch-aleo.webp" width="320" />
+- Return to the wallet home page, click the switch button in the upper left corner, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Aleo Testnet`
 
 - View and transfer your ALEO  
-<img src="/img/docs/aleo-wallet.webp" width="320" /> <img src="/img/docs/aleo-transfer.webp" width="320" />
-
 
 ## Advance
 

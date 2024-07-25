@@ -14,7 +14,7 @@ Invite your friends to [download FoxWallet](https://foxwallet.com/download), and
 ## 2. Invite your friends to download FoxWallet
 
 * Click "Share link" or "Share picture" button in "Share" page 
-* You can send the FoxWallet official website url `https://foxwallet.com/` too.
+* You can send the FoxWallet official website url `https://foxwallet.com/` as well.
 
 ## 3. Enter invite code
 

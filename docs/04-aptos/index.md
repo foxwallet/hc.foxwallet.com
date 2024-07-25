@@ -23,9 +23,7 @@ keywords:
 ## Usage
 
 * Open [FoxWallet](https://foxwallet.com/), switch to Aptos and Select one account  
-  <img src="/img/docs/switch-entrance.webp" width="320" />
-  
-  ![](../img/switch-aptos.webp)
+  <img src="/img/docs/switch-network.webp" width="320" />
 
 * View and transfer your APT  
 

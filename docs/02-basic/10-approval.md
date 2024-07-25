@@ -17,7 +17,5 @@ Once an approval is granted, some smart contracts may be able to execute transac
 * Open FoxWallet, click the "More" button  
 
 * Click the "Approvals" button in the tools page  
-  ![](../img/tools-approvals.webp)
 
 * Review and revoke your token approvals  
-  ![](../img/approvals.webp)
