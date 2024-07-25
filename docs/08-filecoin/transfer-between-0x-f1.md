@@ -19,7 +19,7 @@ FoxWallet uses Filecoin's built-in [FilFowarder](https://docs.filecoin.io/smart-
 2. Open the FoxWallet application.
 3. For the purpose of this tutorial, select **Create wallet** to create a new wallet. Alternatively, select **Import wallet** to import an existing wallet.
 4. Accept the FoxWallet service agreement.
-5. Enter a **Wallet name** and **Set password**. You can also enable or disable biometric authentication, and enter an invite code.
+5. **Set password**. You can also enable or disable biometric authentication, and enter an invite code.
 6. Click **Confirm**.
 7. Taking note of the security warning, click **View seed phrase**.
 8. In the generated seed phrase, note the terms and the order in which they appear.

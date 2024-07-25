@@ -2,7 +2,7 @@
 
 Read the “FoxWallet terms” if you are opening the wallet for the first time. 
 
-Click “Create wallet”, and set the “Wallet name”, “Password” and “Password reminder” according to the prompts on the page. 
+Click “Create wallet”, and set the “Password” according to the prompts on the page. 
 
 Keep in mind that FoxWallet DOES NOT store the password NOR retrieve it for you. 
 
