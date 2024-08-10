@@ -2,7 +2,7 @@
 
 **FoxWallet uses the same protocol as Phantom.**
 
-### getProvider
+### Get Provider
 
 ```js
 function getProvider() {
@@ -14,6 +14,6 @@ function getProvider() {
   return provider;
 }
 ```
+## Supported Connectors
 
-### SDK
-* [@foxwallet/wallet-adapter-foxwallet](https://www.npmjs.com/package/@foxwallet/wallet-adapter-foxwallet)
+### [@foxwallet/wallet-adapter-foxwallet](https://www.npmjs.com/package/@foxwallet/wallet-adapter-foxwallet)

@@ -2,8 +2,7 @@
 
 **FoxWallet uses the same protocol as Keplr Wallet, only support Coreum, Sei, Injective and Nibiru currently.**
 
-## Basic Methods
-### Get Provider
+## Get Provider
 
 ```js
 function getProvider() {
@@ -15,6 +14,8 @@ function getProvider() {
   return provider;
 }
 ```
+
+## Methods
 
 ### Get Key
 ```ts
@@ -71,7 +72,9 @@ signArbitrary(
 ```
 This is an experimental implementation of [ADR-36](https://github.com/cosmos/cosmos-sdk/blob/main/docs/architecture/adr-036-arbitrary-signature.md). The risk of using this feature is borne by you.
 
-## Using with CosmosJS
+## Supported Connectors
+
+### CosmosJS
 ```ts
 
 const offlineSigner = window.foxwallet.cosmos.getOfflineSigner(chainId);

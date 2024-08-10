@@ -2,7 +2,7 @@
 
 **FoxWallet uses the same protocol as Petra.**
 
-### getProvider
+## Get Provider
 
 ```js
 function getProvider() {
@@ -15,8 +15,8 @@ function getProvider() {
 }
 ```
 
-### SDK
-* [@manahippo/aptos-wallet-adapter](https://www.npmjs.com/package/@manahippo/aptos-wallet-adapter)
+## Supported Connectors
+### [@manahippo/aptos-wallet-adapter](https://www.npmjs.com/package/@manahippo/aptos-wallet-adapter)
   ```js
   import { FoxWalletAdapter } from '@manahippo/aptos-wallet-adapter';
   ```

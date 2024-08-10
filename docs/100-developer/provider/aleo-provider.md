@@ -2,7 +2,7 @@
 
 **FoxWallet uses the same protocol as Leo Wallet.**
 
-### getProvider
+## Get Provider
 
 ```js
 function getProvider() {
@@ -14,6 +14,8 @@ function getProvider() {
   return provider;
 }
 ```
+
+## Methods
 
 ### connect
 Connect the current account
@@ -134,4 +136,56 @@ try {
 }
 ```
 
+## Supported Connectors
 
+### [@demox-labs/aleo-wallet-adapter](https://github.com/demox-labs/aleo-wallet-adapter)
+
+```bash
+npm install --save \
+    @demox-labs/aleo-wallet-adapter-base \
+    @demox-labs/aleo-wallet-adapter-react \
+    @demox-labs/aleo-wallet-adapter-reactui \
+    @demox-labs/aleo-wallet-adapter-leo \
+    @foxwallet/aleo-wallet-adapter-fox \
+    react
+```
+
+```tsx
+import React, { FC, useMemo } from "react";
+import { WalletProvider } from "@demox-labs/aleo-wallet-adapter-react";
+import { WalletModalProvider } from "@demox-labs/aleo-wallet-adapter-reactui";
+import { LeoWalletAdapter } from "@demox-labs/aleo-wallet-adapter-leo";
+import { FoxWalletAdapter } from "@foxwallet/aleo-wallet-adapter-fox";
+import {
+  DecryptPermission,
+  WalletAdapterNetwork,
+} from "@demox-labs/aleo-wallet-adapter-base";
+
+// Default styles that can be overridden by your app
+require("@demox-labs/aleo-wallet-adapter-reactui/styles.css");
+
+export const Wallet: FC = () => {
+  const wallets = useMemo(
+    () => [
+      new LeoWalletAdapter({
+        appName: "Leo Demo App",
+      }),
+      new FoxWalletAdapter({}),
+    ],
+    []
+  );
+
+  return (
+    <WalletProvider
+      wallets={wallets}
+      decryptPermission={DecryptPermission.UponRequest}
+      network={WalletAdapterNetwork.Localnet}
+      autoConnect
+    >
+      <WalletModalProvider>
+        // Your app's components go here
+      </WalletModalProvider>
+    </WalletProvider>
+  );
+};
+```

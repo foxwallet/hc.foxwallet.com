@@ -2,7 +2,7 @@
 
 **FoxWallet uses the same protocol as [UniSat](https://docs.unisat.io/dev/unisat-wallet-api).**
 
-### getProvider
+### Get Provider
 ```js
 function getProvider() {
   const provider = window.foxwallet && window.foxwallet.bitcoin;

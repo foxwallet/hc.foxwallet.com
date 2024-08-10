@@ -4,7 +4,7 @@
 
 Use injected provider or [Wallet Standard](https://github.com/wallet-standard/wallet-standard).
 
-### getProvider
+### Get Provider
 
 ```js
 function getProvider() {
