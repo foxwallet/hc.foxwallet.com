@@ -9,7 +9,7 @@ tags: [changelog]
 <!--truncate-->
 
 ### 支持波场TRC20转账
-We are excited to announce support for TRC20 transfers on the Tron network. This update enables seamless 我们非常高兴地宣布，现在支持Tron网络上的TRC20转账。此更新使得TRC20交易更加无缝高效，充分利用Tron网络低费用和快速确认的优势。
+我们非常高兴地宣布，现在支持Tron网络上的TRC20转账。此更新使得TRC20交易更加无缝高效，充分利用Tron网络低费用和快速确认的优势。
 
 ### 新增网络
 
