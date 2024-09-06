@@ -6,6 +6,7 @@ keywords:
   - aleo airdrop
   - what is aleo
   - transfer aleo
+  - aleo mainnet
 ---
 
 # Aleo
@@ -20,9 +21,9 @@ keywords:
 ## Usage
 - Download and open [FoxWallet](https://foxwallet.com/download)
 
-- Go to "Me" -> "Networks" select and download the zero-knowledge proof parameters for `Aleo Testnet` to use.  
+- Go to "Me" -> "Networks" select and download the zero-knowledge proof parameters for `Aleo Mainnet` to use.  
 
-- Return to the wallet home page, click the switch button in the upper left corner, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Aleo Testnet`
+- Return to the wallet home page, click the switch button in the upper left corner, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Aleo Mainnet`
 
 - View and transfer your ALEO  
 
