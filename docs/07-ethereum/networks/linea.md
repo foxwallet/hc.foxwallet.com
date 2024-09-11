@@ -25,11 +25,9 @@ FoxWallet has supported Linea Network, here we prepared this tutorial to present
 * Click `Networks` and scroll down
 * Find `Linea` and select to enable it
 
-    <img src="/img/docs/me-networks.webp" width="320" /><img src="/img/docs/linea.webp" width="320" />
-
 ## Transfer Linea ETH using FoxWallet
 * Go to `Wallet` tab
-* [Switch network](../basic/manage-funds#switch-networks) to `Linea`
+* [Switch network](/docs/basic/manage-funds#switch-networks) to `Linea`
 * Click the `Send` button
 * Type the address that you want to transfer funds to, or select `Transfer between my accounts` if the account belongs to your wallet.
 * Type the amount to transfer.

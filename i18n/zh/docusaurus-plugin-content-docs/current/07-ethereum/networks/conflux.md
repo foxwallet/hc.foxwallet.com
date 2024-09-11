@@ -17,12 +17,8 @@ keywords:
 
 “我” => “管理网络” => 勾选 Conflux eSpace => 返回到钱包主页。
 
-![](../img/add-conflux.webp)
-
 ## 切换至 Conflux eSpace
 
 点击钱包主页左上角的切换按钮 => 选择 Conflux eSpace => 选择一个账户。
 
 <img src="/img/docs/switch-entrance.webp" width="320" />
-
-![](../img/switch-conflux.webp)

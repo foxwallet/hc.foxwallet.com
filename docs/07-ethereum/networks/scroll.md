@@ -22,11 +22,9 @@ FoxWallet has supported Scroll Mainnet, here we prepared this tutorial to presen
 * Click `Networks` and scroll down
 * Find `Scroll` and select it
 
-    <img src="/img/docs/me-networks.webp" width="320" /><img src="/img/docs/scroll-test.webp" width="320" />
-
 ## Transfer on Scroll
 * Go to `Wallet` tab
-* [Switch network](../basic/manage-funds#switch-networks) to `Scroll`
+* [Switch network](/docs/basic/manage-funds#switch-networks) to `Scroll`
 * Click the `Send` button
 * Enter `address` that you want to transfer funds to
 * Input the amount of ETH to transfer

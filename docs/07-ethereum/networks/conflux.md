@@ -19,12 +19,8 @@ keywords:
 
 "Me" => "Networks" => Enable Conflux eSpace => Back to wallet main page.
 
-![](../img/add-conflux.webp)
-
 ## Switch to Conflux eSpace
 
 Click the switch button in main page => Choose Conflux eSpace => Select one account.
 
 <img src="/img/docs/switch-entrance.webp" width="320" />
-
-![](../img/switch-conflux.webp)

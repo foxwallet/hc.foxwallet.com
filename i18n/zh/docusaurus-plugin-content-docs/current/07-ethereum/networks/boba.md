@@ -14,12 +14,8 @@ keywords:
 
 “我” => “管理网络” => 勾选 Boba Mainnet => 返回到钱包主页。
 
-![](../img/add-boba.webp)
-
 ## 切换到 Boba Mainnet
 
 点击钱包主页左上角的切换按钮 => 选择 Boba Mainnet => 选择一个账户。
 
 <img src="/img/docs/switch-entrance.webp" width="320" />
-
-![](../img/switch-boba.webp)
