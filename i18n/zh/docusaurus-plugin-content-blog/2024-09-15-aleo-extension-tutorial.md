@@ -1,5 +1,5 @@
 ---
-slug: aleo-app-tutorial
+slug: aleo-extension-tutorial
 title: Aleo 插件教程
 tags: [tutorial]
 ---
