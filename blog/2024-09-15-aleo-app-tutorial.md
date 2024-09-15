@@ -10,7 +10,7 @@ FoxWallet - Your Best Aleo Wallet !
 ## 1. Download or Update
 
 ### Download FoxWallet 
-Vist the official FoxWallet website: https://foxwallet.com/, and select your platform.  
+Visit the official FoxWallet website: https://foxwallet.com/, and select your platform.  
 
 <img src="/img/blog/aleo-app-tutorial/1.webp" width="960" />
 
@@ -31,7 +31,7 @@ Note: For private transfers, click "Sync" after the first receipt to scan your p
 <img src="/img/blog/aleo-app-tutorial/4.webp" width="320" />
 
 ### Send ALEO
-FoxWallet supportes 4 transfer methods for Aleo:
+FoxWallet supports 4 transfer methods for Aleo:
 - **Private Transfer**: from Private record to Private record.
 - **Public Transfer**: from Public balance to Public balance.
 - **Private record to public balance**: transfer ALEO from a private sender to a public recipient. 

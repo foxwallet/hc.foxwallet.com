@@ -41,7 +41,7 @@ FoxWallet 支持 4 种Aleo转账方式:
 注意: 如果要将您的公开余额转换为私密记录，可以使用发送地址作为 "接收地址"。
 
 ## 3. 添加和切换钱包
-你可以导入已经的助记词或者Aleo私钥到FoxWallet中, 并轻松切换.
+你可以导入已有的助记词或者Aleo私钥到FoxWallet中, 并轻松切换.
 
 <img src="/img/blog/aleo-app-tutorial/6.webp" width="960" />  
 

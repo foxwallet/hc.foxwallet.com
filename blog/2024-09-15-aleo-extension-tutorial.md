@@ -10,7 +10,7 @@ FoxWallet - Your Best Aleo Wallet !
 ## 1. Install or Update
 
 ### Install FoxWallet Extension
-Vist chrome extension store https://chromewebstore.google.com/detail/foxwallet-aleo-wallet/pmmnimefaichbcnbndcfpaagbepnjaig to install.
+Visit chrome extension store https://chromewebstore.google.com/detail/foxwallet-aleo-wallet/pmmnimefaichbcnbndcfpaagbepnjaig to install.
 
 ### Update FoxWallet Extension to the latest version
 - Click the vertical ellipsis icon tool icon on the browser toolbar.
@@ -28,7 +28,7 @@ Click the "Receive" button to get Aleo address and QR code.
 <img src="/img/blog/aleo-extension-tutorial/2.webp" width="960" />
 
 ### Send ALEO
-FoxWallet supportes 4 transfer methods for Aleo:
+FoxWallet supports 4 transfer methods for Aleo:
 - **Private Transfer**: from Private record to Private record.
 - **Public Transfer**: from Public balance to Public balance.
 - **Private record to public balance**: transfer ALEO from a private sender to a public recipient. 
