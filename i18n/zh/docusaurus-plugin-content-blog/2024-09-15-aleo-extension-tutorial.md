@@ -1,6 +1,6 @@
 ---
 slug: aleo-extension-tutorial
-title: Aleo 插件教程
+title: Aleo 插件操作指南
 tags: [tutorial]
 ---
 
