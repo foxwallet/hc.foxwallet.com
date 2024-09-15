@@ -1,33 +1,31 @@
 ---
 slug: aleo-app-tutorial
-title: Aleo App 操作指南
+title: Aleo 插件教程
 tags: [tutorial]
 ---
-FoxWallet - 最安全好用的Aleo钱包!
+
+FoxWallet - 最安全好用的Aleo钱包插件.
 <!--truncate-->
 
-## 1. 下载或更新
+## 1. 安装或更新
 
-### 下载安装
-访问 FoxWallet 官网: https://foxwallet.com/, 选择适合您的平台。
+### 安装 FoxWallet 插件
+访问 https://chromewebstore.google.com/detail/foxwallet-aleo-wallet/pmmnimefaichbcnbndcfpaagbepnjaig 并安装.
 
-<img src="/img/blog/aleo-app-tutorial/1.webp" width="960" />
+### 更新 FoxWallet 插件到最新版本
+- 点击浏览器工具栏上的垂直省略号图标
+- 选择“更多工具” -> “扩展程序”
+- 点击右上角的开发者模式按钮
+- 然后，您会看到“更新”按钮出现
 
-### 更新到最新版本
-老版本用户需要升级到最新版本,前往 "我" -> "设置" -> "关于" -> "升级" 可以更新.  
-
-<img src="/img/blog/aleo-app-tutorial/2.webp" width="960" />
+<img src="/img/blog/aleo-extension-tutorial/1.webp" width="960" />
 
 ## 2. 转账
 
 ### 接收 ALEO
-点击 “收款“ 按钮 即可获取 Aleo 地址和二维码.
+点击“接收”按钮获取 Aleo 地址和二维码。
 
-<img src="/img/blog/aleo-app-tutorial/3.webp" width="960" />
-
-注意: 对于私密转账，首次接收后需要点击 "同步" 以扫描您的私密记录。
-
-<img src="/img/blog/aleo-app-tutorial/4.webp" width="320" />
+<img src="/img/blog/aleo-extension-tutorial/2.webp" width="960" />
 
 ### 发送 ALEO
 FoxWallet 支持 4 种Aleo转账方式:
@@ -36,14 +34,14 @@ FoxWallet 支持 4 种Aleo转账方式:
 - **隐私记录转公开余额**：实现隐私发送者给公开接收者转账功能。从隐私账户扣除，发送至对方公开账户。余额从隐私余额支出，新增至对方公开余额。
 - **公开余额转隐私记录**：实现公开的发送者到隐私接收者转账功能。从公开账户扣除，发送至对方隐私账户。余额从公开余额支出，新增至对方隐私余额。  
 
-<img src="/img/blog/aleo-app-tutorial/5.webp" width="960" />  
+<img src="/img/blog/aleo-extension-tutorial/3.webp" width="960" />  
 
 注意: 如果要将您的公开余额转换为私密记录，可以使用发送地址作为 "接收地址"。
 
 ## 3. 添加和切换钱包
 你可以导入已经的助记词或者Aleo私钥到FoxWallet中, 并轻松切换.
 
-<img src="/img/blog/aleo-app-tutorial/6.webp" width="960" />  
+<img src="/img/blog/aleo-extension-tutorial/4.webp" width="960" />  
 
 ## 4. 常见问题
 - 转账一般需要多久？  
@@ -65,4 +63,4 @@ FoxWallet 支持 4 种Aleo转账方式:
     FoxWallet App 默认只显示公开余额。点击 "同步" 以显示私密余额。
 
 - 为什么创建钱包时不能用私钥导入钱包？
-    先创建新钱包或通过助记词导入。然后前往 "我的" -> "设置" -> "切换钱包" -> "添加钱包" 以通过私钥导入钱包。          
+    先创建新钱包或通过助记词导入。然后前往 "我的" -> "设置" -> "切换钱包" -> "添加钱包" 以通过私钥导入钱包。       
