@@ -56,9 +56,6 @@ Import your existing seed phrase or Aleo private key into FoxWallet and easily s
 - Where can I find the transfer records?  
     Transfer records are currently in the message box at the top right corner. The next version will support viewing them on the "Asset Details" page.
 
-- Why "Sync" is require on mobile App?      
-    Due to the performance limitations of mobile devices, the process of scanning private transactions is handled by FoxWallet servers. The plugin, running on a computer, has enough performance for local synchronization.
-
 - I transferred ALEO to someone using private transfer, but his/her account does not show the balance. Why?  
     FoxWallet App only shows the public balance by default. Click "Sync" to display the private balance.
 
