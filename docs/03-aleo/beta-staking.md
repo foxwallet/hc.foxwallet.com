@@ -11,6 +11,12 @@ FoxWallet's built-in Aleo staking service is powered by [Beta Staking](https://b
 ## How does Beta Staking work?
 When using the Beta Staking protocol to stake ALEO Credits, the protocol batches the tokens and deposits them into official Aleo staking nodes. This allows users to participate in the operation of the Aleo network and receive PoS rewards from the official nodes. Additionally, users receive stALEO tokens based on the current exchange rate, in proportion to the amount of Aleo Credits they stake. When users decide to withdraw, they need to burn the corresponding amount of stALEO, which triggers the withdrawal process on the Aleo network. This process retrieves the staked Aleo Credits principal and rewards.
 
+## Is there a minimum pledge amount limit?
+No.
+
+## Can the pledged principal and income be redeemed at any time?
+Yes.
+
 ## What are the advantages of Beta Staking?
 1. Compared to users staking Aleo Credits directly with Aleo official nodes, Beta Staking continuously monitors and considers factors such as node security, scale, and yield to dynamically select the optimal staking nodes, providing security and yield guarantees for users' assets.
 2. By using Beta Staking, users can receive stALEO tokens, which provide staking rewards, fulfill users' liquidity needs, and have composability in various DeFi scenarios.
