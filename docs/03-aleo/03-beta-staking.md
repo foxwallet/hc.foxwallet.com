@@ -26,8 +26,8 @@ Yes.
 In Beta Staking, users can stake Aleo Credits, which are recorded in a unified pool. Each user holds a certain proportion of shares in the pool. Every day, the received PoS reward tokens are injected into the pool by Beta Staking. The rewards are then shared among all the stakers based on their proportionate shares.
 
 ## What are the staking and redemption rules?
-To maximize the stakers' earnings and consider network gas costs, we do not immediately deposit each staked Aleo Credits into the official PoS nodes. Instead, we accumulate a certain amount of Aleo Credits or wait for a specific interval (e.g., every 12 hours or when 1000 Aleo Credits are accumulated) before executing a batch deposit. This ensures the maximum utilization of users' funds.
-When users request redemption, if other users deposit Aleo Credit in the pool but still need to be staked, we prioritize redeeming those Aleo Credits to the user without affecting the staked Aleo Credits generating rewards.
+To maximize the stakers' earnings and consider network gas costs, Beta Staking does not immediately deposit each staked Aleo Credits into the official PoS nodes. Instead, Beta Staking accumulates a certain amount of Aleo Credits or wait for a specific interval (e.g., every 12 hours or when 1000 Aleo Credits are accumulated) before executing a batch deposit. This ensures the maximum utilization of users' funds.
+When users request redemption, if other users deposit Aleo Credit in the pool but still need to be staked, Beta Staking prioritizes redeeming those Aleo Credits to the user without affecting the staked Aleo Credits generating rewards.
 
 ## How is the APR calculated?
 The Annual Percentage Rate (APR) is determined by taking into account the staking rewards earned from the official nodes on the previous day and the total amount of Aleo Credits staked through Beta Staking. The APR is updated every day at 8:00 UTC. It is calculated by multiplying "the total value of Aleo Credits earned from PoS rewards distributed between yesterday 8:00 UTC and today 8:00 UTC" by 365 days, and then dividing it by the average amount of Aleo Credits staked in the product on that day. While the APR reflects the expected returns, it does not guarantee future earnings.
@@ -41,8 +41,6 @@ If you own stALEO tokens, you can redeem them from Beta Staking at any point. To
 Note that as time passes, the exchange rate between stALEO and Aleo Credits increases. Therefore, the same amount of stALEO can redeem more Aleo Credits, resulting in higher staking rewards.
 
 ## What is the cost of the Beta Staking protocol fee?
-We do not charge any protocol fees during the initial stages of Beta Staking. All Aleo Credits rewards obtained through PoS will be evenly distributed among the stakers.  
+No protocol fees will be charged during the initial stages of Beta Staking. All Aleo Credits rewards obtained through PoS will be evenly distributed among the stakers.  
 
-In the future, once the Beta Staking protocol is running smoothly, we plan to introduce a 10% protocol fee on staking rewards. The specific percentage of the fee and how it will be used will be decided through community governance. We will work with the community to discuss and determine these matters.  
-
-If you have any questions or opinions about the fees for the Beta Staking protocol, we encourage you to participate in community discussions and share your suggestions. We value the input of our community and will ensure that protocol fees are managed transparently and fairly.
+In the future, once the Beta Staking protocol is running smoothly, Beta Staking plans to introduce a 10% protocol fee on staking rewards. The specific percentage of the fee and how it will be used will be decided through community governance. We will work with the community to discuss and determine these matters.  
