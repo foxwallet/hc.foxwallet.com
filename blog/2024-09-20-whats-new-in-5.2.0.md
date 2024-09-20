@@ -21,6 +21,9 @@ You can add tokens issued on the Aleo network through [AlphaSwap](https://alphas
 ### Display Aleo Transaction Records
 You can now view Aleo public transaction records and local private transaction records directly in the asset details page.
 
+### Added Network Morph Holesky Testnet
+[Morph](https://www.morphl2.io/) is a consumer-centric blockchain platform designed to enhance the blockchain experience through innovative Ethereum Layer 2 scalability solutions. It features a decentralized sequencer network, integrated Optimistic zkEVM combining optimistic rollups with zero-knowledge proofs, and a modular architecture. These technologies ensure high availability, fairness, and efficiency in transactions, while reducing costs and enhancing security, making it easier for developers and consumers to build and use blockchain applications.
+
 ### Others
 - New transfer interactions
 - Support for [ZNS](https://www.znsconnect.io/) and [ANS](https://aleonames.id/) domain name resolution

@@ -21,6 +21,9 @@ tags: [changelog]
 ### 展示 Aleo 转账记录
 你可以在资产详情页中直接看到Aleo的公开转账记录, 以及本地发出的隐私转账记录.
 
+### 添加 Morph Holesky 测试网
+[Morph](https://www.morphl2.io/) 是一个以消费者为中心的区块链平台，旨在通过创新的以太坊第二层扩展技术提升区块链体验。其核心包括去中心化的排序器网络、结合乐观汇总和零知识证明的Optimistic zkEVM集成，以及模块化设计。这些技术确保了交易的高可用性、公平性和高效性，同时降低成本并提升安全性，使开发者和消费者能够更便捷地构建和使用区块链应用。
+
 ### Others
 - 新的转账交互
 - 支持 [ZNS](https://www.znsconnect.io/) 和 [ANS](https://aleonames.id/)域名解析
