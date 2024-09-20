@@ -3,7 +3,7 @@ title: BetaStaking FAQ
 sidebar_label: BetaStaking
 ---
 
-FoxWallet's built-in Aleo staking service is powered by [Beta Staking](https://betastaking.com/).
+FoxWallet's built-in Aleo staking service is powered by our partner [Beta Staking](https://betastaking.com/) and is currently only available within the FoxWallet App.
 
 ## What is Beta Staking?
 [Beta Staking](https://betastaking.com/) is a decentralized protocol that enables users to stake Aleo Credits on the Aleo blockchain network and earn Beta rewards. The staking process is simple and users can easily earn rewards by staking Aleo Credits using the protocol. Beta Staking will also issue stALEO as proof of the user's staking. Users can use this proof to unlock and withdraw the staked Aleo Credits principal and earnings from the protocol at any time.

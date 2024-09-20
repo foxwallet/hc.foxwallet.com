@@ -3,7 +3,7 @@ title: BetaStaking
 sidebar_label: BetaStaking
 ---
 
-FoxWallet 内置的 Aleo 质押服务由 [Beta Staking](https://betastaking.com/) 提供支持。
+FoxWallet 内置的 Aleo 质押服务由我们的合作伙伴 [Beta Staking](https://betastaking.com/) 提供支持, 目前仅在 FoxWallet App 内可用。
 
 ## 什么是 Beta Staking？
 [Beta Staking](https://betastaking.com/) 是一个去中心化协议，用户可以在 Aleo 区块链网络上质押 ALEO 并赚取 Beta 奖励。质押过程非常简单，用户可以通过该协议轻松赚取奖励。Beta Staking 还会向用户发放 stALEO 作为质押凭证，用户可以随时使用该凭证从协议中解锁和提取所质押的 ALEO 本金及收益。
