@@ -23,7 +23,7 @@ tags: [changelog]
 
 ### Others
 - 新的转账交互
-- 支持 [ZNS](https://www.znsconnect.io/) 和 [ANS](https://testnet.aleonames.id/)域名解析
+- 支持 [ZNS](https://www.znsconnect.io/) 和 [ANS](https://aleonames.id/)域名解析
 - 积分商城兑换礼物时需通过验证
 - 导入助记词时检测 Tron 多签
 - 修复 TRC20 转账问题

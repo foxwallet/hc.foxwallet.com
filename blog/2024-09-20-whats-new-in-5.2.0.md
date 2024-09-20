@@ -23,7 +23,7 @@ You can now view Aleo public transaction records and local private transaction r
 
 ### Others
 - New transfer interactions
-- Support for [ZNS](https://www.znsconnect.io/) and [ANS](https://testnet.aleonames.id/) domain name resolution
+- Support for [ZNS](https://www.znsconnect.io/) and [ANS](https://aleonames.id/) domain name resolution
 - Verification required for redeeming gifts in the points mall
 - Detection of Tron multisignature when importing mnemonic phrases
 - Fixed TRC20 transfer issues
