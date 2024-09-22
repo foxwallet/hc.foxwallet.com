@@ -36,13 +36,15 @@ FoxWallet 内置的 Aleo 质押服务由我们的合作伙伴 [Beta Staking](htt
 stALEO 和 ALEO 的汇率在每日奖励发放时更新。最初，质押 1 个 ALEO 可获得 1 个 stALEO。然而，随着质押奖励的产生，每天的 ALEO 奖励会在所有 stALEO 持有者之间平均分配。因此，stALEO:ALEO 汇率会随时间增加, 相同数量的 stALEO 可以赎回更多的 ALEO，从而获得更高的质押奖励。用户可以在信息页面检查当前 stALEO:ALEO 汇率及其历史变化。
 
 ## 如何赎回 ALEO 代币？
-持有 stALEO 代币的用户可以随时从 Beta Staking 赎回。为此，用户需要燃烧相应数量的 stALEO，并根据当前 stALEO:ALEO 汇率计算赎回金额。 
+持有 stALEO 代币的用户可以随时从 Beta Staking 赎回, 首先需要发起赎回请求, 此过程需要燃烧相应数量的 stALEO，并根据当前 stALEO:ALEO 汇率计算赎回金额。 
 
-但请注意，由于 Aleo 官方质押的限制，ALEO 解锁需要大约360个区块或者约10分钟的等待时间。一旦代币解锁完成，页面将显示解锁完成，即可点击“领取”从智能合约中取回 ALEO。  
+但请注意，由于 Aleo 官方质押的限制，ALEO 解锁需要大约360个区块或者约10分钟的等待时间。
+
+一旦代币解锁完成，页面将显示"可领取金额"，即可点击“领取”从智能合约中取回 ALEO。  
 
 <img src="/img/docs/betastaking/unstake-zh.webp" width="240" /> <img src="/img/docs/betastaking/unstake-req-zh.webp" width="240" /> <img src="/img/docs/betastaking/unstake-claim-zh.webp" width="240" />
 
 ## Beta Staking 协议费用是多少？
-在 Beta Staking 的初始阶段，不收取任何协议费用。通过 PoS 获得的所有 ALEO 奖励将均匀分配给质押者。  
+在 Beta Staking 的初始阶段，不收取任何协议费用, 通过 PoS 获得的所有 ALEO 奖励将均匀分配给质押者。  
 
-未来，一旦 Beta Staking 协议运行稳定，Beta Staking计划对质押奖励引入10%的协议费用。费用的具体比例和用途将通过社区治理决定。
+未来，一旦 Beta Staking 协议运行稳定，Beta Staking 计划对质押奖励引入10%的协议费用, 具体细节请关注 Beta Staking 的官方通知和说明。
