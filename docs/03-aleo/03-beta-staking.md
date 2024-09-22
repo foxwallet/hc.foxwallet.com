@@ -36,9 +36,11 @@ The Annual Percentage Rate (APR) is determined by taking into account the stakin
 The exchange rate between stALEO and Aleo Credits is updated on a daily basis when token rewards are distributed. Initially, you will receive 1 stALEO for staking 1 Aleo Credit. However, as you earn staking rewards, the daily Aleo Credits rewards will be evenly distributed among all stALEO holders. As a result, the stALEO:ALEO exchange rate will increase over time. You can check the current stALEO:ALEO exchange rate and its historical changes on the information page.
 
 ## How can I redeem my ALEO tokens?
-If you own stALEO tokens, you can redeem them from Beta Staking at any point. To do this, you must burn the corresponding amount of stALEO and calculate the redemption amount based on the current stALEO:ALEO exchange rate. However, please note that due to the limitations of Aleo's official staking, there is a waiting period for Aleo Credits to become unlocked, which takes approximately 360 blocks or around 10 minutes. Once the tokens are unlocked, the page will indicate that the unlock is complete, and you can click "claim" to retrieve the Aleo Credits from the smart contract.  
+If you own stALEO tokens, you can redeem them from Beta Staking at any point. To do this, you must burn the corresponding amount of stALEO and calculate the redemption amount based on the current stALEO:ALEO exchange rate.  
 
-Note that as time passes, the exchange rate between stALEO and Aleo Credits increases. Therefore, the same amount of stALEO can redeem more Aleo Credits, resulting in higher staking rewards.
+However, please note that due to the limitations of Aleo's official staking, there is a waiting period for Aleo Credits to become unlocked, which takes approximately 360 blocks or around 10 minutes. Once the tokens are unlocked, the page will indicate that the unlock is complete, and you can click "claim" to retrieve the Aleo Credits from the smart contract.  
+
+<img src="/img/docs/betastaking/unstake.webp" width="240" /> <img src="/img/docs/betastaking/unstake-req.webp" width="240" /> <img src="/img/docs/betastaking/unstake-claim.webp" width="240" />
 
 ## What is the cost of the Beta Staking protocol fee?
 No protocol fees will be charged during the initial stages of Beta Staking. All Aleo Credits rewards obtained through PoS will be evenly distributed among the stakers.  

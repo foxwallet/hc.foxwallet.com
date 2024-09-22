@@ -33,12 +33,14 @@ FoxWallet 内置的 Aleo 质押服务由我们的合作伙伴 [Beta Staking](htt
 年百分比收益率（APR）是根据前一天从官方节点获得的质押奖励和通过 Beta Staking 质押的 ALEO 总量计算的。APR 每天 UTC 08:00 更新。计算方法是：将“前一天 UTC 08:00 至当天 UTC 08:00 期间发放的 PoS 奖励总值”乘以365天，再除以当天产品中的 ALEO 平均质押量。虽然 APR 反映了预期收益，但不保证未来的实际收益。
 
 ## stALEO:ALEO 汇率如何确定？
-stALEO 和 ALEO 的汇率在每日奖励发放时更新。最初，质押 1 个 ALEO 可获得 1 个 stALEO。然而，随着质押奖励的产生，每天的 ALEO 奖励会在所有 stALEO 持有者之间平均分配。因此，stALEO:ALEO 汇率会随时间增加。用户可以在信息页面检查当前 stALEO:ALEO 汇率及其历史变化。
+stALEO 和 ALEO 的汇率在每日奖励发放时更新。最初，质押 1 个 ALEO 可获得 1 个 stALEO。然而，随着质押奖励的产生，每天的 ALEO 奖励会在所有 stALEO 持有者之间平均分配。因此，stALEO:ALEO 汇率会随时间增加, 相同数量的 stALEO 可以赎回更多的 ALEO，从而获得更高的质押奖励。用户可以在信息页面检查当前 stALEO:ALEO 汇率及其历史变化。
 
 ## 如何赎回 ALEO 代币？
-持有 stALEO 代币的用户可以随时从 Beta Staking 赎回。为此，用户需要燃烧相应数量的 stALEO，并根据当前 stALEO:ALEO 汇率计算赎回金额。但请注意，由于 Aleo 官方质押的限制，ALEO 解锁需要大约360个区块或者约10分钟的等待时间。一旦代币解锁完成，页面将显示解锁完成，即可点击“领取”从智能合约中取回 ALEO。  
+持有 stALEO 代币的用户可以随时从 Beta Staking 赎回。为此，用户需要燃烧相应数量的 stALEO，并根据当前 stALEO:ALEO 汇率计算赎回金额。 
 
-请注意，随着时间的推移，stALEO 和 ALEO 之间的汇率不断上升。因此，相同数量的 stALEO 可以赎回更多的 ALEO，从而获得更高的质押奖励。
+但请注意，由于 Aleo 官方质押的限制，ALEO 解锁需要大约360个区块或者约10分钟的等待时间。一旦代币解锁完成，页面将显示解锁完成，即可点击“领取”从智能合约中取回 ALEO。  
+
+<img src="/img/docs/betastaking/unstake-zh.webp" width="240" /> <img src="/img/docs/betastaking/unstake-req-zh.webp" width="240" /> <img src="/img/docs/betastaking/unstake-claim-zh.webp" width="240" />
 
 ## Beta Staking 协议费用是多少？
 在 Beta Staking 的初始阶段，不收取任何协议费用。通过 PoS 获得的所有 ALEO 奖励将均匀分配给质押者。  
