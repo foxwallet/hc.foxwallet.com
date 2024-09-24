@@ -7,6 +7,7 @@ keywords:
   - what is aleo
   - transfer aleo
   - aleo mainnet
+  - aleo staking
 ---
 
 # Aleo
@@ -16,7 +17,9 @@ keywords:
 <img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
-**FoxWallet is the world's first mobile decentralized wallet for Aleo, the best Aleo wallet.**
+**FoxWallet is the world's first Aleo mobile wallet, the most user-friendly, secure and decentralized self-hosted wallet, and the best Aleo wallet.**  
+
+The FoxWallet Extension is full [open-source](https://github.com/foxwallet/foxwallet-extension).
 
 ## Usage
 - Download and open [FoxWallet](https://foxwallet.com/download)

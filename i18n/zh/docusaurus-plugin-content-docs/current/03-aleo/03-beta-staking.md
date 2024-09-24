@@ -1,6 +1,12 @@
 ---
 title: BetaStaking 质押
 sidebar_label: BetaStaking
+keywords:
+  - aleo 质押
+  - aleo 理财
+  - aleo stake
+  - aleo 赎回
+  - stALEO
 ---
 
 FoxWallet 内置的 Aleo 质押服务由我们的合作伙伴 [Beta Staking](https://betastaking.com/) 提供支持, 目前仅在 FoxWallet App 内可用。

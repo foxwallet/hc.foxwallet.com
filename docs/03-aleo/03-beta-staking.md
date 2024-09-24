@@ -1,6 +1,11 @@
 ---
 title: BetaStaking FAQ
 sidebar_label: BetaStaking
+keywords:
+ - aleo staking
+ - aleo stake
+ - aleo unstake 
+ - stALEO
 ---
 
 FoxWallet's built-in Aleo staking service is powered by our partner [Beta Staking](https://betastaking.com/) and is currently only available within the FoxWallet App.
