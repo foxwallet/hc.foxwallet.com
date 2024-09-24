@@ -14,7 +14,7 @@ sidebar_label: How it works
 5. Send transaction:
     * Create raw tx on FoxWallet App.
     * Sign tx and complete zero-knowledge-proof on FoxWallet App.
-    * Post signed tx to FoxWallet backed and then broadcast it.
+    * Post signed tx to FoxWallet backend and then broadcast it.
 
 ## Note
 * The purpose of uploading the `view key` to the backend is to allow users to obtain transaction records and balances faster, otherwise users need to synchronize all blocks and decrypt transactions locally, which will consume huge calculations and network transmission. The design of FoxWallet can bring users a better experience. At the same time, please rest assured that we will keep your view key safely and will not leak it to any third party.
