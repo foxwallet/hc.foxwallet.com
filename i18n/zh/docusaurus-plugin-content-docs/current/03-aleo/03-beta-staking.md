@@ -24,7 +24,7 @@ FoxWallet 内置的 Aleo 质押服务由我们的合作伙伴 [Beta Staking](htt
 stALEO 和 ALEO 并不是 1:1 的关系, [点击此链接了解详情](#staleoaleo-汇率如何确定)。
 
 ## 收益何时发放?
-Beta Staking 每天都会发放收益, 体现在你用 stALEO 能赎回的 ALEO 变多了。
+Beta Staking 每天都会发放收益, 收益不会自动发放到地址余额, 而是体现在你用 stALEO 能赎回的 ALEO 变多了。
 
 ## 如何赎回 ALEO 代币？
 首先需要发起赎回请求, 此过程需要燃烧相应数量的 stALEO，并根据当前 stALEO:ALEO 汇率计算赎回金额。 

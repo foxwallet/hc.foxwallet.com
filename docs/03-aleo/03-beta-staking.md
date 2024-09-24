@@ -23,7 +23,7 @@ Yes.
 The exchange rate between stALEO and ALEO is not 1:1, [Click this link for details](#how-is-the-staleoaleo-exchange-rate-determined).
 
 ## When will the income be distributed?
-Beta Staking will distribute income every day, which means that you can redeem more ALEO with stALEO.
+Beta Staking will distribute income every day. The income will not be automatically distributed to the address balance, but will be reflected in the increase in `ALEO` that you can redeem with `stALEO`.
 
 ## How can I redeem my ALEO tokens?
 First, you need to initiate a redemption request, which requires burning the corresponding number of stALEO and calculating the redemption amount based on the current stALEO:ALEO exchange rate. 
