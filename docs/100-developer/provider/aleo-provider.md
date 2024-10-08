@@ -138,6 +138,55 @@ try {
 
 ## Supported Connectors
 
+### [aleo-adapters](https://www.npmjs.com/package/aleo-adapters)
+
+```bash
+npm install aleo-adapters
+```
+
+
+```tsx
+import { useMemo } from "react";
+import { WalletProvider } from "aleo-hooks";
+
+import { 
+  FoxWalletAdapter,
+  configureConnectionForPuzzle 
+} from 'aleo-adapters';
+import "./App.css";
+
+function App() {
+    const wallets = useMemo(
+        () => [
+            new FoxWalletAdapter({
+                appName: 'Aleo app',
+            }),
+        ],
+        [],
+    );
+
+    useEffect(() => {
+        configureConnectionForPuzzle({
+            dAppName: 'Aleo',
+            dAppDescription: 'Aleo description',
+            dAppUrl: `https://${window.location.host}`,
+            dAppIconURL: '',
+        });
+    }, []);
+
+  return (
+    <WalletProvider wallets={wallets} autoConnect>
+      <div className="App">
+        Some content...
+      </div>
+    </WalletProvider>
+  );
+}
+
+export default App;
+```
+
+
 ### [@demox-labs/aleo-wallet-adapter](https://github.com/demox-labs/aleo-wallet-adapter)
 
 ```bash
