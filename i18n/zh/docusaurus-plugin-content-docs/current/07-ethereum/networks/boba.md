@@ -17,5 +17,3 @@ keywords:
 ## 切换到 Boba Mainnet
 
 点击钱包主页左上角的切换按钮 => 选择 Boba Mainnet => 选择一个账户。
-
-<img src="/img/docs/switch-entrance.webp" width="320" />

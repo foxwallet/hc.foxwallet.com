@@ -54,8 +54,8 @@
 
 ### FoxWallet-icon-old
 ```mdx-code-block
-<img src={require('@site/docs/img/icon-blue-600x600.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
-<img src={require('@site/docs/img/FoxWallet-icon-white.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/icon-blue-600x600.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/FoxWallet-icon-white.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
 ```
 * [FoxWallet-icon-blue.ai](./static/FoxWallet-icon-blue.ai)
 * [FoxWallet-icon-blue.svg](./static/FoxWallet-icon-blue.svg)
@@ -64,11 +64,11 @@
 
 ### FoxWallet-logo-old
 ```mdx-code-block
-<img src={require('@site/docs/img/logo-256.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
-<img src={require('@site/docs/img/FoxWallet-logo-01.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
-<img src={require('@site/docs/img/FoxWallet-logo-02.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
-<img src={require('@site/docs/img/FoxWallet-logo-03.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
-<img src={require('@site/docs/img/FoxWallet-logo-04.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/logo-256.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/FoxWallet-logo-01.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/FoxWallet-logo-02.jpg').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/FoxWallet-logo-03.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
+<img src={require('@site/static/img/logo-v3/FoxWallet-logo-04.png').default} width={"120px"} height={"120px"} alt={"FoxWallet"} />
 ```
 * [FoxWallet-logo.ai](./static/FoxWallet-logo.ai)
 * [FoxWallet-logo.svg](./static/FoxWallet-logo.svg)

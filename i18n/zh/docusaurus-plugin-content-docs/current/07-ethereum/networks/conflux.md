@@ -20,5 +20,3 @@ keywords:
 ## 切换至 Conflux eSpace
 
 点击钱包主页左上角的切换按钮 => 选择 Conflux eSpace => 选择一个账户。
-
-<img src="/img/docs/switch-entrance.webp" width="320" />

@@ -15,7 +15,7 @@ Make sure the domain name of FoxWallet's official website is **https://foxwallet
 
 When download from [AppStore](https://apps.apple.com/us/app/foxwallet-secure-crypto-asset/id1590983231), make sure the `DEVELOPER` name is **6Block US**.    
  
-![](./img/appstore.webp)
+![](/img/docs/appstore.webp)
 
 When download from [Google Play](https://play.google.com/store/apps/details?id=com.foxwallet.play), make sure the `DEVELOPER` name is **FoxWallet**.    
 
@@ -47,7 +47,7 @@ When using DApps, FoxWallet can show the detail informations and warning for ris
 
 **You should check the website domain、transfer value and destination、message content to sign、function to call carefully, and take care of the warning message.**
 
-![](./img/sign-msg.webp)![](./img/sign-tx.webp)
+![](/img/docs/sign-msg.webp)![](/img/docs/sign-tx.webp)
 
 
 ## 5. Beware of Phishing Scams

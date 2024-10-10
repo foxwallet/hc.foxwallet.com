@@ -24,7 +24,6 @@ keywords:
 
 Click the switch button in main page => Choose `zkSync Era` => Select one account.
 
-<img src="/img/docs/switch-entrance.webp" width="320" />
 
 ## Transfer
 FoxWallet brings the native funds management support for `zkSync Era`. Simply click the "Send" button in wallet tab, and input the destination address and amount.

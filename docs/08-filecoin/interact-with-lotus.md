@@ -21,8 +21,6 @@ And then you will enter the “Wallets” page.
 
 Click "Add wallet" —> Import private key —> Choose “Lotus private key” —> input your private key —> Submit.
 
-![](../img/import-lotus.webp)
-
 ## Export to lotus
 ### 1. Export private key from FoxWallet  
 

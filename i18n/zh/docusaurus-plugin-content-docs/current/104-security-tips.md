@@ -15,7 +15,7 @@ keywords:
 
 当从 [AppStore](https://apps.apple.com/us/app/foxwallet-secure-crypto-asset/id1590983231) 下载时，请确保 DEVELOPER 名称是 `6Block US`。  
  
-![](./img/appstore.webp)
+![](/img/docs/appstore.webp)
 
 当从 [Google Play](https://play.google.com/store/apps/details?id=com.foxwallet.play) 下载时，请确保 DEVELOPER 名称是 `FoxWallet`。
 

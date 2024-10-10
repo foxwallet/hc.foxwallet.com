@@ -22,5 +22,3 @@ keywords:
 ## Switch to Conflux eSpace
 
 Click the switch button in main page => Choose Conflux eSpace => Select one account.
-
-<img src="/img/docs/switch-entrance.webp" width="320" />

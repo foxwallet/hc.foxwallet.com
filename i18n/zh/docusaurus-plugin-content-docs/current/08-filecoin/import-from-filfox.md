@@ -19,18 +19,16 @@ keywords:
 
 点击 “设置” —> “私钥” —> 输入密码并确认 —> 复制私钥。
 
-![](../img/filfox-export-0.webp)
-![](../img/filfox-export-1.webp)
-![](../img/filfox-export-2.webp)
-![](../img/filfox-export-3.webp)
+![](/img/docs/filfox-export-0.webp)
+![](/img/docs/filfox-export-1.webp)
+![](/img/docs/filfox-export-2.webp)
+![](/img/docs/filfox-export-3.webp)
 
 ## 2. 将私钥导入到 FoxWallet
 
 点击 "我" -> "设置" -> "切换钱包" 进入“管理钱包”页。
 
 接着点击 "添加钱包" —> "导入私钥" —> 设置新钱包的名称 并选择 “Filecoin私钥” —> 粘贴上一步导出的私钥 —> 确定。
-
-![](../img/import-lotus.webp)
 
 
 
