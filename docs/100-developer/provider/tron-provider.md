@@ -11,6 +11,9 @@ function getProvider() {
     window.open("https://foxwallet.com/download");
     throw `Please guide users to download from FoxWallet official website`;
   }
+  if (!provider.ready) {
+    throw `The provider is not ready, please try reopen current page again.`;
+  }
   return provider;
 }
 ```
