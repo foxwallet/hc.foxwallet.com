@@ -1,4 +1,4 @@
-# Ton Provider
+# Tron Provider
 
 **FoxWallet uses the same protocol as TronLink, only support Mainnet and Shasta currently.**
 
