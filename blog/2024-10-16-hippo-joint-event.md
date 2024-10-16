@@ -1,6 +1,6 @@
 ---
 slug: hippo-joint-event
-title: Celebrating $HIPPO listed on FoxWallet, $500 worth of $HIPPO giveaway !
+title: Celebrating $HIPPO listing on FoxWallet, $500 worth of $HIPPO giveaway !
 tags: [announcement, event]
 ---
 
