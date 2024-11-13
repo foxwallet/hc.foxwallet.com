@@ -10,7 +10,9 @@ keywords:
 Welcome to use FoxWallet, we have brought you a brand-new points system, Fox Credit, which aims to motivate users to use various functions of FoxWallet. At the same time, external projects can create tasks in FoxWallet for product promotion.
 
 ## 1. What is Fox Credit
-The Fox Credit is a mechanism designed to reward users and encourage them to use our products more frequently, which can be used to purchase goods in the Credit mall or participate in lucky draws to win more rewards.
+The Fox Credit is a mechanism designed to reward users and encourage them to use our products more frequently, which can be used to purchase goods in the Credit mall or participate in lucky draws to win more rewards.  
+
+Fox Credit has 3 levels, which includes Silver, Golden and Diamond. The more credits you have earned, the higher level you will be. Besides, higher levels represent more user privileges.
 
 ## 2. How to Earn Fox Credits
 
@@ -18,7 +20,7 @@ The Fox Credit is a mechanism designed to reward users and encourage them to use
 - Log in to your wallet every day and click the "Check-in" button on the page to receive a certain amount of points as a reward. Additionally, there's an extra bonus for checking in for 7 consecutive days.
 
 ### 2.2 Invite Friends
-- By inviting your friends to use FoxWallet, you will receive additional points as a reward. Simply use the invitation link or code in FoxWallet to invite friends to register and use our encrypted wallet; both you and your friend will receive points as a reward.
+- By inviting your friends to use FoxWallet, you will receive additional points as a commission reward when your friends complete some tasks. Simply use the invitation link or code in FoxWallet to invite friends to register and use our encrypted wallet; both you and your friend will receive points as a reward.
 - Please note that the number of invitations made before the launch of FoxCredit will not be counted towards rewards.
 
 ### 2.3 Complete a Swap Transaction
