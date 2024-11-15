@@ -60,4 +60,21 @@ const connectors = connectorsForWallets([
 ### [@web3-onboard](https://github.com/blocknative/web3-onboard)
 ```tsx
 import injectedModule from '@web3-onboard/injected-wallets'
+
+const injected = injectedModule({
+  sort: wallets => {
+    const foxWallet = wallets.find(
+      ({ label }) => label === ProviderLabel.FoxWallet
+    )
+
+    return (
+      [
+        foxWallet,
+        ...wallets.filter(
+          ({ label }) => label !== ProviderLabel.FoxWallet
+        )
+      ].filter(wallet => wallet)
+    )
+  }
+})
 ```
