@@ -1,10 +1,10 @@
 ---
-slug: whats-new-in-5-4-0
-title: FoxWallet 5.4.0 - 邀请返佣
+slug: whats-new-in-5-4-1
+title: FoxWallet 5.4.1 - 邀请返佣
 tags: [changelog]
 ---
 
-很高兴地宣布发布 FoxWallet 5.4.0 更新。以下是此次更新的详细信息。 
+很高兴地宣布发布 FoxWallet 5.4.1 更新。以下是此次更新的详细信息。 
 
 <!--truncate-->
 

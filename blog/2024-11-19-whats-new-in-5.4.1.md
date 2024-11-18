@@ -1,10 +1,10 @@
 ---
-slug: whats-new-in-5-4-0
-title: FoxWallet 5.4.0 - Referral to Earn
+slug: whats-new-in-5-4-1
+title: FoxWallet 5.4.1 - Referral to Earn
 tags: [changelog]
 ---
 
-We are pleased to announce the release of FoxWallet 5.4.0 update. Please find below the details of this update.
+We are pleased to announce the release of FoxWallet 5.4.1 update. Please find below the details of this update.
 
 <!--truncate-->
 
@@ -23,7 +23,7 @@ By inviting your friends to use FoxWallet, you will earn points as a commission 
 - Fixed issues with fetching NFTs on [Polygon](https://polygon.technology/)
 - Added `wallet_requestPermissions` support for Ethereum provider
 - Check public balance when validating [BetaStaking](https://betastaking.com/) gas
-- Ready for 3rd anniversary celebrations
+- **Ready for 3rd anniversary celebrations**
 
 ### 
 We are committed to providing you with a better product and user experience. Thank you for your support of FoxWallet! If you encounter any issues or have any feedback, please feel free to contact [us](mailto:contact@foxwallet.com) at any time.
