@@ -27,6 +27,8 @@ tags: [changelog]
 - 支持更多 [Croeum](https://www.coreum.com/) 智能代币管理功能
 - 为以太坊 Provider 添加 `wallet_requestPermissions` 支持
 - [BetaStaking](https://betastaking.com/) 时检查公共余额是否足以支付Gas
+- 提升账户切换性能
+- 修复sunpump连接问题
 
 ### 
 我们致力于为您提供更好的产品和用户体验。感谢您对FoxWallet的支持！ 如果遇到任何问题或有任何建议，请随时与[我们](mailto:contact@foxwallet.com)联系。

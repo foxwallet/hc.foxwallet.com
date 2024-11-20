@@ -26,6 +26,8 @@ By inviting your friends to use FoxWallet, you will earn points as a commission 
 - Fixed issues with fetching NFTs on [Polygon](https://polygon.technology/)
 - Added `wallet_requestPermissions` support for Ethereum provider
 - Check public balance when validating [BetaStaking](https://betastaking.com/) gas
+- Improve account switching performance
+- Fix sunpump connection issue
 
 ### 
 We are committed to providing you with a better product and user experience. Thank you for your support of FoxWallet! If you encounter any issues or have any feedback, please feel free to contact [us](mailto:contact@foxwallet.com) at any time.
