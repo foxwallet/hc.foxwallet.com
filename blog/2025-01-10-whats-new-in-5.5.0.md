@@ -10,6 +10,7 @@ We are pleased to announce the release of FoxWallet 5.5.0 update. Please find be
 
 ### New Features
 - Added networks [Autonomys](https://www.autonomys.xyz/) and [Polkadot](https://polkadot.com/)
+    - Note: Autonomys has not yet opened transfers
 - Support for new token standards on [Aptos](https://aptosfoundation.org/)
 - Manual network switching after DApp connection
 
@@ -21,7 +22,6 @@ We are pleased to announce the release of FoxWallet 5.5.0 update. Please find be
 - Resolved keyboard overlay problem on the swap page
 - Corrected issues with keyboard not hiding on certain pages
 - Fixed errors when deleting tokens
-- Prevented app data migration across devices
 - Fixed TON scanning issues
 - Resolved crashes from invalid TON token data
 - Fixed data display issues in the DeFi tab

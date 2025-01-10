@@ -10,6 +10,7 @@ tags: [changelog]
 
 ### 新功能
 - 新增网络 [Autonomys](https://www.autonomys.xyz/) 和 [波卡](https://polkadot.com/)
+    - 注意: Autonomys 尚未开启转账
 - 支持 [Aptos](https://aptosfoundation.org/) 上的新 Token 标准
 - DApp 连接后支持手动切换网络
 
@@ -21,7 +22,6 @@ tags: [changelog]
 - 修复Swap页面键盘遮挡问题
 - 修复一些页面键盘无法隐藏的问题
 - 修复删除 Token 时的报错问题
-- 禁止 App 数据在设备间迁移
 - 修复 Ton 扫码
 - 修复非法的 Ton Token 数据导致闪退问题
 - 修复 DeFi tab 的数据展示问题
