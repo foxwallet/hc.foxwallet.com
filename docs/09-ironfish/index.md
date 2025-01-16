@@ -31,17 +31,13 @@ keywords:
 * Find and Enable `Iron Fish` 
   <img src="/img/docs/networks-ironfish.webp" width="320" />
 
-* Click "Confirm" to download transfer components  
-  <img src="/img/docs/ironfish-download.webp" width="320" />
-
-* Wait for the download to complete, click "Back"
-  <img src="/img/docs/ironfish-downloaded.webp" width="320" />
-
 * Go to "Wallet" page, [switch network](https://hc.foxwallet.com/docs/basic/manage-funds#switch-networks) to `Iron Fish`
   <img src="/img/docs/switch-to-ironfish.webp" width="320" />
 
-* Now, you can receive and send your IRONs
-  <img src="/img/docs/ironfish-wallet.webp" width="320" />
+* Click the "Sync" button, this will upload your `view key` to FoxWallet backend.
+  <img src="/img/docs/ironfish-sync.webp" width="320" />
+
+* After the sync is done, you can receive and send your IRONs
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
