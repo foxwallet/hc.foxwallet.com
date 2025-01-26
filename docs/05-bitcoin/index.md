@@ -36,6 +36,7 @@ With a simple click on the switch button on the page, users can now switch betwe
 
 ## More
 FoxWallet is the best and most secure Bitcoin wallet with Ordinals NFT and BRC20 Token supported.
+Currently, Bitcoin network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

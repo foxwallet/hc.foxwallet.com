@@ -13,9 +13,9 @@ keywords:
 <img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
-[Qtum](https://qtum.org/) is the world's first smart contract platform based on the Proof-of-Stake (PoS) mechanism. Qtum combines the advantages of Bitcoin and Ethereum and adopts a blockchain design based on the UTXO model. It not only supports the development of smart contracts and decentralized applications (DApps), but also offers security similar to Bitcoin. This new support allows you to manage your assets more diversely on FoxWallet.
+[Qtum](https://qtum.org/) is the world's first smart contract platform based on the Proof-of-Stake (PoS) mechanism. Qtum combines the advantages of Bitcoin and Ethereum and adopts a blockchain design based on the UTXO model. It not only supports the development of smart contracts and decentralized applications (DApps), but also offers security similar to Bitcoin. This new support allows you to manage your assets more diversely on FoxWallet.  
 
-**FoxWallet is the best Qtum wallet.**
+**FoxWallet is the best Qtum wallet. Currently, Qtum network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ## Usage
 * Open [FoxWallet](https://foxwallet.com/download)

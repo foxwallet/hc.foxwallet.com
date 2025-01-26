@@ -1,6 +1,6 @@
 # Ethereum Provider
 
-**FoxWallet's ethereum provider is compatible with MetaMask, and EVM network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
+**FoxWallet employs the same protocol as Metamask. Currently, EVM network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ## GetProvider
 

@@ -17,7 +17,7 @@ keywords:
 
 Sui offers scalability and unprecedented low-latency for simple use cases. Sui makes most transactions processable in parallel. This better utilizes processing resources and offers the option to increase throughput by adding more resources. Sui forgoes consensus to instead use simpler and lower-latency primitives for simple use cases, such as payment transactions and assets transfer. This is unprecedented in the blockchain world and enables a number of new latency-sensitive distributed applications ranging from gaming to retail payment at physical points of sale.
 
-**FoxWallet is the best Sui wallet.**
+**FoxWallet is the best Sui wallet. Currently, Sui network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ## Usage
 * Open [FoxWallet](https://foxwallet.com/download)

@@ -1,6 +1,6 @@
 # Sui Provider
 
-**FoxWallet uses the same protocol as Sui Wallet, and Sui network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
+**FoxWallet employs the same protocol as Sui Wallet. Currently, Sui network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 Use injected provider or [Wallet Standard](https://github.com/wallet-standard/wallet-standard).
 

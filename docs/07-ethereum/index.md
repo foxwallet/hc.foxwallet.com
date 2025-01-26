@@ -11,7 +11,7 @@ sidebar_label: Ethereum Advance
 <img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
-**FoxWallet is the best ethereum wallet, the best eth wallet.**
+**FoxWallet is the best ethereum wallet, the best ETH wallet. Currently, EVM network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

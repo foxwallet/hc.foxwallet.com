@@ -12,7 +12,7 @@ keywords:
 
 # Cosmos
 
-**FoxWallet is the best Cosmos wallet.**
+**FoxWallet is the best Cosmos wallet. Currently, Cosmos network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

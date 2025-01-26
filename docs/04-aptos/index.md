@@ -18,7 +18,7 @@ keywords:
 <img src={require('@site/docs/static/v5/FoxWallet-logo.png').default} width={"80px"} height={"80px"} alt={"FoxWallet"} />
 ```
 
-**FoxWallet is the best Aptos wallet, the best APT wallet.**
+**FoxWallet is the best Aptos wallet, the best APT wallet. Currently, Aptos network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ## Usage
 

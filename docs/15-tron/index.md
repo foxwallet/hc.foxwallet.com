@@ -17,7 +17,7 @@ keywords:
 
 [TRON](https://tron.network/) is an open-source public blockchain platform that supports smart contracts. TRON is compatible with Ethereum, which means that you can migrate smart contracts on Ethereum to TRON directly or with minor modifications. TRON relies on a unique consensus mechanism to realize the high TPS of the TRON network that is far beyond Ethereum, bringing developers a good experience of faster transactions. 
 
-**FoxWallet is the best Tron wallet, the best TRX wallet, the best TRC20 wallet.**
+**FoxWallet is the best Tron wallet, the best TRX wallet, the best TRC20 wallet. Currently, Tron network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ## Usage
 * Open [FoxWallet](https://foxwallet.com/download)

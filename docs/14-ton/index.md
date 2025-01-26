@@ -19,7 +19,7 @@ Proposed first in 2018, TON aims to handle millions of transactions per second i
 
 TON aspires to enable mass adoption through its high-performance and innovative technological solutions, including smart contracts and a multi-chain architecture.
 
-**FoxWallet is the best TON wallet.**
+**FoxWallet is the best TON wallet. Currently, Ton network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ## Usage
 * Open [FoxWallet](https://foxwallet.com/download)

@@ -1,6 +1,6 @@
 # Bitcoin Provider
 
-**FoxWallet uses the same protocol as [UniSat](https://docs.unisat.io/dev/unisat-wallet-api), and Bitcoin network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
+**FoxWallet employs the same protocol as [UniSat](https://docs.unisat.io/dev/unisat-wallet-api). Currently, Bitcoin network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
 
 ### Get Provider
 ```js
