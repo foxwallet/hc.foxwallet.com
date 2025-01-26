@@ -2,7 +2,7 @@
 
 ## EVM Style Provider
 
-**FoxWallet uses the same protocol as [Qnekt](https://github.com/qtumproject/metamask-extension).**
+**FoxWallet uses the same protocol as [Qnekt](https://github.com/qtumproject/metamask-extension), and Qtum network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
 
 ### getProvider
 

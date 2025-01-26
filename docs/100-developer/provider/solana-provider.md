@@ -1,6 +1,6 @@
 # Solana Provider
 
-**FoxWallet uses the same protocol as Phantom.**
+**FoxWallet uses the same protocol as Phantom, and Solana network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
 
 ### Get Provider
 

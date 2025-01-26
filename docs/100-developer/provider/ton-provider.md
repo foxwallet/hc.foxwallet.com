@@ -1,6 +1,6 @@
 # Ton Provider
 
-**FoxWallet uses the same protocol as TonKeeper.**
+**FoxWallet uses the same protocol as TonKeeper, and Ton network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
 
 ## Get Provider
 

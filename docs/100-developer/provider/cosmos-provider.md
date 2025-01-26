@@ -1,6 +1,6 @@
 # Cosmos Provider
 
-**FoxWallet uses the same protocol as Keplr Wallet, only supports Coreum, Sei, Injective and Nibiru currently.**
+**FoxWallet uses the same protocol as Keplr Wallet, only supports Coreum, Sei, Injective and Nibiru currently, and Cosmos network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
 
 ## Get Provider
 

@@ -1,6 +1,6 @@
 # Aptos Provider
 
-**FoxWallet uses the same protocol as Petra.**
+**FoxWallet uses the same protocol as Petra, and Aptos network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported.**
 
 ## Get Provider
 

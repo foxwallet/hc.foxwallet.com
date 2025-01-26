@@ -1,6 +1,6 @@
 # Tron Provider
 
-**FoxWallet uses the same protocol as TronLink, only supports Mainnet and Shasta currently.**
+**FoxWallet uses the same protocol as TronLink, only supports Mainnet and Shasta currently, and Tron network is only supported in FoxWallet mobile app, Chrome plugin is not yet supported**
 
 ## Get Provider
 
