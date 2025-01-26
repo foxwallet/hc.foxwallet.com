@@ -30,7 +30,7 @@ As an unprecedented form of currency, Bitcoin has withstood numerous market test
 * Click the "Send" button to enter the transfer page, and you can initiate a transfer to others.
 
 ### Multiple Address Formats
-<img src="/img/blog/rebranding-v5/bitcoin-switch-formats.webp" width="320" />
+* <img src="/img/docs/bitcoin-address-formats.webp" width="320" />
 
 With a simple click on the switch button on the page, users can now switch between multiple bitcoin address formats, including Legacy, Nested Segwit, Native Segwit, and Taproot, enhancing flexibility.
 
