@@ -58,6 +58,8 @@ const connectors = connectorsForWallets([
 ```
 
 ### [@web3-onboard](https://github.com/blocknative/web3-onboard)
+- [@web3-onboard/injected-wallets](https://www.npmjs.com/package/@web3-onboard/injected-wallets) version above **2.10.14** required
+
 ```tsx
 import injectedModule from '@web3-onboard/injected-wallets'
 
