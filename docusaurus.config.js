@@ -97,7 +97,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{name: 'keywords', content: 'FoxWallet, Fox Wallet, filecoin, ethereum, ipfs, 6Block, Fox 钱包, 狐狸钱包, 以太坊'}],
+      metadata: [{name: 'keywords', content: 'FoxWallet, Fox Wallet, filecoin, ethereum, ipfs, Fox 钱包, 狐狸钱包, 以太坊, Aleo'}],
       navbar: {
         title: 'Help Center',
         logo: {
