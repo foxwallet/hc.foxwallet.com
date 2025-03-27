@@ -1,6 +1,6 @@
 # Ethereum Provider
 
-**FoxWallet employs the same protocol as Metamask. Currently, EVM network is only supported in the FoxWallet mobile app, with Chrome extension support coming soon.**
+**FoxWallet employs the same protocol as Metamask.**
 
 ## GetProvider
 
