@@ -47,5 +47,4 @@
 ## Telegram Admin
 - FoxWallet Official: [@FoxWalletOfficial](https://t.me/FoxWalletOfficial)
 - O͜͡f͜͡f͜͡i͜͡c͜͡e͜͡r͜͡ ͜͡B͜͡ | (•⟩⟩⟩: [@BILIRENALDI](https://t.me/BILIRENALDI)
-- Andrew: [@Andrew06040301](https://t.me/Andrew06040301)
 - Aya: [@Ame_Sue](https://t.me/Ame_Sue)
