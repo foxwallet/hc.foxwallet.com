@@ -1,7 +1,7 @@
 # Privacy Policy
-Last Updated: Aug 3, 2023.  
+Last Updated: Sep 9, 2025.  
 
-FOXWALLET FOUNDATION LTD. ("FoxWallet", "us" or "We") respects and protects the privacy and information of Users ("you" or "Users"). FoxWallet will collect and use your Personal Information, generated from your use of FoxWallet in accordance with this Privacy Policy ("Policy").
+BlockHill Tech Limited ("FoxWallet", "us" or "We") respects and protects the privacy and information of Users ("you" or "Users"). FoxWallet will collect and use your Personal Information, generated from your use of FoxWallet in accordance with this Privacy Policy ("Policy").
 
 FoxWallet recommends that you shall carefully read and understand the whole contents of this Policy before your use of the product ("FoxWallet"). If you do not agree with any content of this policy, you should immediately stop using the product. When you use our product, you are deemed to agree and fully understand the full content of this privacy policy.
 
@@ -100,5 +100,5 @@ The following special provisions apply to minors who are under the age of 18 yea
 ## 
 As for any issues not covered in this Policy, you shall comply with the announcements and relevant rules as updated by FoxWallet from time to time.
 
-FOXWALLET FOUNDATION LTD.
+BlockHill Tech Limited
 
