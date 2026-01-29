@@ -150,10 +150,6 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/FoxWallet',
               },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/foxwallet',
-              },
             ],
           },
           {

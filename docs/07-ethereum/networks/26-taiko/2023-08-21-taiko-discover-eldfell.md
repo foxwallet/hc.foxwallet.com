@@ -185,7 +185,7 @@ First of all, the first task is a relatively simple social media task.
 - After answering the question, click Submit and Claim 1 Box
 
 ### The Discover Eldfell (Taiko L3 testnet) mission is all completed
-- At the same time, for Taiko's testnet activities, FoxWallet also opened the Discord Faucets channel: https://discord.gg/foxwallet
+- At the same time, for Taiko's testnet activities, FoxWallet also opened the Discord Faucets channel
 - If you need, you can comment on your wallet address on our Faucets channel in DC. We will randomly airdrop, and volunteers will send water to your wallet in time.
   <img src="/img/blog/taiko-discover-eldfell/26.webp" width="640" />
 

@@ -185,7 +185,7 @@ authors: FoxWalletDaily
 - 回答完毕，点击 `Submit` 和 `Claim 1 Box`
 
 ### 到这里，Discover Eldfell (Taiko L3 testnet)任务就全部完成了
-- 同时，针对于Taiko的测试网活动，FoxWallet也开启了Discord领水频道: https://discord.gg/foxwallet
+- 同时，针对于Taiko的测试网活动，FoxWallet也开启了Discord领水频道
 - 如果你有需要，可以在我们Dc的Faucets频道去评论你的钱包，我们会随机空投，志愿者会及时将水发送至你的钱包
   <img src="/img/blog/taiko-discover-eldfell/26.webp" width="640" />
   

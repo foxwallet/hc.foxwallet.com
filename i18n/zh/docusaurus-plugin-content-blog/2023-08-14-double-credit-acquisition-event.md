@@ -20,7 +20,7 @@ Zealy任务包括:
 - [关注 FoxWallet Twitter 账号，点赞、转发活动推文](https://twitter.com/FoxWallet)
 - 发推介绍我们：推文需要包含 “Fox Credit” 这几个词
 - [加入 Telegram 群组](https://t.me/FoxWallet_EN)
-- [加入 Discord](https://discord.gg/foxwallet)
+- 加入 Discord
 - 完成FoxWallet每日任务
 - 邀请好友
 

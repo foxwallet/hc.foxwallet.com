@@ -20,7 +20,7 @@ Zealy tasks include:
 - [Follow Twitter, like, retweet the event tweet](https://twitter.com/FoxWallet)
 - Tweet about us: including the words “Fox Credits”
 - [Join Telegram](https://t.me/FoxWallet_EN)
-- [Join Discord](https://discord.gg/foxwallet)
+- Join Discord
 - Finish FoxWallet Daily Task
 - Invite friends
 

@@ -52,6 +52,5 @@ If you would like to accompany us further on this journey or have any feedback, 
 ## FoxWallet Official Recourses
 - Official website: https://foxwallet.com/
 - Twitter: https://twitter.com/FoxWallet
-- Discord: https://discord.gg/foxwallet
 - Telegram: https://t.me/FoxWallet_EN
 - FoxWallet Medium: https://medium.com/@FoxWallet
