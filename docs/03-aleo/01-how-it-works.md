@@ -18,4 +18,3 @@ sidebar_label: How it works
 
 ## Note
 * The purpose of uploading the `view key` to the backend is to allow users to obtain transaction records and balances faster, otherwise users need to synchronize all blocks and decrypt transactions locally, which will consume huge calculations and network transmission. The design of FoxWallet can bring users a better experience. At the same time, please rest assured that we will keep your view key safely and will not leak it to any third party.
-* **FoxWallet Extension** is full [open-source](https://github.com/foxwallet/foxwallet-extension), and syncs data locally with **NO** `view key` uploaded.
